@@ -1,0 +1,1207 @@
+query,ground_truth_answer,traditional_faithfulness,traditional_answer_relevancy,traditional_context_recall,traditional_context_precision,traditional_entity_recall,modified_faithfulness,modified_answer_relevancy,modified_context_recall,modified_context_precision,modified_entity_recall
+When did the tradition of people carrying the Olympic torch before the Olympic games begin?,1936 Summer Olympics.,0.578012228,0.887132883,1,0.033333333,0,0.562440515,0.822821617,1,0.033333333,0
+How many days did people carry the Olympic torch before the 2008 Summer Olympics?,129 days,0.102277651,0.279647827,0.333333333,0.032258065,0,0.105752453,0.151577428,0.333333333,0.166666667,0
+What was the theme for the torch relay?,"one world, one dream",0.536012053,0.760057926,0,0,0,0.838545144,0.65009141,0,0,1
+What did the organizers of the torch relay call it?,Journey of Harmony,0.710682034,0.797665119,0,0,0,0.612811625,0.773902416,0,0,0
+What was the 2008 Olympic slogan?,"one world, one dream",0.486064494,0.708866119,0.5,0.066666667,1,0.214434385,0.265691906,0.5,0.066666667,1
+Where were the details of the torch relay made known?,"Beijing, China.",0.655024409,0.712221682,0,0,0.5,0.670654237,0.896685123,0,0,0
+What was the torch relay referred to as by organizers?,Journey of Harmony,0.660728812,0.75311923,0,0,0,0.597783327,0.728050828,0,0,0
+How many miles was the Olympic torch relayed?,"85,000 mi",0.281957209,0.515241921,1,0.033333333,1,0.423472136,0.475404531,0,0,0
+What day was the Olympic torch lit for the 2008 games?,Mar-24,0.766510427,0.854083419,0.5,0.034482759,1,0.749784708,0.854317069,0.5,0.125,1
+Where did the Olympics originate?,"Olympia, Greece",0.321171284,0.817941606,0,0,0,0.321171284,0.817941606,0,0,0
+When did the Olympic torch reach Beijing?,Mar-31,0.154704332,0.181852639,1,0.064516129,1,0.182015628,0.181852639,0.5,0.125,1
+How many continents did the torch visit after Beijing?,six,0.552764058,0.750198722,0,0,1,0.153400451,0.186420038,1,0.125,0
+The torch was on what road to symbolize historic links between China and the world?,Silk Road,0.294777572,0.493800879,1,0.037037037,0,0.648672342,0.874091029,1,0.037037037,0
+Where was the Olympic torch lit?,"Olympia, Greece",0.392882466,0.473766625,1,0.03030303,1,0.426329881,0.739940166,0,0,1
+What date was the Olympic torch lit?,Mar-24,0.229830593,0.399971366,1,0.03030303,1,0.456813365,0.319841772,0,0,0
+What is the name of the stadium in Greece were the torch was taken to?,Panathinaiko Stadium,0.587828517,0.830032229,1,0.041666667,0,0.293350279,0.528749466,1,0.041666667,0
+What date did the Olympic torch arrive at its destination in China?,March 31.,0.163652167,0.273590893,1,0.074074074,0,0.252310574,0.298762292,0.5,0.111111111,1
+What mountain was the torch taken up?,Mount Everest,0.306660265,0.479726136,0,0,1,0.306660265,0.479726136,0,0,1
+How many people protested on the San Francisco torch route?,hundreds,0.547172308,0.68733573,1,0.066666667,1,0.734197438,0.452281654,0,0,0
+How many people protested at the Pyongyang torch route?,effectively none,0.549079955,0.751298547,1,0.047619048,0,0.019752115,0.167144239,1,0.047619048,0
+What were some groups doing along the torch route that was not supportive of the Olympics?,protesting,0.120116524,0.134164751,0,0,0,0.120116524,0.134164751,0,0,0
+Who put out the torch along the route for protection?,Chinese security officials,0.184000432,0.15826638,0,0,0,0.498421818,0.28397584,0,0,1
+Who condemned the various attacks on the torch relay route?,the Chinese government,0.31140089,0.269757301,0,0,0,0.63342154,0.81660676,0,0,0
+"In San Francisco, who had a larger presence than the protesters? ",supporters,0.590284169,0.885974705,1,0.055555556,0,0.704740465,0.885974705,1,0.166666667,0
+Who overwhelmed the protesters in Japan?,counter-protesters,0.631189704,0.845219553,1,0.055555556,0,0.619759023,0.823073983,1,0.055555556,0
+Who amassed in large scale against protesters?,counter-protesters,0.298095644,0.277592421,0,0,0,0.21050027,0.192692518,0,0,0
+What was said to have occurred between some supporters and protesters?,skirmishes,0.678324819,0.638734579,0,0,0,0.594152927,0.735472918,0,0,0
+What three areas of the globe were protests reported as not big?,"Latin America, Africa, and Western Asia",0.616537273,0.537104487,0,0,0.666666667,0.55664587,0.726416826,0,0,0.666666667
+Who is the president of the International Olympic Committee?,Jacques Rogge,0.282674879,0.298737645,1,0.05,0,0.406894326,0.26870349,0,0,0
+Athletes wearing what kind of flag at any Olympic venue faced the possibility of expulsion from the Olympics?,Tibetan,0.650092125,0.792734921,0.5,0.083333333,1,0.650092125,0.792734921,0.5,0.083333333,1
+"Because of the relay issues, IOC decided to no longer have what in subsequent Olympics?",global relays,0.404417992,0.395513773,0.5,0.111111111,0,0.67554009,0.728741109,0.5,0.111111111,0
+"What is the name of the man who said the protesting of the torch relay as a ""crisis""?",Jacques Rogge,0.209780157,0.216784984,0,0,0,0.466879606,0.121262535,0,0,0
+What could happen to Olympic sports participants who showed a Tibetan flag at events?,could be expelled,0.651777327,0.825070143,1,0.181818182,0,0.783264041,0.830836833,1,0.333333333,0
+Who asked that the torch relay be ended?,IOC members.,0.642554998,0.831886172,0,0,0,0.559938133,0.1522616,0,0,0
+What was halted with the torch relay for future Olympics?,global relays,0.667705297,0.810010195,0,0,0,0.426580966,0.834659338,0,0,0
+The international torch relay was canceled for what event in June 2008?,Paralympic Games,0.36942777,0.292813897,0,0,0,0.38172555,0.331152022,0,0,0
+For what events was the torch relay decided to not be held?,Paralympic Games,0.784994543,0.729869246,0,0,0,0.740344763,0.728125334,0,0,0
+What is the Chinese design used on the Olympic Torch?,Lucky Cloud,0.566249728,0.757279158,0.5,0.05,0,0.219719857,0.236669719,0.5,0.142857143,0
+What is the Olympic Torch made from?,aluminum.,0.545421898,0.830443382,0,0,0,0.264258772,0.370003641,0,0,0
+How much does the Olympic Torch weigh?,985 grams,0.09019573,0.363455474,1,0.034482759,1,0.550254703,0.363455474,0,0,1
+What is used to light the flame on the Olympic Torch?,An ignition key,0.710848451,0.801836729,0,0,0,0.312887311,0.107094184,0,0,0
+What was the design name of the Chinese Olympic Torch?,Lucky Cloud,0.71374619,0.84108299,0,0,0,0.517909527,0.799947262,0,0,0
+What metal is the torch constructed from?,aluminum.,0.567172468,0.83998251,0,0,0,0.442403615,0.487949669,0,0,0
+What wind speed will the torch flame still stay lit in MPH?,37,0.68106389,0.841879249,0,0,0,0.697915435,0.856812835,0,0,0
+How much rainfall in inches per hour can the torch stay lit under?,2,0.570659518,0.890666246,0,0,0,0.286838204,0.463490397,0,0,0
+What fuel is used for the torch?,propane.,0.616998196,0.729679704,0,0,0,0.780235529,0.729679704,0,0,0
+"When it was necessary for the Olympic Torch to be on an airplane, which one was used?",a chartered Air China Airbus A330,0.662803888,0.888004541,0,0,0,0.605818391,0.643239915,0,0,0
+What color was the chartered plane?,red and yellow,0.452281833,0.836017489,0,0,0,0.471675336,0.735477805,0,0,0
+When was it decided that Air China would be the official torch carrier?,Mar-08,0.804234505,0.834043026,1,0.043478261,1,0.307488263,0.822090566,0,0,0
+How many days did the plane travel?,130 days,0.16689992,0.458974928,0,0,1,0.464431465,0.810830534,0,0,1
+What type of aircraft did the Torch team travel in?,Airbus A330,0.65415436,0.773112297,0,0,0,0.569073498,0.746289849,0,0,0
+What colors was the aircraft painted?,red and yellow,0.559116364,0.755449951,0,0,0,0.559116364,0.755449951,0,0,0
+What was the name of the airline that transported the Olympic Torch?,Air China,0.708949447,0.859048605,0,0,1,0.718671203,0.847518921,0,0,1
+How many days did the plane travel with the Torch team?,130,0.127716005,0.372611165,0,0,0,0.127716005,0.372611165,0,0,0
+How many different places were visited by the aircraft taking the Torch team?,21,0.123080395,0.248111084,0,0,1,0.298886716,0.253673375,0,0,0
+How many continents did the torch visit?,six,0.078145847,0.282063127,0,0,1,0.364289969,0.302443087,0,0,1
+What was the stop that was to happen between Ho Chi Minh City and Hong Kong?,Taipei,0.546896577,0.78371489,1,0.083333333,1,0.546896577,0.78371489,1,0.083333333,1
+The Republic of China felt that the wrong decision could place Taiwan on the same level as what two areas?,Hong Kong and Macau,0.262132287,0.334384143,0.666666667,0.095238095,1,0.570091307,0.334384143,0.333333333,0.166666667,1
+The torch route covered six what?,continents,0.25601086,0.356820464,1,0.041666667,0,0.325373709,0.356820464,1,0.083333333,0
+What government disagreed on the language used to describe the torch route?,Taiwan.,0.43180114,0.531185091,0,0,0,0.43180114,0.531185091,0,0,0
+What two places did Taiwan not want to be considered equal with in the language of the torch's route description?,Hong Kong and Macau,0.606055975,0.817459822,0.5,0.047619048,1,0.417119324,0.498048067,0.5,0.125,1
+How many kilometers was the torch supposed to go through Taiwan?,24,0.706293344,0.864895642,1,0.035714286,0,0.515168071,0.394525766,1,0.166666667,0
+On what date did the Olympic Flame get lit?,"March 24, 2008",0.199549153,0.365925431,1,0.04,1,0.44252336,0.365925431,0,0,1
+Where did the Olympic Flame get lit?,"Olympia, Greece.",0.398945063,0.365028054,1,0.043478261,1,0.611166716,0.734777033,0,0,1
+Who was the first person to carry the torch?,Alexandros Nikolaidis,0.560788214,0.675074816,1,0.033333333,1,0.605784535,0.185283616,0,0,0
+Who initially lit the Olympic Torch?,Maria Nafpliotou,0.384934455,0.238816723,0,0,0,0.143840268,0.136550516,0,0,0
+When did demonstrators yell for Tibet to be freed?,"March 30, 2008",0.62739408,0.854100943,0,0,0,0.121875584,0.141303897,0,0,0
+Where is the location of the original Olympic events?,"Olympia, Greece.",0.5161497,0.702227235,0,0,1,0.5161497,0.702227235,0,0,1
+What is the name of the woman who lit the torch for the new games?,Maria Nafpliotou,0.489169478,0.842265248,0,0,1,0.43865481,0.827808499,0,0,1
+What medal did the first torchbearer have from prior games?,silver,0.716398597,0.697233856,1,0.04,0,0.63834244,0.898138702,1,0.04,0
+What is the name of the first torchbearer for the 2008 Olympics?,Alexandros Nikolaidis,0.633391082,0.775330007,0.5,0.034482759,1,0.062343262,0.20682314,0,0,0
+What place had police experience violent problems with protesters?,Nepal.,0.724877834,0.675594628,0,0,0,0.256618977,0.304645866,0,0,0
+Action was taken to boycott which company?,Carrefour,0.556301117,0.80345428,0,0,0,0.522274911,0.746367335,0,0,0
+Who was the biggest shareholder of Carrefour?,the LVMH Group,0.344163537,0.767471492,1,0.071428571,1,0.683247149,0.786347389,1,0.125,1
+What did some protesters burn?,the French flag,0.514041543,0.685356796,0,0,0,0.608289301,0.735678136,0,0,0
+Where were anti-protesters blocked from entering a Carrefour store with Chinese flags?,Kunming,0.695926309,0.771710873,1,0.1,1,0.300800681,0.384183049,1,0.1,1
+Who was said to have given money to the Dalai Lama?,the LVMH Group,0.563692391,0.662950516,0,0,1,0.736849427,0.125846118,0,0,0
+What method did the Chinese government use to ease the boycott situation?,censorship,0.637027264,0.702718616,1,0.043478261,0,0.825715065,0.693787217,1,0.166666667,0
+What French company was being boycotted?,Carrefour,0.746025622,0.63159126,1,0.066666667,0,0.746025622,0.63159126,1,0.066666667,0
+In what publication were Chinese people asked to be orderly and legal because of the protests and demonstrations?,People's Daily,0.271569252,0.273445427,1,0.058823529,0,0.271569252,0.273445427,1,0.058823529,0
+What is the name of the publication where Chinese people were advised to be calm and rational about patriotism?,People's Daily,0.181175798,0.162317187,1,0.066666667,0,0.182978213,0.154905558,1,0.066666667,0
+The Chinese people were told to show patriotism in an orderly and what manner?,legal,0.322205067,0.481731683,1,0.111111111,0,0.322205067,0.481731683,1,0.111111111,0
+What virgin site did the torch visit on April 2?,Almaty,0.662971556,0.636628568,0,0,0,0.662971556,0.636628568,0,0,0
+Who was the first person to be handed the torch in Almaty?,Nursultan Nazarbaev.,0.311591566,0.233136997,1,0.066666667,1,0.245457023,0.215012476,1,0.066666667,1
+Who is Nursultan Nazarbaev?,the President of Kazakhstan,0.577833652,0.446556538,1,0.043478261,1,0.367734313,0.438676864,1,0.043478261,1
+The route in Almaty went from Medeo Stadium to where?,Astana Square.,0.350909084,0.605344951,0.5,0.034482759,1,0.393998623,0.837190807,0.5,0.034482759,1
+What kind of activists were arrested in Almaty?,Uighur activists,0.3567321,0.409251124,1,0.047619048,1,0.432021916,0.554141879,1,0.047619048,1
+What country did the torch get to for the first time?,Kazakhstan,0.552384973,0.411031395,1,0.037037037,0,0.483805299,0.259445548,0,0,0
+What is the name of the president who was the first torchbearer in Almaty?,Nursultan Nazarbaev.,0.51858151,0.790405273,1,0.086956522,1,0.51858151,0.790405273,1,0.086956522,1
+What was the distance in kilometers for the route in Kazakhstan?,20,0.368768185,0.544132233,1,0.041666667,0,0.239198744,0.542874813,1,0.041666667,0
+What activists were reported to have been arrested?,Uighur,0.911906779,0.509948254,0,0,0,0.635565639,0.614772141,0,0,0
+When was the torch in Istanbul?,Apr-03,0.732316256,0.735463381,1,0.037037037,1,0.314076185,0.229335025,1,0.125,1
+Where did the torch end up in Istanbul?,Taksim Square,0.600558698,0.67464447,1,0.033333333,0,0.676688194,0.67464447,1,0.142857143,0
+Where did the torch start in Instanbul?,Sultanahmet Square,0.071891546,0.164279819,0,0,0,0.12312679,0.155573785,0,0,0
+Who protested for their compatriots who were in Xinjiang?,Uyghurs living in Turkey,0.610192001,0.53132987,0,0,0,0.59580183,0.612524807,0,0,0
+What city was the Olympic Torch at on April 3rd?,Istanbul,0.708736181,0.769496024,0,0,0,0.351113677,0.78804934,0,0,0
+What is the name of the place in the city where the torch relay started in Turkey?,Sultanahmet Square,0.202709854,0.304770052,1,0.033333333,0,0.751463652,0.840662599,0,0,0
+Where did the torch relay finish in Turkey?,Taksim Square.,0.67825532,0.853739858,1,0.037037037,0,0.650487542,0.701806724,0,0,0
+What people in Turkey protested for their people living in China?,Uyghurs,0.633307636,0.815153599,0.5,0.041666667,0,0.633307636,0.815153599,0.5,0.041666667,0
+What happened to protesters who tried to interrupt the carrying of the torch?,arrested,0.714973927,0.744223297,0,0,0,0.610792756,0.743845463,0,0,0
+When did the torch arrive in Saint Petersburg?,Apr-05,0.537199676,0.812597513,0,0,1,0.216362596,0.170733899,1,0.125,0
+Where was the start of the torch route in Saint Petersburg?,Victory Square,0.57855612,0.751773715,0,0,0,0.384674489,0.254386365,1,0.142857143,0
+Where did the torch route end in Saint Petersburg?,Palace Square,0.632602334,0.670988381,0,0,0,0.766137719,0.707660675,1,0.142857143,1
+Who is the first MMA fighter to participate in carrying the Olympic torch?,Fedor Emelianenko,0.672743082,0.698152423,1,0.08,1,0.279622585,0.204253048,1,0.08,1
+Where in Russia was the first stop for the relay?,Saint Petersburg,0.516465962,0.877172232,1,0.086956522,0,0.029090002,0.475148022,0,0,0
+What city location did the torch relay begin in Russia?,Victory Square,0.658885717,0.840731502,1,0.038461538,0,0.826704383,0.831026614,0,0,0
+What was the last location for the relay in Russia?,Palace Square.,0.491465032,0.880647182,1,0.043478261,0,0.491465032,0.880647182,1,0.043478261,0
+What is the name of the MMA fighter who carried the torch in Russia?,Fedor Emelianenko,0.331421554,0.333971232,0.5,0.037037037,1,0.288155526,0.310388923,0.5,0.037037037,1
+Which city hosted the 2012 Summer Olympics?,London,0.542970836,0.877428412,0,0,1,0.340938747,0.257180154,0,0,1
+When did the torch route begin in London?,Apr-06,0.68512392,0.739055574,1,0.038461538,1,0.321243703,0.196689576,0,0,0
+How much did security cost for the torch relay in London?,"£750,000",0.66380012,0.920402169,1,0.052631579,1,0.564887166,0.376462311,0,0,1
+What city held the Olympics in 2012?,London,0.274079084,0.323062479,0,0,1,0.314292908,0.323062479,0,0,1
+Where did the torch relay begin in London for the 2008 Olympics?,Wembley Stadium,0.756433368,0.897587299,0.5,0.035714286,1,-0.018467499,0.131533086,0,0,0
+Where did the relay end in London?,O2 Arena,0.654206872,0.744246125,1,0.037037037,1,0.43347317,0.885807693,0,0,0
+How many miles was the relay in England?,30 mi,0.277483821,0.495589674,0,0,1,0.557848215,0.884514749,0,0,1
+What word was used by London officials to describe Chinese security guards for their treatment of protesters?,thugs,0.596692562,0.875661612,1,0.166666667,0,0.621355176,0.889634132,1,0.166666667,0
+How many torchbearers took part in the London route?,80,0.059882034,0.226922527,1,0.035714286,0,0.329565465,0.222141534,0,0,1
+Who was the first person to hold the torch for the London route?,Sir Steve Redgrave,0.0112711,0.105053872,1,0.064516129,0,0.668813169,0.286924183,0,0,1
+"Along with Francesca Martinez, who decided to not carry the torch?",Richard Vaughan,0.469302505,0.444556236,1,0.0625,1,0.015815239,0.609400272,0,0,0
+Who was outside at 10 Downing Street to welcome the torch without actually touching it?,Prime Minister Gordon Brown,0.133436829,0.212432802,0,0,1,0.133436829,0.212432802,0,0,1
+Who got emails asking him to boycott the torch relay?,Sir Steve Redgrave,0.205157563,0.15066123,0,0,1,0.205157563,0.15066123,0,0,1
+How many people carried the torch in England for the 2008 Olympics?,80,0.111893989,0.205719501,0,0,0,0.111893989,0.205719501,0,0,0
+What two people in England declined to bear the torch?,Francesca Martinez and Richard Vaughan,0.415136337,0.630267739,0,0,1,0.482236087,0.659158349,0,0,1
+Where did Gordon Brown welcome the torch?,10 Downing Street,0.585334063,0.714771688,1,0.052631579,1,0.613752246,0.714771688,0,0,1
+Where was an attempt made to take the torch?,Ladbroke Grove,0.779744327,0.650829554,0,0,0,0.291761875,0.037262894,0,0,0
+When did the torch relay in Paris occur?,Apr-07,0.605646849,0.849984407,1,0.041666667,1,0.234773025,0.212539464,0,0,0
+Where did the Paris route start for the torch relay?,the Eiffel Tower,0.297876745,0.555320144,1,0.038461538,0,0.556867182,0.591795802,0,0,0
+"Rather than being carried by an athlete, how did the torch end its route in Paris?",by bus,0.63860023,0.786250472,1,0.035714286,0,0.66436851,0.789666176,1,0.037037037,0
+The flame of the torch was put out when David Douillet was ready to hand it to who?,Teddy Riner,0.45631811,0.786053181,1,0.052631579,0,0.421434164,0.096324578,0,0,1
+What date did the torch relay begin in France?,Apr-07,0.674415588,0.890766501,1,0.041666667,1,0.20175153,0.299750328,0,0,0
+What city in France did the torch relay start at?,Paris,0.561369777,0.589573979,1,0.045454545,1,0.36165309,0.434212893,0,0,0
+Where location was the torch relay started in the city in Paris?,Eiffel Tower,0.493530035,0.679812789,1,0.045454545,0,0.546503723,0.291804969,0,0,0
+About how many police were said to have protected the torch in France?,"(3, 0)",0.236260116,0.424706966,1,0.058823529,0,0.333028734,0.166474015,0,0,0
+How many times was the torch put out in France die to security concerns?,five,0.670989931,0.71716553,1,0.058823529,0,0.670989931,0.71716553,1,0.058823529,0
+Who threw a a Tibetan flag from a City Hall window?,Green Party officials.,0.30202806,0.388123512,0.5,0.090909091,0,0.377938181,0.26942879,0.5,0.2,1
+Which torchbearer was in a wheelchair?,Jin Jing,0.242826268,0.308214545,0,0,1,0.242826268,0.308214545,0,0,1
+What was Jin Jing called by ethnic Chinese?,Angel in Wheelchair,0.596437931,0.779398203,1,0.086956522,0,0.596437931,0.779398203,1,0.086956522,0
+What was stopped due to protest interruptions?,torch relay ceremony,0.468298495,0.720297873,0,0,0,0.477961004,0.558583021,0,0,0
+What is the name of the handicapped bearer of the torch?,Jin Jing,0.532851875,0.744183421,0,0,1,0.532851875,0.744183421,0,0,1
+What did the ethnic Chinese call the disabled torch bearer?,Angel in Wheelchair,0.524586856,0.400088489,1,0.045454545,0,0.524586856,0.400088489,1,0.045454545,0
+Who put a flag of Tibet out of the window at City Hall?,Green Party officials.,0.123469204,0.123705931,0.5,0.058823529,0,0.38684845,0.271028578,0,0,1
+Which organization planned several protests?,Reporters Without Borders,0.625418484,0.648823798,0,0,0,0.440284073,0.644387782,0,0,0
+What did Reporters Without Borders scale in order to put a protest banner on it?,the Eiffel Tower,0.580764771,0.749058902,1,0.045454545,1,0.580764771,0.749058902,1,0.045454545,1
+Which cathedral did Reporters Without Borders hang another protest banner?,Notre Dame cathedral,0.102721065,0.422306418,1,0.066666667,1,0.262156367,0.448598802,1,0.166666667,0
+What was hung from the Eiffel Tower?,banner,0.560444593,0.937367201,1,0.047619048,0,0.452161372,0.16607219,1,0.047619048,0
+Who climbed the Eiffel Tower to hang a protest banner?,Reporters Without Borders,0.653118134,0.766373754,1,0.05,0,0.116037309,0.175759196,1,0.05,0
+Where else was a copy of the banner at Eiffel Tower hung?,Notre Dame cathedral.,0.541689634,0.807851553,1,0.04,1,0.541689634,0.807851553,1,0.038461538,1
+Where did hundreds of pro-Tibet protesters meet?,the Trocadéro,0.685723364,0.667328358,0,0,1,0.305266052,0.250912696,0.5,0.166666667,0
+Who spoke to the media about China's lack of freedom of speech?,Jane Birkin,0.591882348,0.828026652,1,0.066666667,0,0.327956796,0.22645241,0,0,1
+Who is the President of the French Tibetan community that urged protesters to remain peaceful?,Thupten Gyatso,0.139947921,0.235090643,1,0.095238095,0,0.455552876,0.235090643,1,0.285714286,0
+Where did pro-Tibetan protesters get together?,Trocadéro,0.462499976,0.471563727,0,0,0,0.336391062,0.214060813,0,0,0
+The Trocadéro was not disruptive of the relay and said to have been what?,peaceful,0.486396551,1.000000119,0,0,0,0.486396551,1.000000119,0,0,0
+"Who, of the Trocadéro protest, spoke to the media?",Jane Birkin,0.602264404,0.491295397,1,0.038461538,0,0.602264404,0.491295397,1,0.038461538,0
+What did the person who spoke to the media at Trocadéro say China lacked?,freedom of speech,0.596446991,0.707217336,1,0.1,0,0.524560809,0.477966785,1,0.1,0
+What did the political parties request a brief stop in?,the National Assembly's session,0.295752048,0.742872298,0,0,0,0.362799823,0.780273199,0,0,0
+What text was on the banner that the politicians unrolled outside?,Respect for Human Rights in China,0.660753191,0.645642996,0,0,1,0.663442075,0.631746829,0,0,1
+What did MPs yell when the torch passed them?,Freedom for Tibet!,0.387618363,0.5054093,0,0,1,0.375702649,0.512164652,0,0,1
+Various French politicians started protests including members of what?,Parliament,0.14015314,0.330746919,1,0.0625,1,0.14015314,0.330746919,1,0.0625,1
+All the French political factions requested a temporary halt to what?,National Assembly's session,0.246765018,0.628313184,1,0.055555556,0,0.237833396,0.591347218,1,0.055555556,0
+Why did the banner say that was unveiled during the temporary halt?,Respect for Human Rights in China,0.592304111,0.856108904,0,0,1,0.61750114,0.872680962,0,0,1
+What did the Parliamentary members yell as the relay passed?,Freedom for Tibet!,0.201353312,0.439739108,0,0,0,0.400264293,0.582419038,0,0,0
+What did French police take from demonstrators?,Tibetan flags,0.413973331,0.769553244,1,0.071428571,0,0.524102807,0.690498769,1,0.071428571,0
+Which newspaper reported that only the Chinese could express themselves?,Libération,0.571534514,0.867473602,1,0.076923077,0,0.772777677,0.58472687,1,0.076923077,0
+Where was the only place the Tibetan flag could be held?,the Trocadéro,0.455582321,0.793326557,1,0.090909091,1,0.056475461,0.184768558,1,0.142857143,1
+Who was the Minister of the Interior?,Michèle Alliot-Marie,0.641513109,0.440204352,1,0.142857143,0,0.635437191,0.435192108,1,0.142857143,0
+What did French law enforcement take from protesters?,Tibetan flags,0.578340411,0.434090793,1,0.083333333,0,0.62926358,0.760508299,1,0.083333333,0
+Where was the only place Tibetan flags were permitted?,the Trocadéro.,0.438800186,0.798021317,1,0.090909091,1,0.058166273,0.172012568,1,0.142857143,1
+Who said the police acted on their own in taking the flags?,Michèle Alliot-Marie,0.32386899,0.211539984,0,0,0,0.647077203,0.451183558,0,0,0
+Who rendered a France 2 camera person unconscious?,a police officer,0.32894057,0.760252655,0.5,0.076923077,0,0.480524153,0.872323513,0,0,0
+Where did the torch start it's North American route?,San Francisco,0.752759337,0.701158285,1,0.037037037,1,0.835591614,0.774348319,1,0.125,1
+What day did the torch arrive in San Francisco?,Apr-09,0.709905505,0.836110055,1,0.047619048,1,0.364074349,0.297588438,1,0.111111111,0
+What is the name of the first North American torchbearer?,Lin Li,0.522585869,0.791787148,1,0.064516129,0,0.310697377,0.146369904,0,0,1
+The route end was changed from Justin Herman plaza to what?,San Francisco International Airport,0.481072247,0.81085217,0,0,1,0.476818204,0.815784931,0,0,1
+Who was the head of the U.S. Olympic Committee?,Peter Ueberroth,0.240067363,0.259857178,1,0.058823529,1,0.324793041,0.259857178,0,0,1
+What city in the United States held the 2008 Olympic Torch relay?,San Francisco,0.20393765,0.305219024,0.333333333,0.047619048,1,0.805726767,0.850366235,0.333333333,0.1,0
+What was the date of the relay in the United States?,April 9.,0.630270839,0.849620759,0,0,1,0.307826161,0.397320867,0,0,0
+What is the name of the person who handed off the torch to the torchbearer in the United States 2008 Olympic relay?,Norman Bellingham,0.725022495,0.853561282,0.5,0.033333333,1,0.042785965,0.221764565,0.5,0.125,0
+What is the name of the location where the relay ending event was canceled?,Justin Herman Plaza,0.196391612,0.25048852,0,0,1,0.196391612,0.25048852,0,0,1
+"Who approved a resolution concerning human rights on April 1, 2008?",San Francisco Board of Supervisors,0.483390868,0.798011899,1,0.066666667,0,0.483390868,0.798011899,1,0.066666667,0
+The concern was over what in China and Tibet?,human rights abuses,0.469481796,0.840573907,1,0.166666667,0,0.763237953,0.572955847,1,0.166666667,0
+What date was the protest which was led by Gere and Tutu?,Apr-08,0.469420105,0.769729376,0,0,0,0.479848951,0.786403358,0,0,0
+When was a resolution agreed to about Chinese human rights issues in San Francisco?,"April 1, 2008",0.616820753,0.677670181,1,0.142857143,1,0.687541962,0.680418134,1,0.142857143,1
+Who approved the resolution?,San Francisco Board of Supervisors,0.526585162,0.560632706,0,0,0,0.801416337,0.687039852,0,0,0
+Where was a protest planned in San Francisco?,United Nations Plaza,0.183140695,0.269853354,1,0.055555556,0,0.183140695,0.269853354,1,0.055555556,0
+What actor was scheduled to attend a San Francisco Olympic protest?,Richard Gere,0.156082988,0.251364619,1,0.055555556,0,0.33846724,0.314239919,1,0.055555556,0
+"Three protester climbed what to hang two banners on April 7, 2008?",Golden Gate Bridge,0.440447509,0.57906431,0,0,0,0.192374021,0.239527449,0,0,0
+Laurel Sutherlin spoke to which TV station about his concerns?,KPIX-CBS5,0.541861951,0.797853112,0,0,0,0.396550149,0.797853112,0,0,0
+Who asked that the San Francisco relay route be shortened?,China,0.621706128,0.842550814,1,0.05,0,0.47901094,0.840965867,0,0,1
+What famous bridge had two banners hung from it by protesters?,Golden Gate Bridge,0.404206574,0.521436453,1,0.041666667,0,0.404206574,0.521436453,1,0.04,0
+Who spoke to station KPIX-CBS5 about the bridge banner protests?,Laurel Sutherlin,0.149371803,0.074229583,0,0,0,0.149371803,0.074229583,0,0,0
+How many supporters face charges for the bridge stunt?,five,0.137569949,0.193091139,0,0,1,0.137569949,0.193091139,0,0,1
+How many activists may be charged with crimes for the bridge stunt?,three,0.002160241,0.071510889,0,0,0,0.002160241,0.071510889,0,0,0
+Where did the first relay runner disappear to with the torch??,a warehouse,0.293753207,0.432842284,1,0.043478261,0,0.789288163,0.744940162,0,0,0
+Which wheelchair-bound torchbearer was ejected from the relay for showing a Tibetan flag?,Andrew Michael,0.38502264,0.146669015,1,0.083333333,0,0.412775874,0.062778324,0,0,1
+What wheelchair-bound bearer of the Olympic torch displayed a Tibetan flag?,Andrew Michael,0.44853276,0.220458165,0.5,0.076923077,0,0.44853276,0.220458165,0.5,0.076923077,0
+Where was the last part of the San Francisco torch relay carried through before getting on a bus?,Marina district,0.617520928,0.840204656,1,0.047619048,1,0.437305391,0.877381682,0,0,1
+Where was a makeshift closing ceremony held for the torch relay in San Francisco?,San Francisco International Airport,0.619389653,0.899231672,1,0.041666667,1,0.374368489,0.426148385,1,0.041666667,1
+"After the bearer of the torch disappeared into a warehouse, what road did the relay reappear on?",Van Ness Avenue,0.4046233,0.628198147,0,0,0,0.434064448,0.853023291,0,0,0
+When did the Olympic torch relay begin in Buenos Aires?,Apr-11,0.841318548,0.878387034,0.5,0.034482759,1,0.212992907,0.087571248,0.5,0.166666667,1
+Where did the torch route start in Buenos Aires?,the Lola Mora amphitheatre,0.666462064,0.700725794,1,0.047619048,1,0.497896671,0.91344583,1,0.166666667,0
+Who was the mayor of Buenos Aires?,Mauricio Macri,0.180021375,0.373088837,1,0.055555556,1,0.180021375,0.373088837,1,0.055555556,1
+Where did the Olympic torch relay begin in Argentina?,Buenos Aires,0.740770221,0.819480062,0.5,0.03030303,1,0.635577679,0.496624768,0.5,0.166666667,1
+What place held an opening show for the relay?,Lola Mora amphitheatre,0.708325803,0.630899966,0,0,0,0.585777283,0.929131687,0,0,0
+What is the name of the mayor who passed off the torch to the first bearer in Argentina?,Mauricio Macri,0.189769298,0.32335344,1,0.08,1,0.189769298,0.32335344,1,0.08,1
+Who was the first bearer of the torch in Argentina?,Carlos Espínola.,0.647829354,0.808398664,1,0.095238095,0,0.640453756,0.930886209,0.5,0.142857143,0
+What was showered along the route in some places?,confetti,0.151977599,0.200321585,0,0,0,0.41747278,0.555576921,0,0,0
+What is the name of the activist who promised peaceful protests?,Jorge Carcavallo,0.456449002,0.803066373,0,0,0,0.491335571,0.556418538,0,0,0
+What route was planned for an alternative march?,from the Obelisk to the city hall,0.480204314,0.645836234,0,0,1,0.456758648,0.358944535,0,0,1
+What was on the banner that was displayed where the torchbearers would carry the torch?,Free Tibet,0.120773301,0.15226537,0,0,0,0.386027277,0.367511243,0,0,0
+What is the name of the protester who said they would not try to extinguish the torch?,Jorge Carcavallo.,0.656386852,0.767314076,0,0,0,0.656386852,0.767314076,0,0,0
+Where did the other march travel form and to?,Obelisk to the city hall,0.460759282,0.645515025,0,0,0,0.507853746,0.715512514,0,0,0
+What was the name given to the torch carried on the alternative march?,Human Rights Torch.,0.552826762,0.817256331,0,0,0,0.41262126,0.823036969,0,0,0
+What did the large banner say that was along the alternative march route?,Free Tibet,0.545818746,0.738773763,0,0,0,0.55179882,0.745508432,0,0,0
+What was the unsanctioned alternative relay called?,Human Rights Torch Relay,0.395966589,0.833003104,0,0,0,0.385033906,0.826370358,0,0,0
+Who was the outreach director of HRTR?,Susan Prager,0.39236775,0.803355813,1,0.05,0,0.391791523,0.792050719,1,0.05,0
+What was the non profit that was funded by Mark Palmer?,Friends of Falun Gong,0.282159746,0.065600172,1,0.052631579,0,0.370834768,0.537986875,1,0.052631579,0
+Which footballer decided to not be a torchbearer because of the controversy?,Diego Maradona,0.550317228,0.488326013,0,0,0,0.166187137,0.14976792,0,0,0
+How many police officers were in place to avoid controversy along the torch route?,1200,0.646005869,0.824315965,0,0,1,0.360312402,0.158753812,0,0,1
+What was thrown to try and put out the flame?,water balloons,0.535219789,0.632980227,0,0,0,0.53894335,0.485641092,0,0,0
+What is Susan Prager communication director of?,Friends of Falun Gong,0.358486593,0.74608326,0,0,0,0.869442165,0.690220654,1,0.125,0
+What football star backed out due to relay controversy?,Diego Maradona,0.215483516,0.430027217,0,0,0,0.215483516,0.430027217,0,0,0
+How many police officers were part of the security operative?,1200,0.070100024,0.135950655,0,0,1,0.295050174,0.135950655,0,0,1
+What was tossed at the torch trying to put it out?,water balloons,0.569035232,0.815569401,0,0,0,0.038766444,0.198127359,0,0,0
+The protests were considered to be overall what in nature?,peaceful,0.463674128,0.764090538,0,0,0,0.544080734,0.297134936,0,0,0
+Where was the only African destination for the torch?,Dar es Salaam,0.026814207,0.068808518,0,0,0,0.611557603,0.309140027,0,0,1
+When did the torch arrive in Dar es Salaam?,Apr-13,0.627850533,0.876214027,0,0,1,0.627850533,0.876214027,0,0,1
+Where did the route start for the torch in Dar es Salaam?,the TAZARA Railway,0.514038563,0.760315955,0,0,0,0.579894185,0.73842603,0,0,0
+Where was the solitary place the relay was held in Africa?,Dar es Salaam,0.456980169,0.429096103,1,0.034482759,0,0.44599247,0.441620111,1,0.034482759,0
+What is the name of the railway where the Olympic torch relay began in Africa?,TAZARA,0.619170308,0.720107615,0.5,0.03125,0,0.264455616,0.840176284,0,0,0
+Where did the relay terminate in Africa?,Benjamin Mkapa National Stadium,0.501229703,0.733477354,1,0.03125,0,0.56695652,0.253448248,0,0,0
+What country paid for the stadium through aid money?,China,0.135808393,0.293159276,0,0,0,0.345835388,0.783844411,0,0,0
+Who it the torch in Africa?,Vice-President Ali Mohamed Shein.,0.496307373,0.722754478,1,0.033333333,0,0.475532711,0.647655666,1,0.033333333,0
+Which Middle East location was the only area the torch visited?,Muscat,0.09469232,0.124219626,0,0,1,0.09469232,0.124219626,0,0,1
+When did the torch arrive in Muscat?,Apr-14,0.174609989,0.200482205,1,0.035714286,1,0.338024914,0.145819366,0,0,0
+Which actress carried the torch for part of the route?,Sulaf Fawakherji,0.598072052,0.564837217,0,0,0,0.595949769,0.563281596,0,0,0
+Where was the only place the Olympic torch was carried in the Middle East?,Muscat,0.10025613,0.163567185,1,0.068965517,1,0.10025613,0.163567185,1,0.068965517,1
+How far was the relay route in kilometers in the Middle East?,20,0.276795387,0.516876936,1,0.028571429,0,0.583082199,0.562992096,0,0,0
+What is the name of the Syrian actress who was one to bear the torch?,Sulaf Fawakherji.,0.230491653,0.255199522,1,0.035714286,0,0.230491653,0.255199522,1,0.034482759,0
+When did the torch arrive in Islamabad?,Apr-16,0.690187335,0.785105288,1,0.066666667,1,0.349761367,0.102357224,0,0,1
+Where was an indoor ceremony held since the outdoor relay was cancelled?,Jinnah Stadium,0.46183455,0.464683026,0,0,1,0.58000648,0.578588009,0,0,1
+Who spoke at the opening ceremony in Islamabad in addition to President Musharraf?,Prime Minister Yousaf Raza Gillani,0.203074723,0.387040079,0.5,0.0625,1,0.203074723,0.387040079,0.5,0.0625,1
+Where did the Olympic torch relay start in Pakistan?,Islamabad,0.767426252,0.884646177,1,0.133333333,1,0.648252845,0.44460386,0,0,0
+"Instead of a traditinal relay, where was the track the torch was carried in Pakistan?",Jinnah Stadium.,0.369530857,0.478050917,1,0.066666667,1,0.360541761,0.697502613,0,0,0
+When did the torch visit New Delhi?,Apr-17,0.791497231,0.75967139,1,0.034482759,1,0.777952671,0.793700099,1,0.034482759,1
+How many runners carried the torch in New Delhi?,70,0.110161424,0.428472579,1,0.045454545,1,0.013359975,0.199868947,1,0.045454545,1
+Which football captain did not participate in the relay to show support for Tibet?,Baichung Bhutia,0.598656416,0.484870732,1,0.0625,1,0.586604118,0.488792419,1,0.0625,1
+How many torchbearers did not participate because of their concerns with Tibet?,five,0.517511964,0.773190737,1,0.052631579,1,0.576585412,0.688639283,1,0.052631579,1
+Where did the torch relay happen in India?,New Delhi,0.767541885,0.791326761,1,0.041666667,1,0.661078513,0.775111794,0,0,0
+How long was the route in India in miles?,1.5,0.541092396,0.817745447,1,0.05,0,0.552670777,0.692007899,1,0.05,0
+How many bearers of the torch were used in India?,70,0.055522028,0.229449451,1,0.052631579,0,0.355387032,0.185059816,0,0,0
+How many bearers decided not to participate?,five,0.487164974,0.50287962,0,0,1,0.379006922,0.771553755,0,0,1
+What is the name of the footballer who refused to be a part of the relay?,Baichung Bhutia,0.351120591,0.49007085,0,0,0,0.351120591,0.49007085,0,0,0
+The security given to the torch relay in New Delhi is reminiscent of the security of what?,Republic Day celebrations,0.733071387,0.861539006,1,0.066666667,1,0.733071387,0.861539006,1,0.066666667,1
+The Chinese presented a list of vulnerable relay locations to who?,Nirupama Sen.,0.702449322,0.867848754,1,0.052631579,0,0.526686907,0.473377168,1,0.052631579,0
+Who supposedly cancelled a trip to Beijing in protest?,India's Commerce Minister,0.121315859,0.089290842,1,0.055555556,0.5,0.625582337,0.082630135,0,0,0.5
+Who was said to have canceled an official trip to China in protest?,Kamal Nath,0.186716408,0.115307108,0,0,0,0.494337469,0.106698751,0,0,0
+At what time in the middle of the night was the diplomat summoned?,2:00 am,0.14079538,0.285964966,0,0,1,0.14079538,0.285964966,0,0,1
+The Olympic relay had the same security precautions taken as what other special day?,Republic Day,0.602855682,1,0,0,0,0.633785546,0.827852666,0,0,0
+What kind of targets do Republic Day events present as?,terrorist targets.,0.622486949,0.628188133,1,0.066666667,0,0.434239984,0.73453331,1,0.066666667,0
+How many people comprised the Tibetan exile community?,"(150, 0)",0.488824517,0.789220989,1,0.0625,0,0.097314939,0.124656461,1,0.0625,0
+India refused China's request that the Tibetan exile community be avoided because they said India is what?,a democracy,0.469480723,0.802277446,1,0.130434783,0,0.56052798,0.952146292,1,0.130434783,0
+Where is the exiled Tibetan government?,India,0.303638577,0.763205111,1,0.052631579,1,0.844482899,0.848003864,1,0.2,1
+How many Tibetan exiles are said to be in India?,"(150, 0)",0.031471916,0.186222345,1,0.086956522,0,0.031471916,0.186222345,1,0.086956522,0
+A wholesale ban on what was denied?,protests,0.530810714,0.484554172,0,0,0,0.489246041,0.678187966,0,0,0
+What Olympic group was denied by India?,Olympic Holy Flame Protection Unit,0.349681318,0.248469502,0.5,0.0625,0,0.349681318,0.248469502,0.5,0.0625,0
+What deteriorated between India and China?,relations,0.467794806,0.791412234,1,0.086956522,0,0.807822943,0.807516813,1,0.285714286,0
+Who said they did not support relay interruptions?,the Tibetan government in exile,0.366236299,0.239301324,0,0,0,0.366236299,0.239301324,0,0,0
+Who did not want to participate in the relay as 'caged woman'?,Kiran Bedi,0.217225179,0.151813984,0,0,1,0.217225179,0.151813984,0,0,1
+Where was Bedi retired from?,Indian Police Service,0.219978124,0.111692041,0,0,0,0.150642827,0.168692231,0,0,0
+Which actress decided to not participate on April 15?,Soha Ali Khan,0.439280242,0.166343406,1,0.038461538,1,0.554033518,0.549550414,1,0.038461538,1
+When did a protest in Delhi occur to protest against Chinese repression in Tibet?,Apr-16,0.696288049,0.925147891,1,0.15,0,0.699651897,0.766464889,1,0.15,0
+What retired police officer refused to carry the torch in India?,Kiran Bedi,0.454698682,0.375439286,0,0,1,0.454698682,0.375439286,0,0,1
+What actress removed herself from participation in the relay?,Soha Ali Khan,0.336210787,0.144809261,0,0,1,0.336210787,0.144809261,0,0,1
+Where was a protest organized about the Olympic relay in India?,Delhi,0.226324558,0.284434706,0.5,0.047619048,0,0.467701316,0.738606095,0.5,0.047619048,0
+Who disbanded the protest in Delhi?,police.,0.484946638,0.895586133,1,0.05,0,0.307615995,0.228587344,0,0,0
+The retired police officer said she would not run as what?,caged woman,0.504750252,0.726416588,0,0,0,0.495475501,0.65211761,0,0,0
+When did the Olympic torch reach Bangkok?,Apr-18,0.779595733,0.828292906,1,0.066666667,1,0.794913411,0.842824101,1,0.066666667,1
+Who is the Green World Foundation chairwoman who refused to participate in the relay?,M.R. Narisa Chakrabongse,0.400654227,0.405442178,0,0,0,0.411099374,0.520674288,0,0,0
+The media was told that the Chinese supplied with shirts and transportation?,students,0.03892263,0.066892564,1,0.041666667,0,0.142038167,0.066892564,0,0,0
+When did the torch go through Bankok?,Apr-18,0.696955025,0.611502647,0,0,1,0.696955025,0.611502647,0,0,1
+The relay route was a little over how many kilometers?,10,0.251419902,0.515905619,0,0,0,0.749477923,0.904464722,0,0,0
+Who were told they would be banned from reentering Thailand?,foreign protesters,0.572867751,0.399640918,1,0.04,0,0.401103139,0.298958898,1,0.04,0
+What scheduled bearer of the torch boycotted?,Mom Rajawongse Narissara Chakrabongse,0.279310673,0.178258762,0,0,0,0.463871002,0.474244535,0,0,0
+When did the torch visit Malaysia?,Apr-21,0.702871144,0.619337499,1,0.038461538,0,0.699259937,0.638859987,1,0.038461538,0
+What is the capital city of Malaysia?,Kuala Lumpur,0.398749709,0.840499282,1,0.045454545,1,0.418287247,0.723772705,1,0.045454545,1
+Where did the route begin in Malaysia?,Independence Square,0.670288324,0.586827338,1,0.033333333,0,0.25262478,0.092848629,1,0.033333333,0
+"Prior to the 2008 games, when did Malaysia last see an Olympic torch relay?",1964,0.739905596,0.861639559,0.666666667,0.095238095,1,0.217569977,0.852182448,0.333333333,0.142857143,0
+What is the location of the start of the relay in Malaysia?,Independence Square,0.656738281,0.797873855,1,0.037037037,0,0.656738281,0.797873855,1,0.037037037,0
+Where did the relay end in Malaysia?,Petronas Twin Towers.,0.629829705,0.757059216,1,0.038461538,1,0.637979627,0.782928407,1,0.038461538,1
+What year was the last torch relay event in Malaysia?,1964,0.713450968,0.834798574,1,0.038461538,1,0.491901875,0.329165399,0,0,0
+How many Special Police protected the relay event?,1000,0.370152116,0.511413693,0,0,0,0.339066327,0.24678421,0,0,0
+Which supporters protested near the Chinese embassy in Malaysia?,Falun Gong,0.641844034,0.850551069,0.5,0.066666667,0,0.473663837,0.582568645,0.5,0.066666667,0
+Supporters of what demonstrated at the Chinese embassy in Malaysia?,Falun Gong,0.383209944,0.445840836,0.5,0.0625,0,0.575760961,0.606071949,0.5,0.0625,0
+What were a Japanese family who unveiled a Tibetan flag hit with?,plastic air-filled batons,0.616678178,0.582556248,1,0.166666667,0,0.662383318,0.799228966,1,0.166666667,0
+What did the Chinese group yell?,Taiwan and Tibet belong to China.,0.218939275,0.42839092,1,0.066666667,0.333333333,0.688610554,0.720211625,0,0,1
+What did Chinese volunteers take from two Malaysian demonstrators?,placards,0.665785789,0.656410873,1,0.125,0,0.470872909,0.388837993,0.333333333,0.25,0
+When did the Olympic torch visit Jakarta?,Apr-22,0.779956937,0.724555314,1,0.083333333,0,0.668588221,0.8304075,1,0.333333333,1
+Who requested that the original route be cancelled?,the Chinese embassy,0.434319735,0.814694285,0,0,0,0.475423485,0.642936409,0,0,0
+"Along with invited people, who were the only other people allowed in the stadium?",journalists,0.318030119,0.639232993,0,0,0,0.58343482,0.794280648,0,0,0
+Where did the torch relay begin in Indonesia?,Jakarta,0.675672591,0.860039055,1,0.034482759,1,0.800523877,0.672617316,0,0,1
+How many kilometers was the planned route that was cancelled?,20,0.625826478,0.731009364,0,0,0,0.626411498,0.76183778,0,0,0
+Why was the first route not taken?,security worries,0.383521885,0.635273159,1,0.043478261,0,0.344020694,0.561726451,1,0.043478261,0
+What type of facility was the torch carried at instead.,stadium.,0.638047278,0.600495875,0,0,0,0.697352886,0.696781754,0,0,0
+Where did protests occur when non one except invited guests and the press were allowed inside the stadium?,outside the stadium.,0.609001875,0.851674199,0,0,0,0.538887024,0.823108613,0,0,0
+When did the torch arrive in Canberra?,Apr-24,0.157878548,0.209869564,1,0.052631579,0,0.157878548,0.209869564,1,0.052631579,0
+Who received the flame from Chinese officials in Canberra?,Agnes Shea,0.174837306,0.133028641,1,0.125,1,0.174837306,0.133028641,1,0.125,1
+What did Agnes Shea give to the Chinese in return?,a message stick,0.456812978,0.760743022,1,0.1,0,0.270233214,0.396790832,1,0.1,0
+Who publicly argued at a press conference?,Australian and Chinese officials,0.53881216,0.275577068,0,0,1,0.683951735,0.2736803,0,0,1
+Where was the relay held in Australia?,Canberra,0.755265951,0.761872709,0,0,1,0.755265951,0.761872709,0,0,1
+How many kilometers was the route in Australia?,16,0.383980423,0.855171084,0,0,0,0.088370584,0.183411494,0,0,0
+What was the location of the beginning of the Olympic torch route in Australia?,Reconciliation Place,0.667653203,0.877394199,0.5,0.043478261,0,0.673642874,0.879591763,0.5,0.043478261,0
+Who kept the demonstrators separated?,Australian Federal Police.,0.522084594,0.684609354,0,0,0,0.48365581,0.174437568,0,0,0
+What is the name of the Aboriginal elder who received the torch from Chinese officials?,Agnes Shea,0.612184763,0.844509304,1,0.066666667,1,0.612184763,0.844509304,1,0.066666667,1
+Who did the Chinese want to deploy to Canberra to protect the flame?,People's Liberation Army personnel,0.357009977,0.278864503,1,0.125,0,0.31728515,0.213444918,1,0.125,0
+Chinese Australian students were told to defend what against scum and separatists?,sacred torch,0.486509174,0.839307606,0,0,0,0.668909311,0.800364017,0,0,0
+Who was the chairman of the Australian Council of Chinese Organisations?,Tony Goh,0.530236542,0.76952678,1,0.058823529,0,0.530236542,0.76952678,1,0.058823529,0
+Who was the Foreign Minister who said he was okay with protests as long as they were peaceful?,Stephen Smith,0.075032055,0.083448566,0,0,1,0.075032055,0.083448566,0,0,1
+What group did China want along the relay route in Canberra?,People's Liberation Army,0.669820547,0.790554345,1,0.117647059,0,0.600462914,0.616631866,1,0.117647059,0
+Who was given permission to search attendees of the relay?,Australian police,0.288606167,0.071898177,0,0,1,0.188962325,0.128897205,0,0,1
+Who said that thousands of pro-Beijing supporters would be bused in?,Tony Goh,0.448989481,0.44822365,0,0,0,0.621536255,0.67369771,0,0,0
+"Who told the media that Chinese diplomats were arranging a ""peaceful show of strength""?",Zhang Rongan,0.545585036,0.685731053,1,0.0625,0,0.545585036,0.685731053,1,0.066666667,0
+Who was the Foreign Minister who indicated Chinese officials wanted supporting demonstrators to show up and show their point of view?,Stephen Smith,0.080753922,0.075194657,1,0.083333333,1,0.267514765,0.286168754,1,0.083333333,1
+Who withdrew as a torchbearer because of her concerns about human rights?,Lin Hatfield Dodds,0.464543521,0.729773164,0,0,0,0.16051954,0.155392393,0,0,0
+Who said Dodds' withdrawal was a good example of peacefully protesting?,Foreign Minister Stephen Smith,0.487423867,0.805314243,0,0,0,0.440153718,0.820891082,0,0,0
+Who withdrew from the torch event?,Lin Hatfield Dodds,0.58288002,0.775019944,0,0,0,0.338546634,0.092947125,0,0,1
+Who was the foreign minister that said her decision was a good example of peacefully making a point?,Stephen Smith,0.398126125,0.689278007,0,0,1,0.329521805,0.310268462,0,0,1
+Who was the head of the Canberra torch relay committee?,Ted Quinlan,0.563609958,0.856873274,1,0.071428571,1,0.184403151,0.275758386,0,0,1
+How many supporters of Tibet were expected in Canberra to protest?,600,0.128249288,0.2938658,1,0.083333333,0,0.513162374,0.5481112,1,0.083333333,0
+ACT Chief Minister Jon Stanhope said which organization intended to ensure that China supporters outweighed Tibet supporters?,the Chinese embassy,0.497558504,0.721660554,0,0,1,0.599089086,0.683470488,0,0,1
+Which athlete carried the torch for the final leg?,Ian Thorpe,0.738513231,0.668269634,0,0,0,0.505961776,0.733914018,0,0,0
+How many supporters of Tibet were expected to attend the torch relay?,Up to 600,0.074244037,0.095673256,1,0.052631579,0,0.564989984,0.237361342,0,0,1
+It was thought that how many Chinese supporters would attend the torch relay?,"between 2,000 and 10,000",0.121213362,0.144593954,1,0.083333333,1,0.363779277,0.19335115,1,0.125,1
+Who did not expect that reaction from the Chinese community?,Ted Quinlan,0.606027603,0.896852374,1,0.090909091,0,0.597852349,0.897899747,1,0.090909091,0
+Who was involved to ensure the pro Chinese demonstrators outweighed the Tibetan demonstrators?,the Chinese embassy,0.602510452,0.736303449,1,0.133333333,1,0.322431684,0.213456303,0.5,0.166666667,1
+Who hosted the 1998 Winter Olympics?,Nagano,0.547148407,0.809763551,0.5,0.038461538,1,0.546248198,0.788450658,0.5,0.038461538,1
+When did the torch arrive in Nagano?,Apr-26,0.616503239,0.902070403,1,0.045454545,1,0.651661932,0.891720772,1,0.045454545,1
+Where was the torch relay held in Japan?,Nagano,0.729314744,0.868164897,1,0.038461538,1,0.563177824,0.87211448,0,0,0
+Which Olympics did Nagano host?,1998 Winter Olympics,0.58526051,0.793571591,1,0.153846154,0.5,0.595272601,0.819205105,1,0.153846154,0.5
+What location was supposed to be the start of the relay event in Nagano?,Japanese Buddhist temple Zenkō-ji,0.77561903,0.549264669,1,0.052631579,1,0.764525294,0.590941548,1,0.052631579,1
+"When monks pulled out of the event, where was the new starting point for the relay?",a municipal building,0.505202651,0.563337326,0,0,0,0.505202651,0.563337326,0,0,0
+How many Chinese guards were allowed to go with the torch?,two,0.127829045,0.252779812,1,0.058823529,0,0.230036318,0.277014881,1,0.2,0
+Where was the torch relay event held in South Korea?,Seoul,0.75302434,0.826335251,0,0,0,0.416038156,0.539668143,0,0,1
+When did Seoul host the Olympics?,1988 Summer Olympics,0.586384296,0.806942582,0.5,0.038461538,0.5,0.532586634,0.2471385,0,0,0.5
+Where was the start point for the relay?,Olympic Park,0.616716683,0.702886045,0,0,0,0.35762006,0.170945108,0,0,0
+Who became violent during the relay route and was promised deportation when caught?,Chinese students,0.603557587,0.789835095,0,0,1,0.489251733,0.687335551,0,0,1
+Where was the relay event held in South Korea?,Seoul,0.64201057,0.813265026,0,0,1,0.628476858,0.75858146,0,0,1
+Which Olympics did Seoul host?,1988 Summer Olympics,0.554756284,0.726660967,1,0.074074074,1,0.546119869,0.169600308,0,0,0.5
+When did the torch arrive in Pyongyang?,Apr-28,0.61723119,0.888771176,1,0.04,1,0.61723119,0.888771176,1,0.04,1
+Who presided over the torch event in North Korea?,Kim Yong Nam,0.465691388,0.486675918,1,0.037037037,0,0.729552209,0.891807199,1,0.037037037,0
+Who was the first torchbearer in North Korea?,Pak Du Ik,0.718486667,0.811902523,1,0.08,1,0.641411901,0.826958895,1,0.08,1
+Where did the relay start?,the Juche Tower,0.637737036,0.790448129,0,0,0,0.720610738,0.79468596,0,0,0
+Where was the relay event held in North Korea?,Pyongyang.,0.690579355,0.922510147,1,0.041666667,1,0.438875198,0.922510147,0,0,1
+What date did the torch relay event take place?,April 28.,0.388954282,0.394173384,0,0,0,0.704730868,0.852572978,0,0,0
+What did people in the crowd wave at the beginning of the relay?,pink paper flowers and small flags,0.510925353,0.580840409,0,0,0,0.250154346,0.872561574,0,0,0
+Who was the first runner with the torch?,Pak Du Ik,0.223751888,0.280755818,1,0.047619048,0,0.194844753,0.302336991,1,0.047619048,0
+The United Nations Organization and UNICEF felt the relay could be used as what?,a propaganda stunt.,0.574798048,0.8070032,1,0.153846154,0,0.70230335,0.784893572,1,0.153846154,0
+North Korea is often listed among the worst offenders in the world in what regard?,against human rights.,0.420782775,0.859149218,1,0.058823529,0,0.392079473,0.846759379,1,0.058823529,0
+What is the children's agency of the United Nations Organization?,UNICEF,0.339994639,0.58942157,1,0.045454545,1,0.581560969,0.294564754,1,0.045454545,1
+Both organizations withdrew what?,their staff,0.541347504,0.641768396,0,0,0,0.444566578,0.807688713,0,0,0
+What is the mission of the organizations?,raising awareness of conditions for children,0.664425492,0.623574674,0,0,0,0.696060777,0.519012809,0,0,0
+Who is often listed amongst the world's worst offenders when it comes to human rights?,North Korea,0.475984365,0.295841515,0,0,1,0.475984365,0.295841515,0,0,1
+When did the torch arrive in Vietnam?,Apr-29,0.659025431,0.84831661,1,0.034482759,1,0.160065442,0.211100787,1,0.034482759,1
+Where was the torch event held in Vietnam?,Ho Chi Minh City,0.708998203,0.7867015,1,0.032258065,1,0.775976241,0.898085713,0,0,1
+How many torchbearers carried the torch in Vietnam?,60,0.097795278,0.2309957,1,0.037037037,0,0.309090942,0.2309957,0,0,1
+Where did the torch event begin in Vietnam?,the downtown Opera House,0.728013933,0.879701734,1,0.032258065,1,0.704024792,0.838986754,1,0.032258065,1
+Where did the torch event end?,the Military Zone 7 Competition Hall stadium,0.587107539,0.718022585,0,0,0,0.599352121,0.801095486,0,0,0
+Where was the torch event held in Vietnam?,Ho Chi Minh City.,0.730704427,0.863369346,1,0.032258065,1,0.734788537,0.62176317,0,0,1
+What areas are involved in the dispute between Vietnam and China?,the Spratly and Paracel Islands,0.54575026,0.680582881,1,0.090909091,1,0.852644801,0.752637267,1,0.333333333,1
+The Chinese government established what city in this disputed area?,Sansha,0.45048514,0.586542368,1,0.0625,0,0.9226529,0.619415283,1,0.166666667,0
+"As a result, demonstrations were held in what two cities in December 2007?",Hanoi and Ho Chi Minh City.,0.223469406,0.259179175,0,0,0.5,0.308330923,0.269536167,0,0,0.5
+Who was the Prime Minister of Vietnam?,Nguyễn Tấn Dũng,0.489873022,0.667037845,0,0,0,0.489873022,0.667037845,0,0,0
+How many people protesting China were arrested in Hanoi prior to the rally?,seven,0.752529025,0.847974539,1,0.111111111,1,0.254689157,0.130997628,0,0,1
+Which blogger calling for demonstrations was arrested for tax evasion?,Điếu Cày,0.484188735,0.930793047,0,0,0,0.637926996,0.460455418,0,0,0
+Which torchbearer sent a letter of protest to the president of the International Olympic Committee?,Lê Minh Phiếu,0.230218679,0.092448995,1,0.047619048,0,0.230218679,0.092448995,1,0.047619048,0
+How many protesters were arrested in Hanoi prior to the rally?,seven,0.066809826,0.246112794,1,0.055555556,1,0.185585469,0.296037257,0,0,1
+What is blogger Điếu Cày's real name?,Nguyễn Văn Hải,0.465037316,0.824439049,0,0,0,0.461719096,0.822935104,0,0,0
+"Though he urged for demonstrations in Vietnam, Nguyễn Văn Hải was charged with what crime?",tax evasion.,0.445331126,0.755055189,1,0.05,0,0.445331126,0.755055189,1,0.05,0
+What is the name of the torchbearer who wrote a letter to the IOC president about discrepancies on a website?,Lê Minh Phiếu,0.641980767,0.837575436,1,0.055555556,0,0.641980767,0.837575436,1,0.055555556,0
+What was removed from the website that Lê Minh Phiếu had written about?,disputed islands and dotted lines marking China's maritime claims,0.62872225,0.639474869,0,0,0,0.501129091,0.84305197,0,0,0
+When did the torch arrive in Hong Kong?,May-02,0.710556388,0.903982639,1,0.045454545,1,0.711360276,0.888080001,1,0.045454545,1
+Who was the first torchbearer in Hong Kong?,Lee Lai Shan,0.703524947,0.806312263,1,0.083333333,1,0.448589563,0.388968319,1,0.083333333,1
+Where was the torch event started in Hong Kong?,Hong Kong Cultural Centre,0.737810612,0.852989316,1,0.037037037,0,0.729592323,0.859157085,1,0.037037037,0
+Where did the torch relay end in Hong Kong?,Golden Bauhinia Square in Wan Chai,0.716606855,0.84766078,1,0.041666667,0,0.716606855,0.84766078,1,0.041666667,0
+How many torchbearers participated in the relay event in Hong Kong?,120,0.053210132,0.194401205,1,0.047619048,1,0.741283894,0.923268676,1,0.047619048,1
+When was the relay event held in Hong Kong?,May 2.,0.665730596,0.90233773,1,0.047619048,1,0.697419524,0.939900637,1,0.047619048,1
+"Who handed the torch to Lee Lai Shan, the first torchbearer?",Donald Tsang,0.613269806,0.77923286,1,0.066666667,1,0.237593636,0.216825664,1,0.066666667,1
+What was used to get the torch across the Shing Mun River?,a dragon boat,0.12432941,0.311873794,0,0,0,0.572758198,0.837507725,0,0,0
+How many torchbearers carried the torch?,120,0.620201349,0.745761156,0,0,1,0.360940158,0.285832345,0,0,0
+"The torchbearers included athletes, celebrities and who?",pro-Beijing camp politicians.,0.303803116,0.503079772,0,0,0,0.185940921,0.510531187,0,0,0
+What did Hong Kong Alliance in Support of Patriotic Democratic Movements in China members wave to symbolize democracy?,plastic Olympic flames,0.636307359,0.613433838,0.666666667,0.111111111,1,0.693025112,0.398205459,0,0,1
+This group wanted accountability for what 1989 event?,Tiananmen Square protests,0.395198822,0.66843766,0,0,0,0.395198822,0.66843766,0,0,0
+Who wrapped a Tibetan flag around her body and later waved it?,Christina Chan,0.107555948,0.178247526,1,0.066666667,0,0.107555948,0.178247526,1,0.066666667,0
+Who removed Chan from the protest?,police,0.57051456,0.499772161,1,0.045454545,0,0.760561347,0.849741101,1,0.333333333,0
+Why is Chan suing the Hong Kong government?,her human rights were breached.,0.60552758,0.790675819,1,0.105263158,0,0.891467333,0.906187832,1,0.4,0
+"Some people waved plastic inflated flames, saying they symbolize what?",democracy.,0.592613697,0.68590647,0,0,0,0.511272788,0.733199835,0,0,0
+Who was proud that Hong Kong still has brave people speaking out?,Leung Kwok-hung,0.14290601,0.09944959,1,0.058823529,1,0.403159797,0.530936241,1,0.055555556,1
+What did radio host Christina Chan wear before waving it?,Tibetan snow lion flag,0.658361316,0.599397898,1,0.083333333,1,0.574757397,0.649859786,1,0.083333333,1
+Which group did Jens Galschiøt lead?,The Color Orange democracy group,0.401006788,0.702224612,0,0,0,0.401006788,0.702224612,0,0,0
+What did Galschiøt construct in Hong Kong in reference to the Tiananmen Square protests?,Pillar of Shame,0.656768203,0.698681712,1,0.142857143,0,0.391412377,0.196606934,0.666666667,0.333333333,0
+Galschiøt and two fellow protesters were denied to entry to Hong Kong for what reason?,immigration reasons,0.444947928,0.551436543,1,0.090909091,0,0.490117103,0.516099334,1,0.285714286,0
+Which American actress was questioned at the Hong Kong airport?,Mia Farrow,0.39520666,0.38492173,0.5,0.052631579,1,0.555447996,0.38492173,0.5,0.142857143,1
+A legislator said that by allowing Farrow to enter Hong Kong while denying others was a violation to what policy?,"one country, two systems",0.630164802,0.839110494,1,0.058823529,0,0.685906768,0.820423484,1,0.125,0
+What group did Jens Galschiøt lead?,The Color Orange,0.448934644,0.712385654,0,0,0,0.448934644,0.712385654,0,0,0
+What structure did Jens Galschiøt build to monumentalize the Tianamen Square protests in 1989?,Pillar of Shame,0.756370187,0.784705758,0.333333333,0.043478261,0,0.891758323,0.809465885,0.333333333,0.166666667,0
+Why was Jens Galschiøt made to leave Hong Kong?,immigration reasons,0.55712235,0.747595787,0.5,0.047619048,0,0.544507861,0.735537052,0.5,0.047619048,0
+Which actress from America was initially held and then gave a speech about China and Sudan?,Mia Farrow,0.354220748,0.352636814,0.666666667,0.086956522,1,0.354220748,0.352636814,0.666666667,0.086956522,1
+When did the torch visit Macao?,May-03,0.713380814,0.847407758,1,0.032258065,1,0.715695679,0.846810758,1,0.032258065,1
+Where was the torch ceremony held in Macao?,Macau Fisherman's Wharf,0.703223228,0.700892389,1,0.032258065,1,0.703223228,0.700892389,1,0.032258065,1
+How many torchbearers participated in Macao?,120,0.076052777,0.197195381,1,0.038461538,1,0.752026916,0.937344193,1,0.037037037,1
+Who was the first torchbearer in Macao?,Leong Hong Man,0.586969018,0.844276786,1,0.066666667,1,0.586969018,0.844276786,1,0.064516129,1
+A newspaper article criticized that there were not enough of what kind of person among the torchbearers?,athletes,0.575755358,0.787169874,0,0,0,0.575755358,0.787169874,0,0,0
+When was the torch relay event held in Macao?,May-03,0.745382726,0.958940387,1,0.032258065,1,0.714668393,0.934763849,1,0.032258065,1
+How many torchbearers carried the torch in Macao?,120,0.080298632,0.253328502,1,0.037037037,1,0.372230709,0.263796866,0,0,0
+Who was the first person to carry the torch in Macao?,Leong Hong Man,0.636072099,0.85403955,1,0.064516129,1,0.030781411,0.133801728,1,0.064516129,1
+Which casino tycoon participated in the torch relay event?,Stanley Ho.,0.599997163,0.633834481,0,0,1,0.25556314,0.155100405,0,0,0
+Which publication was unhappy with the amount of non-athlete torchbearers?,Macao Daily News,0.20468539,0.222894728,0,0,1,0.20468539,0.222894728,0,0,1
+A Macau citizen was arrested for posting a plea to disrupt the relay on what website?,cyberctm.com,0.126266301,0.29738304,1,0.055555556,0,0.094754338,0.269761562,1,0.055555556,0
+"In addition to cyberctm.com, what other website was shut down for two days?",orchidbbs.com,0.36746496,0.642278135,0,0,0,0.381170034,0.533035874,0,0,0
+Who was arrested on April 26 for posting an online message?,A Macau resident,0.546622634,0.562689602,1,0.058823529,1,0.500863135,0.176514551,1,0.142857143,1
+Where was the message posted?,cyberctm.com,0.353965282,0.678787768,0,0,0,0.353965282,0.678787768,0,0,0
+Who denied the shutdown was motivated by politics?,The head of the Bureau of Telecommunications Regulation,0.473985255,0.604067326,0,0,0,0.473985255,0.604067326,0,0,0
+"After its April departure, when did the torch return to China?",May-04,0.773908019,0.888237596,1,0.083333333,1,0.716703176,0.902459145,0.5,0.142857143,0
+What actor attended a torch celebration in China?,Jackie Chan,0.725143969,0.801264942,1,0.038461538,1,0.731075048,0.809895396,1,0.038461538,1
+"When did the torch reach Sanya, Hainan?",May-04,0.660265684,0.913769484,1,0.076923077,1,0.231109768,0.148677751,1,0.076923077,1
+When was the last time the torch had been in China?,April.,0.688876569,0.797298968,1,0.04,1,0.668340266,0.815584183,1,0.090909091,0
+Who attended the celebrations?,IOC,0.449054718,0.644199133,0,0,0,0.495850503,0.590580583,0,0,0
+Which actor also attended the celebrations?,Jackie Chan.,0.461117446,0.473755479,0,0,0,0.316857934,0.538596869,0,0,0
+The Chinese coverage of torch relay events has been accused by Western reporters as being what?,partial and censored,0.682034612,0.679619074,1,0.133333333,0,0.562955856,0.810845137,0.5,0.25,0
+"In turn, Chinese supporters have accused Western media of being what in their coverage?",biased.,0.758749306,0.798888206,1,0.133333333,0,0.729741454,0.812885046,1,0.333333333,0
+Which French newspaper was accused of being biased by Chinese State press agency Xinhua?,Libération,0.499668777,0.609383464,0.666666667,0.105263158,0,0.393006265,0.059154131,0.333333333,0.2,0
+What was under scrutiny?,media coverage,0.576276362,0.585349381,0,0,0,0.54853332,0.555644751,0,0,0
+Coverage in China is reported to be partial and what?,censored,0.598770261,0.807151318,1,0.090909091,0,0.640853822,0.650790393,1,0.090909091,0
+What organization interrupted the relay and was not broadcast by the Chinese media?,Reporters Without Borders,0.365910172,0.340671092,1,0.045454545,0,0.17266199,0.289957851,1,0.2,0
+Chinese State Press said what French newspaper was biased?,Libération,0.660680115,0.631263196,0.5,0.052631579,0,0.740514517,0.764809966,0.5,0.052631579,0
+The Chinese State Press said the French newspaper was supporting a handful of what?,saboteurs,0.101676427,0.207942054,0.5,0.058823529,0,0.101676427,0.207942054,0.5,0.058823529,0
+What did the Chinese media focus on as far as human rights protesters?,the more disruptive protesters,0.60109067,0.579182804,1,0.1,0,0.630409956,0.815802217,1,0.166666667,0
+Xinhua and CCTV focused on people who what?,condemned the protests,0.398619473,0.316144824,0.5,0.083333333,0,0.678004622,0.287348866,0,0,0
+Which athlete was ignored by media for supporting the protesters?,Marie-José Pérec,0.117194965,0.16918157,0,0,1,0.117194965,0.16918157,0,0,1
+What did Xinhua call protesters?,radicals,0.489698112,0.770957291,1,0.045454545,0,0.390503913,0.162656128,1,0.333333333,0
+Which athlete showed support for the people protesting?,Marie-José Pérec,0.352222413,0.492064774,0,0,1,0.352222413,0.492064774,0,0,1
+Which publication said that protesters were trampling human rights?,Xinhua,0.461510181,0.784359753,0,0,0,0.577072263,0.964603782,0,0,0
+"Though several torchbearers withdrew from the torch relay, the official website for China stated that Indian torch participants vowed to run for what?",spirit of Olympics,0.119873174,0.280885398,0,0,0,0.573318124,0.782964349,0,0,0
+What did Ayaan Ali Khan and Manavjit Singh Sandhu say should not be mixed?,sports and politics,0.592015207,0.292036295,0,0,0,0.620273471,0.396202058,0,0,0
+"Though four withdrew, it was reported that Indian torchbearers vowed to what?",run for spirit of Olympics,0.406241685,0.280373275,0.5,0.066666667,0,0.43157953,0.244436473,0.5,0.066666667,0
+Several torchbearers said what two things should not be combined?,sports and politics,0.420950532,0.565914273,1,0.071428571,0,0.393487692,0.565024853,1,0.071428571,0
+Which United Kingdom newspaper published a Chinese ambassador's opinion that Western media had demonized China with torch coverage?,The Daily Telegraph,0.64558661,0.698509336,0.75,0.176470588,0,0.64558661,0.698509336,0.75,0.176470588,0
+What French newspaper did the Chinese media accuse of bias?,Libération,0.174087346,0.084691726,1,0.105263158,0,0.765438855,0.718733311,0.5,0.166666667,0
+Some Chinese have accused Western media of what in their reportings?,Western media bias.,0.784198523,0.813257217,1,0.125,0,0.830631256,0.77092886,1,0.333333333,0
+Who was the Chinese ambassador to the U.K.?,Fu Ying,0.589725733,0.753546715,0.5,0.0625,0,0.519230366,0.811981618,0.5,0.0625,0
+Which newspaper published these accusations?,The Daily Telegraph,0.538517177,0.737706423,0,0,0,0.176572651,0.061341815,0,0,0
+What other newspaper was accused of bias?,Libération,0.66631484,0.556479692,0,0,0,0.671998501,0.698283613,0,0,0
+ Who did Xinhua accuse of biased reporting on April 17?,CNN,0.215942323,0.177253827,1,0.083333333,1,0.351629138,0.177253827,0.5,0.1,1
+Who was accused of bias on April 17 by Xinhua?,CNN,0.589363933,0.789555371,1,0.090909091,1,0.557203531,0.81970346,1,0.090909091,1
+Who wanted CNN to apologize for its insult to Chinese people?,the Chinese government,0.715361178,0.855243325,1,0.166666667,1,0.72122407,0.870920956,1,0.166666667,1
+What article did BBC put out about China just days earlier?,The challenges of reporting in China,0.686855078,0.785699248,0.666666667,0.105263158,1,0.690788269,0.76362586,0.666666667,0.105263158,1
+Who stated that Chinese people could access the BBC news website after years of not being able to?,Paul Danahar,0.11134845,0.013509182,1,0.157894737,1,0.673964858,0.600965083,0.666666667,0.285714286,0
+How many people gathered in protest at these two buildings?,"(1, 300)",0.345091224,0.401418954,0,0,0,0.496710837,0.693121791,0,0,0
+Who commented that Chinese people can look at the BBC news site for the first time?,Paul Danahar,0.598964453,0.861094236,1,0.157894737,1,0.902292132,0.762424469,1,0.375,0
+Where is BBC banned from reporting?,Tibet,0.644167662,0.792412519,1,0.052631579,1,0.644167662,0.792412519,1,0.052631579,1
+"Who published ""Overseas Chinese rally against biased media coverage"" on April 20?",People's Daily,0.657919824,0.888738275,1,0.095238095,0,0.170947284,0.049983174,1,0.333333333,0
+Which publication published a report about the Chinese rallying against media bias?,People's Daily,0.741863728,0.887234151,1,0.05,0,0.184386328,0.094551116,1,0.166666667,0
+What was the Chinese government reported running on April 4?,an anti-CNN website,0.553927004,0.950287938,0.5,0.071428571,0,0.596771479,0.855276406,0.5,0.076923077,0
+Who supposedly created the site?,a Beijing citizen.,0.111064956,0.147704959,0,0,1,0.111064956,0.147704959,0,0,1
+Who takes credit for creating the site?,a Beijing citizen.,0.455202937,0.456959784,0,0,1,0.447081298,0.488363087,0,0,1
+Who felt that the government was involved in the website?,foreign correspondents,0.631270349,0.465003431,0,0,0,0.610892177,0.481503248,0,0,0
+How many attendants accompanied the flame during it's travels?,30,0.027424712,0.133033708,0,0,1,0.794376969,0.449436009,0,0,0
+When were the 30 team members sworn in?,Aug-07,0.367685646,0.741107464,0,0,1,0.349386752,0.818811297,0,0,1
+What were their official team outfits?,matching blue tracksuits,0.331853688,0.749484062,0,0,0,0.324018896,0.761028111,0,0,0
+Which team member has his own fan following?,Second Right Brother,0.392416149,0.642630577,0,0,0,0.124061503,0.073207244,0,0,0
+How many attendants were used from the People's Armed Police for the flame's entire journey?,30,0.112050667,0.147098005,0,0,0,0.597458363,0.841149092,0,0,1
+When were these 30 sworn in?,Aug-07,0.15610525,0.276187748,1,0.055555556,0,0.203056395,0.224630535,1,0.055555556,0
+What did these 30 attendants wear?,blue tracksuits,0.433589995,0.644940972,0,0,0,0.433589995,0.644940972,0,0,0
+What is the attendant who has a large fan base called?,Second Right Brother,0.364903718,0.673595309,0,0,0,0.364903718,0.673595309,0,0,0
+Which French company was boycotted?,Carrefour,0.7338112,0.643804908,1,0.066666667,0,0.682177424,0.590206027,1,0.066666667,0
+Carrefour was boycotted because of which shareholder?,LVMH Group,0.380626261,0.160003349,1,0.071428571,0,0.548534691,0.3965666,1,0.071428571,0
+Who was the LVMH Group accused of supporting?,the Dalai Lama,0.688413501,0.683944583,1,0.055555556,0,0.688413501,0.683944583,1,0.055555556,0
+What was burned during these boycotts?,the French flag,0.721752226,0.682137609,1,0.071428571,1,0.721752226,0.682137609,1,0.071428571,1
+Who was accused of helping the Dalai Lama?,LVMH Group,0.361989558,0.256946862,0,0,0,0.435914487,0.146948427,0,0,1
+Boycotters accused France of being pro-seccessionist and what?,anti-Chinese racism.,0.487954795,0.733627558,0,0,1,0.487954795,0.733627558,0,0,1
+"The Chinese government tried to tamper the boycott, trying to avoid a similar outcome to which protests in 2005?",anti-Japanese protests,0.558343589,0.9326756,0.5,0.058823529,0,0.781955302,0.847768605,0.5,0.166666667,0
+Which newspaper urged citizens to protest peacefully?,People's Daily,0.464640081,0.379030824,0,0,0,0.464640081,0.379030824,0,0,0
+Which website had mentions of the Carrefour boycott removed by the government?,Sohu.com,0.651420712,0.860758305,1,0.071428571,1,0.651420712,0.860758305,1,0.071428571,1
+When did protests in front of Carrefour's stores occur in China?,May-01,0.707887411,0.743453801,1,0.083333333,0,0.789101243,0.630360126,1,0.083333333,0
+The Chinese government did not want a repeat of what protests?,the anti-Japanese protests in 2005.,0.644967079,1,1,0.0625,0,0.402760565,0.681245685,1,0.25,0
+Which newspaper asked the Chinese people to protest peacefully?,People's Daily,0.314096689,0.326258332,1,0.076923077,0,0.314096689,0.326258332,1,0.076923077,0
+Who removed Carrefour boycott comments from some websites?,the Chinese government,0.172848135,0.22477895,1,0.071428571,1,0.647097945,0.761791348,1,0.166666667,0
+What day did protests occur in front of Carrefour stores?,May 1.,0.55404675,0.745347559,1,0.066666667,0,0.934761405,0.672042966,1,0.1,1
+Who was the mayor of Nagano?,Shoichi Washizawa,0.372102559,0.282113433,1,0.076923077,1,0.372102559,0.282113433,1,0.076923077,1
+How did Washizawa refer to the city having the torch relay?,great nuisance,0.681342602,0.802531123,0,0,0,0.62980783,0.876028299,0,0,0
+What was vandalized after a relay event was cancelled there?,a major Buddhist temple,0.58984375,0.836910844,0,0,0,0.390339702,0.150805265,0,0,0
+Who was the mayor of Nagano?,Shoichi Washizawa,0.372102559,0.282113433,1,0.076923077,1,0.372102559,0.282113433,1,0.076923077,1
+What did he call the opportunity for Nagano to host the torch event?,great nuisance,0.477800995,0.635505795,1,0.076923077,0,0.225791335,0.11793264,1,0.076923077,0
+Where was the inital opening ceremony to be held in Nagano?,a major Buddhist temple,0.72705853,0.689016938,1,0.0625,1,0.712994039,0.691969991,1,0.0625,1
+In what is the torch flame kept lit when the torch must be off?,lanterns.,0.616150498,0.802524805,0,0,0,0.381818205,0.774358273,0,0,0
+"The torch is put out at night, on aircraft, during storms and what else?",during protests,0.562285006,0.702186823,1,0.045454545,0,0.606750488,0.9005934,1,0.045454545,0
+Who was Michael Mak Kwok-fung?,Hong Kong legislator,0.642005444,0.746765792,0,0,1,0.807458699,0.75419569,1,0.142857143,0
+Which athlete did the official website call an angel?,Jin Jing,0.743754268,0.364714026,0,0,1,0.716912866,0.454119414,0,0,1
+Which media outlets gave Jin Jing little notice?,Western media,0.558362782,0.670324922,1,0.047619048,0,0.018238004,0.184280843,0,0,0
+How many additional teams will help with the Mainland China route?,Two,0.514834821,0.484504223,0,0,0,0.711978316,0.409970582,0,0,0
+How many members are on each of these two teams?,40,0.297417819,0.769998729,1,0.055555556,1,0.074188113,0.170262203,1,0.055555556,1
+"Along with pop, soul, rhythm and blues, quiet storm, and rock, what musical style influenced adult contemporary?",easy listening,-0.005168987,0.060474627,0,0,0,-0.022834172,0.058560941,0,0,0
+What was the prevailing style of adult contemporary music in the 1970s?,soft rock,0.754064023,0.891874909,0,0,0,0.599240124,0.812723517,0,0,0
+What type of adult contemporary music was popular in the 1960s?,vocal,0.744829655,0.898844242,1,0.125,0,0.672069967,0.964361072,0,0,0
+What does the acronym AC stand for?,Adult contemporary,0.544026494,0.79855442,1,0.090909091,0,0.711435676,0.79855442,1,0.142857143,0
+"Along with easy listening, adult contemporary is a modern day continuation of what style of music?",soft rock,0.802524447,0.830994189,0,0,0,0.879190087,0.856441915,0,0,0
+"Along with harmonies, what aspect of music is emphasized in adult contemporary?",melody,0.76712358,0.83553803,0,0,0,0.905531406,0.827587783,0,0,0
+What is the typical structure of an adult contemporary song?,verse–chorus structure,0.606518984,0.808136702,0,0,0,0.759198487,0.766946733,0,0,0
+With what broader style of music does adult contemporary share its structure?,pop music,0.706592381,0.861937642,0,0,0,0.757421851,0.800351024,0,0,0
+"Along with being pleasurable, what trait makes adult contemporary appropriate for background music?",inoffensive,0.928116679,0.64134264,0,0,0,0.934192002,0.624514341,0,0,0
+What type of song is frequently seen in the adult contemporary genre?,romantic sentimental ballads,0.804259777,0.830761313,0,0,0,0.676743031,0.71474427,0,0,0
+"Along with synthesizers, what electronic instruments sometimes appear in modern adult contemporary?",drum machines,0.535663664,0.878332853,0,0,0,0.555183411,0.809724569,0,0,0
+What general type of instruments tend to be used in adult contemporary?,acoustic,0.639361382,0.815693974,0,0,1,0.692088723,0.800806344,0,0,1
+What electric instrument is often seen in adult contemporary?,bass guitar,0.602196574,0.814570963,0,0,0,0.602196574,0.814570963,0,0,0
+"Along with being faint, what characteristic is usually present in electric guitars used in adult contemporary?",high-pitched,0.661986053,0.881587267,0,0,0,0.661986053,0.881587267,0,0,0
+What age group does adult contemporary radio typically focus on?,25–44,0.747800112,0.911436081,0,0,0,0.747800112,0.911436081,0,0,0
+"Along with teen pop, dance and hard rock, what form of music is typically not heard on AC radio?",hip hop,0.295817375,0.417290628,1,0.090909091,0,0.295817375,0.417290628,1,0.090909091,0
+When did advertisers begin to focus on the adult contemporary age demographic?,1960s,0.568390965,0.785303116,0,0,0,0.387796849,0.398367971,0,0,0
+What type of music are AC stations noted as playing less of versus hits of the past?,newer music,0.649042606,0.850435257,1,0.052631579,0,0.339614451,0.887322545,0,0,0
+What is lite AC otherwise known as?,soft AC,0.525745392,0.756514311,1,0.090909091,1,0.522299051,0.831347287,1,0.090909091,1
+What is Christian AC a subgenre of?,contemporary Christian music,0.622523367,0.759106755,1,0.04,1,0.936483562,0.789625764,1,0.166666667,1
+"Along with hot, soft, urban and Christian AC, what is another prominent time of adult contemporary music?",rhythmic AC,0.63617152,0.754020751,0,0,1,0.635334849,0.708393872,0,0,1
+From what decade of easy listening radio does adult contemporary trace its heritage?,1960s,0.750153422,0.913881779,0,0,0,0.750153422,0.913881779,0,0,0
+"Generally speaking, what percentage of music on easy listening stations was instrumental?",70-80%,0.072098769,0.309493244,0,0,0,0.699408174,0.859779954,0,0,0
+On what date was the Billboard easy listening chart first published?,"July 17, 1961",0.653629303,0.863825202,0,0,0,0.200564504,0.227876589,0,0,1
+How many songs were on the first Billboard easy listening chart?,20,0.311780185,0.53589505,0.5,0.055555556,1,0.348528981,0.53589505,0.5,0.090909091,1
+Who performed the first #1 on the easy listening chart?,Brook Benton,0.671953678,0.879290581,1,0.047619048,0,0.104777329,0.217197359,1,0.090909091,1
+"Along with Frank Sinatra, Doris Day, Johnny Mathis, Nat King Cole, and Perry Como, who was a prominent early adult contemporary radio artist?",Connie Francis,0.325140864,0.62401855,0.8,0.142857143,1,0.325140864,0.62401855,0.8,0.142857143,1
+What type of covers of pop and rock songs were usually played on adult contemporary?,instrumental,0.661049008,0.876298368,0,0,0,0.661049008,0.876298368,0,0,0
+What songs from the 1940s and 1950s would adult contemporary stations play?,big band-era recordings,0.656073213,0.833539784,0,0,0,0.618500113,0.799442112,0,0,0
+What chart did the Easy Listening chart begin to diverge from?,the Hot 100 chart,0.34717536,0.437136143,0,0,1,0.337956309,0.437136143,0,0,1
+In what year did the Easy Listening and Hot 100 charts begin to diverge?,1965,0.694483757,0.858782649,0.5,0.076923077,1,0.269816428,0.306864202,0,0,0
+"Along with Roger Miller and Barbra Streisand, who was a successful Easy Listening artist in this era?",Bobby Vinton,0.509675443,0.640297532,0.666666667,0.068965517,1,0.492716014,0.619329929,0.666666667,0.068965517,1
+Why did the crossover between Hot 100 and Easy Listening decrease?,rock music continued to harden,0.718618929,0.766299784,0,0,0,0.711118817,0.885196924,0,0,0
+During what decade did rock and roll music first rise to popularity?,1950s,0.302099526,0.340347022,0.5,0.090909091,0,0.857665062,0.860173047,0.5,0.166666667,0
+What does the acronym MOR stand for?,middle of the road,0.36954999,0.796717882,1,0.142857143,0,0.36954999,0.796717882,1,0.142857143,0
+"Along with pre-rock standards, what type of older songs did MOR stations play?",big band titles,0.639506698,0.818089366,1,0.071428571,0,0.578669786,0.809717417,1,0.071428571,0
+What was another term for easy listening stations?,beautiful music,0.591271281,0.812661171,0,0,0,0.591271281,0.812661171,0,0,0
+Easy listening was predominately what type of music?,instrumental,0.701963007,0.887837887,0,0,0,0.061909609,0.096484311,0,0,0
+What types of tracks from popular artists did adult contemporary radio play?,hit singles and album cuts,0.702694058,0.832612753,0,0,0,0.702694058,0.832612753,0,0,0
+What type of format were adult contemporary and easy listening stations meant to share?,lite,0.696789145,0.79719764,0,0,0,0.709850311,0.914553285,0,0,0
+As of what year was hard rock a mainstream type of music?,1965,0.663863361,0.836964726,0,0,1,0.80649513,0.859247565,0,0,1
+"Along with soft rock, what type of music made up mainstream rock music in the late 1960s?",hard rock,0.42751348,0.505615115,0,0,0,0.552728295,0.505615115,0,0,0
+What type of instruments were prominent in soft rock? ,acoustic,0.607203305,0.85701853,0,0,1,0.61771667,0.887358665,0,0,0
+What genre of music was soft rock descended from?,folk rock,0.61877048,0.781276703,0,0,0,0.504316568,0.584522009,0,0,0
+"Along with Barbra Streisand, Carole King, Cat Stevens and Bread, who was a prominent soft rock artist of this era?",James Taylor,0.16632697,0.100556746,1,0.1,1,0.296441317,0.516905785,1,0.1,1
+At the end of what decade did the Hot 100 and Easy Listening charts begin to converge?,1960s,0.826053381,0.83350426,0,0,0,0.586638689,0.902322888,0,0,0
+During the middle and early parts of what decade did the similarity of Easy Listening and Hot 100 increase?,1970s,0.839179158,0.806460023,0.333333333,0.111111111,0,0.499051213,0.464178383,0,0,0
+How did Top 40 radio what ifmusic change during this era?,began to soften,0.823089004,0.692175865,0,0,0,0.770366907,0.67797941,0.5,0.142857143,0
+"With Elton John and the Eagles, what was a prominent adult contemporary artist in this period?",Chicago,0.410636485,0.73427999,1,0.086956522,1,0.567780495,0.852496028,1,0.086956522,1
+During what period was adult contemporary its most commercially successful?,the mid-to-late 1970s,0.755111933,0.81864202,0,0,0,0.739941955,0.808301926,0,0,0
+What artist released the best selling album of the 1970s?,Fleetwood Mac,0.151791006,0.188556477,0,0,1,0.473497272,0.37148422,0,0,1
+In what year was the best selling album of the 1970s released?,1977,0.558621049,0.685363829,0,0,1,0.204300687,0.391346693,0,0,0
+What radio stationed owned by NBC played only soft rock?,WYNY,0.533649743,0.428616047,0,0,0,0.748994529,0.725666583,0,0,0
+Who was a prominent figure at NBC's radio division?,Walter Sabo,0.506075501,0.742983103,1,0.05,1,0.506075501,0.742983103,1,0.05,1
+What genre of music was was listening to by a different demographic than hard rock?,disco,0.438552678,0.618510246,0,0,0,0.288770765,0.898205459,0,0,0
+In what decade did genres begin to diverge on the basis of demographic groups?,1970s,0.595294476,0.860484123,0,0,0,0.323806047,0.321939111,0,0,0
+"Along with Linda Ronstadt, Elton John, Rod Stewart and Elvis Presley, what rock musician sometimes had songs featured on adult contemporary radio?",Billy Joel,0.285313576,0.509561419,1,0.137931034,1,0.285313576,0.509561419,1,0.133333333,1
+During what period were artists like Anne Murray and Barbra Streisand featured on Top 40 radio?,the early 1970s,0.501898885,0.927593112,0.333333333,0.03030303,0,0.501898885,0.927593112,0.333333333,0.03030303,0
+"Along with rock and roll, what genre of music was sometimes featured on Easy Listening radio?",R&B,0.449099183,0.680576324,0,0,0,0.509558439,0.680576324,0,0,0
+What genre of music was surprisingly successful on adult contemporary radio?,disco,0.023687754,0.079509214,0,0,0,0.707546473,0.790034294,0,0,0
+"What type of musicians were artists such as Diana Ross, James Taylor, Carly Simon, Carole King and Janis Ian?",singer-songwriters,0.530793786,0.60153991,0,0,0,0.529785156,0.617259026,0,0,0
+When did the Adult Contemporary chart receive its current name?,"April 7, 1979",0.568675458,0.836966753,1,0.043478261,1,0.809689641,0.857765436,0,0,1
+What was the Adult Contemporary chart previously known as?,the Easy Listening chart,0.758185148,0.757394195,1,0.0625,0,0.645737112,0.757394195,1,0.2,0
+"Along with rap/hip-hop, what genre of music were aging listeners not as interested in?",heavy metal,0.659837067,0.82276237,0,0,0,0.537843108,0.824050725,0,0,0
+During what decade did adult contemporary become a very popular format for radio?,1980s,0.604208589,0.731708884,0,0,0,0.844737232,0.891289473,0,0,0
+"Along with Richard Marx, Bonnie Tyler, George Michael, Phil Collins, and Laura Branigan, what artist was also frequently played on Contemporary Hit Radio stations?",Michael Jackson,0.007709263,0.080730878,0.666666667,0.121212121,1,0.310088158,0.24474138,0.666666667,0.121212121,1
+What television station was responsible for the increasing success of Contemporary Hit Radio artists on the AC charts?,MTV,-0.081767492,-0.053211488,0.5,0.071428571,0,-0.081767492,-0.053211488,0.5,0.071428571,0
+"Along with Barbra Streisand, the Carpenters, Dionne Warwick, Barry Manilow and Olivia Newton-John, what adult contemporary staple found it more difficult to score chart hits in the 1980s?",John Denver,0.186726302,0.306219935,0.8,0.137931034,1,-0.017683011,0.025508502,0.8,0.137931034,1
+"Who did Allmusic refer to as ""one of the most successful pop and adult contemporary singers of the '80s and beyond""?",Phil Collins,0.566022336,0.711736441,0.666666667,0.060606061,1,0.086502478,0.106071278,0.666666667,0.060606061,1
+"In the 1970s, what two genres were not particularly successful on the adult contemporary charts?",disco or new wave,0.335825801,0.208740294,0,0,0,0.335825801,0.208740294,0,0,0
+"What genres, featured on the CHR radio format, were rarely found on adult contemporary radio?",hip-hop and harder rock music,0.668777108,0.688740015,1,0.083333333,0,0.858792782,0.71657443,1,0.083333333,0
+During what decade did hip-hop begin to be featured on the radio?,1980s,0.666006744,0.830771804,0,0,0,0.668767452,0.843995094,0,0,0
+"Along with electronic pop, what type of music was the most successful in the 1980s?",ballad-oriented rock,0.2539455,0.531854749,1,0.058823529,0,0.306703895,0.531854749,1,0.2,0
+What genre did the music of Billy Ocean belong to?,soft rock,0.547114313,0.818425775,0,0,0,0.543278456,0.861106515,0,0,0
+What was the longest that a song spent at #1 on the adult contemporary charts in the 1980s?,six weeks,0.546612978,0.757453322,1,0.066666667,0,0.58955431,0.923488617,1,0.181818182,0
+"In what year did Lionel Richie record ""You Are""?",1983,0.576377213,0.850978732,0.5,0.03030303,1,0.573274255,0.85894382,0.5,0.03030303,1
+"Aside from the adult contemporary chart, on what other chart did Lionel Richie's ""Hello"" reach the top spot?",Hot 100,0.733671069,0.80246532,0,0,1,0.711190641,0.82149446,0,0,1
+"What artist issued the album known as ""the first true Adult Contemporary album of the decade""?",Linda Ronstadt,0.222106203,0.15861544,1,0.136363636,0,0.426265657,0.272492647,1,0.272727273,0
+"In what year was the album Cry Like a Rainstorm, Howl Like the Wind released?",1989,0.563768506,0.877084911,0.5,0.055555556,1,0.563768506,0.877084911,0.5,0.058823529,1
+"What male singer featured on several songs from Cry Like a Rainstorm, Howl Like the Wind?",Aaron Neville,0.404129207,0.356111884,1,0.055555556,0,0.404129207,0.356111884,1,0.055555556,0
+"What certification did Cry Like a Rainstorm, Howl Like the Wind receive?",Triple Platinum,0.571322024,0.666108608,1,0.055555556,0,0.571322024,0.666108608,1,0.058823529,0
+"Along with ""Don't Know Much,"" what single won a Grammy?",All My Life,0.370575011,0.265964866,0,0,0,0.370575011,0.265964866,0,0,0
+What decade saw the emergence of alternative rock?,1990s,0.676183581,0.627972543,0,0,0,0.671338677,0.652724624,0,0,0
+What happened to urban R&B in the early 1990s?,softening,0.642084241,0.724467874,0.5,0.125,0,0.612742066,0.720260203,0.5,0.125,0
+The resurgence of traditional pop was one of the factors that led to what change in the music market?,widening of the market,0.611809671,0.7447052,0,0,0,0.884074688,0.820995092,0,0,0
+Mainstream artists from what decade generally did not have success on the adult contemporary charts?,1980s,0.612790167,0.816771865,0,0,0,0.149322182,0.304708481,0,0,0
+"Along with All-4-One, Boyz II Men, Rob Thomas, Christina Aguilera and Backstreet Boys, what 90s artists were notable in the pop/R&B genre?",Savage Garden,-0.050993141,0.024231154,0.666666667,0.064516129,0,-0.050993141,0.024231154,0.666666667,0.066666667,0
+"What genre of music did Lynda Thomas, Ricky Martin, Selena, Marc Anthony, Enrique Iglesias and Luis Miguel make?",Latin pop,0.458111554,0.865730405,1,0.2,1,0.466971219,0.861895323,1,0.2,1
+"What milestone did Celine Dion, Mariah Carey, Phil Collins, Michael Bolton, Whitney Houston and Shania Twain share on the 1990s adult contemporary charts?",multiple number ones,0.596225917,0.672142744,0.142857143,0.032258065,0,0.580759704,0.637082696,0.142857143,0.032258065,0
+"Along with Sarah McLachlan, Natalie Merchant, Melissa Etheridge and Sheryl Crow, what female singer-songwriter had chart success in the 1990s?",Jewel,0.44284457,0.791915774,1,0.166666667,1,0.507796705,0.936739266,1,0.166666667,1
+On what chart did Whitney Houston see success?,AC,0.567139387,0.790304542,1,0.03030303,1,0.586597145,0.766090393,1,0.03030303,1
+What was the name of the chart created by Billboard in 1996?,Adult Top 40,0.647902012,0.774540186,1,0.095238095,0,0.647902012,0.774540186,1,0.095238095,0
+Adult Top 40 represented a midpoint between what two radio formats?,"""adult contemporary"" music and ""pop"" music",0.737281263,0.844123125,0.333333333,0.1,0,0.643253088,0.617487133,0.333333333,0.1,0
+What chart is the Adult Top 40 chart sometimes confused with?,Adult Contemporary,0.516346753,0.698899209,1,0.066666667,1,0.498001337,0.825537205,0,0,0
+What radio programming genre is sometimes confused with the Hot Adult Contemporary Tracks chart?,hot AC,0.593881905,0.769662023,0,0,1,0.562528729,0.71887362,0,0,0
+"Who invented the term ""urban adult contemporary format""?",Barry Mayo,0.635321975,0.788152277,0,0,1,0.635321975,0.788152277,0,0,1
+What demographic group is the urban adult contemporary format marketed to?,African Americans,0.612508357,0.872340262,0,0,0,0.813729882,0.817589879,0,0,0
+What style of singing is absent from R&B played on urban adult contemporary format stations?,rapping,0.510545969,0.489286602,1,0.111111111,0,0.502274632,0.597893238,1,0.111111111,0
+"Along with R&B, gospel and dance music, what type of music is represented on urban adult contemporary stations?",classic soul,0.762820363,0.94496429,1,0.1,0,0.749585032,0.922170043,1,0.25,0
+Urban adult contemporary music came into being because of pressure on what previously existing format?,Hot AC,0.722970366,0.639421463,0,0,0,0.704324722,0.935336828,0,0,0
+"Who performed the song ""Unbreak My Heart""?",Toni Braxton,0.413024455,0.746090472,1,0.038461538,0,0.426799417,0.768445611,1,0.038461538,0
+What is the name of a notable dance artist along with C&C Music Factory and Black Box?,Amber,0.540904284,0.830011129,1,0.083333333,0,0.035489261,0.14062877,1,0.083333333,0
+"What radio station format plays soft AC, hot AC, disco and dance?",rhythmic AC,0.845064044,0.616327763,1,0.055555556,1,0.008376526,0.446521103,0,0,0
+"What artist notably remixed ""Unbreak My Heart""?",Soul Solution,0.30974859,0.241459951,1,0.03125,0,0.30974859,0.241459951,1,0.03125,0
+What radio station format was sometimes regarded as a type of adult contemporary?,smooth jazz,0.666905701,0.624662459,0,0,0,0.555517077,0.582355618,0,0,0
+What type of music was predominantly played on smooth jazz stations?,instrumental,0.677258968,0.919118226,0,0,0,0.371488959,0.646515131,0,0,0
+"Along with Kenny G and Dave Koz, what artist was featured on smooth jazz stations?",George Benson,0.214111149,0.171392411,1,0.125,0,0.214111149,0.171392411,1,0.125,0
+What other format of station were smooth jazz artists sometimes featured on?,soft AC,0.677271068,0.698490202,0,0,1,0.577080429,0.846561551,0,0,1
+What is Adrian Moreira's job title?,senior vice president for adult music,0.49235487,0.699133158,0,0,0,0.49235487,0.699133158,0,0,0
+For what company does Adrian Moreira work?,RCA Music Group,0.515016437,0.716490805,1,0.066666667,1,0.515016437,0.716490805,1,0.0625,1
+"Who wrote, ""In other words, AC stations are where pop songs go to die a very long death. Or, to optimists, to get a second life""?",Corey Moss,0.315289855,0.322454363,1,0.153846154,0,0.634822726,0.859816372,1,0.153846154,0
+Where was Corey Moss' article published?,MTV's website,0.428507686,0.838220775,0,0,0,0.428507686,0.838220775,0,0,0
+When do adult contemporary stations begin to play Top 40 songs?,after the hits had become established,0.786376059,0.803591609,1,0.071428571,0,0.707470179,0.881244242,1,0.071428571,0
+Who have hot AC format radio stations had to change the music they play?,less and less new music fits their bill,0.025243146,0.075169966,1,0.071428571,0,0.060140692,0.075169966,0,0,0
+By what two genres are modern pop songs heavily influenced?,dance-pop and electronic dance music,0.689636588,0.84283638,0,0,0,0.842521727,0.788428128,0,0,0
+Why is new rock not suitable for mainstream radio?,too alternative,0.65288198,0.886619985,0,0,0,0.625190079,0.896538556,0,0,0
+"What was the name of DJ Sammy's mix of ""Heaven""?","the ""Candlelight Mix""",0.54885447,0.856080174,0,0,1,0.550193429,0.853997946,0,0,1
+"Who recorded the song ""Listen To Your Heart""?",D.H.T.,0.155052453,0.118406668,1,0.04,1,0.155052453,0.118406668,1,0.04,1
+"Who is known for the song ""Everytime We Touch""?",Cascada,0.374282718,0.693471372,1,0.027027027,1,0.367927372,0.681204855,1,0.026315789,1
+"What artist performed the song ""Forget You""?",Cee Lo Green,0.458851606,0.719503284,0,0,1,0.466040373,0.397585928,0,0,1
+"What version of P!nk's ""Perfect"" appeared on adult contemporary radio in 2011?",edited,0.166642338,0.444030881,0.666666667,0.285714286,0,0.537393808,0.860137701,0.666666667,0.285714286,0
+"Along with Josh Groban, what notable pop artist started out his career on adult contemporary radio?",Michael Bublé,0.191253543,0.247498989,1,0.033333333,0,0.191253543,0.247498989,1,0.033333333,0
+What sort of sound does the music of Susan Boyle have?,ballad heavy,0.537276149,0.743565559,0,0,0,0.500087202,0.740199149,0,0,0
+"Along with Faith Hill, Shania Twain and LeAnn Rimes, what country artist has had adult contemporary hits?",Carrie Underwood,0.362962484,0.462258428,1,0.085714286,1,0.362962484,0.462258428,1,0.085714286,1
+What genre of music has soft AC found common ground with? ,country,0.830723882,0.871002793,1,0.142857143,0,0.825759828,0.912077785,1,0.2,0
+What genre of music are bands like Feist and Wilco?,indie rock,0.544297576,0.82800591,1,0.064516129,0,0.544297576,0.82800591,1,0.064516129,0
+"Along with Mumford & Sons, Of Monsters & Men, Ed Sheeran and The Lumineers, what indie artist has had adult contemporary success?",Imagine Dragons,0.031687699,0.002610535,0.666666667,0.066666667,0,0.540000379,0.614043295,0.666666667,0.068965517,0
+In what decade did indie musicians first began getting attention from the adult contemporary audience?,2000s,0.62082988,0.870832682,0,0,0,0.236929208,0.299702346,0,0,0
+"Along with the recession, what broad economic trend marked the decline of adult contemporary radio stations?",the 2005-2007 economic downturn,0.596398294,0.906687737,0,0,1,0.71801424,0.813369155,0,0,1
+"Along with CHR, Top 40 and Latino, what format have former AC stations transitioned to?",urban,0.665421307,0.947625518,1,0.25,0,0.663796604,0.947726488,1,0.25,0
+What AC format is still viable?,hot AC,0.861257493,0.543273926,1,0.083333333,1,0.841681898,0.664861083,1,0.25,1
+Declining sales of what items harmed the adult contemporary genre?,physical record,0.534588218,0.814241529,0,0,0,0.767556608,0.713274479,0,0,0
+"Generally speaking, what is the earliest decade represented by the ""oldies"" on soft AC stations?",1960s,0.782583714,0.939610481,1,0.071428571,0,0.252247572,0.420876563,1,0.071428571,0
+"Along with R&B, pop and rock, what genre of music is represented on modern soft AC stations?",jazz,0.776097894,0.912223339,1,0.2,0,0.851582646,0.859109879,0.5,0.25,0
+What genre of music do new songs on soft AC stations often belong to?,easy listening,0.771639824,0.886593938,1,0.058823529,0,0.853413105,0.820272803,1,0.333333333,0
+During what period did soft AC stations attempt to reinvent themselves?,the late 2000s/early 2010s,0.673425913,0.554030061,1,0.043478261,0,0.103038713,0.279803216,1,0.166666667,0
+"What radio format was described as being ""the acoustic equivalent to Prozac""?",soft adult contemporary,0.534933329,0.764971733,1,0.0625,0,0.618392169,0.896668434,1,0.0625,0
+What decade saw the birth of the soft adult contemporary format?,1970s,0.158659726,0.386362702,0,0,1,0.791692138,0.702386081,0,0,1
+"What radio station introduced the term ""soft rock""?",WEEI-FM,0.551959872,0.563441873,0,0,0,0.822588444,0.818771958,0,0,0
+"Where was the station that introduced the term ""soft rock"" based?",Boston,0.744289994,0.796910703,0,0,1,0.834242821,0.796910703,0,0,1
+"What processed meat, featured in WEEI-FM's ad slogan, rhymes with Joni?",baloney,0.317692459,0.39265573,1,0.043478261,0,0.317692459,0.39265573,1,0.045454545,0
+"In what country is soft adult contemporary called ""EZ Rock""?",Canada,0.023641484,0.244206801,0,0,0,0.023641484,0.244206801,0,0,0
+"Along with MOR, easy listening and soft rock, what format is soft adult contemporary a successor to?",beautiful music,0.683673084,0.815278172,0,0,0,0.430161417,0.956369817,0,0,0
+What occupation is stereotypical held by soft adult contemporary listeners?,office workers,0.019760663,0.151156232,0,0,0,0.620262742,0.773563027,0,0,0
+What advertising demographic is soft adult contemporary marketed towards?,females aged 25–54,0.657641172,0.752013981,0,0,0,0.649750054,0.718902767,0,0,0
+"What station first introduced the tagline ""everyone at work can agree on""?",KOST,0.087252952,0.12223056,0,0,1,0.599460006,0.259681582,0,0,1
+"Along with romantic and sexual relationships, family and work, what do soft adult contemporary songs sometimes discuss?",raising children,0.688978732,0.854246259,0,0,0,0.760527134,0.913854837,0,0,0
+Music from what two decades is notably featured on the soft AC format?,1960s and 1970s,0.256709099,0.312919497,0.5,0.055555556,1,0.817446649,0.879202485,0.5,0.2,0
+"Along with classic R&B, what genre is notably featured on soft AC stations?",soul,0.257349074,0.357869387,1,0.153846154,0,0.876025379,0.760937572,0.5,0.25,0
+What radio station format is soft AC often contrasted with?,hot AC,0.328244358,0.276595086,1,0.045454545,1,0.614705503,0.884128928,0,0,0
+What radio station formats faced demographic pressures in the 1960s and 70s?,jazz and big band,0.719986975,0.674077332,0.5,0.076923077,0,0.799143553,0.852593839,0,0,0
+What radio station format is facing demographic pressures in the present day?,oldies,0.878251433,0.722634912,0,0,0,0.834628999,0.75404489,0,0,0
+What radio station format have many of the former soft AC artists moved to?,adult standards,0.68215555,0.758716345,1,0.05,0,0.475492537,0.790144682,0,0,0
+Certain soft AC stations have found a niche on the radio by doing what?,incorporating more oldies,0.73761189,0.726778448,1,0.045454545,0,0.49009943,0.502138257,1,0.25,0
+Why are adult standards format radio stations declining?,aging demographics,0.7112391,0.917390943,0,0,0,0.811889887,0.875997782,0,0,0
+"Along with Andy Williams, Johnny Mathis, Nana Mouskouri, Celine Dion, Julio Iglesias, Barry Manilow, Engelbert Humperdinck, and Marc Anthony, what notable artist is featured on the soft AC format?",Frank Sinatra,-0.031090442,0.108761504,1,0.28125,1,-0.031090442,0.108761504,1,0.28125,1
+"Along with classic hits, what type of music do hot adult contemporary stations feature?",contemporary mainstream music,0.763805509,0.927316964,0,0,0,0.763805509,0.927316964,0,0,0
+What is the primary audience of hot adult contemporary format stations?,adult,0.694600046,0.912992001,0,0,0,0.698506951,0.91966629,0,0,0
+What demographic do hot AC stations featuring more pop and alternative rock focus on?,Generation Z,0.726828516,0.805208445,1,0.083333333,0,0.811379611,0.69269073,0,0,0
+"Along with urban and rhythmic dance tracks, what genre is featured on hot AC stations with a younger audience?",teen pop,0.702423632,0.788642764,1,0.125,0,0.626950085,0.733672976,1,0.125,0
+"Madonna, Cher, Gloria Estefan and Kylie Minogue are artists in what genre of music?",dance-pop,0.5869537,0.897187531,1,0.133333333,0,0.5869537,0.897187531,1,0.129032258,0
+What type of band are Backstreet Boys and Westlife?,boybands,0.541471541,0.893375456,0,0,0,0.496909738,0.861872256,0,0,0
+What genre of music is played by Westlife?,power pops,0.497980773,0.745028615,0,0,0,0.497980773,0.745028615,0,0,0
+What genre of music is played by The Eagles?,soft rock,0.450403869,0.810307503,1,0.076923077,0,0.361847281,0.740206003,1,0.076923077,0
+What is the target age range of Hot AC stations?,18-54,0.651260078,0.866502762,1,0.111111111,0,0.387741148,0.394996941,0,0,1
+What station did Mike Marino work for in 1997?,KMXB,0.453372121,0.692824721,1,0.076923077,0,0.453372121,0.692824721,1,0.076923077,0
+Where was the radio station KMXB based in 1997?,Las Vegas,0.526621103,0.888662457,0.5,0.052631579,1,0.526621103,0.888662457,0.5,0.052631579,1
+What age demographic is modern rock radio focused on?,18-34,0.751029968,0.877573967,0,0,1,0.762242258,0.853087008,0,0,1
+What is the sex of the listeners modern rock radio is geared towards?,men,0.646262884,0.82620728,0,0,0,0.646262884,0.82620728,0,0,0
+"Unlike modern rock radio, what sex is adult contemporary radio said to appeal to?",women,0.645572841,0.799631119,0,0,0,0.645572841,0.799631119,0,0,0
+What age group is Urban AC focused towards?,adult,0.608245671,0.663685799,0,0,0,0.616389036,0.684544146,0,0,0
+What race is the target demographic of Urban AC radio?,African-American,0.879717171,0.770165145,0,0,1,0.776548982,0.868869841,1,0.142857143,0
+Who is an example of an artist played on Urban AC format radio stations?,Des'ree,0.824178696,0.70033884,0,0,0,0.169678003,0.093006887,1,0.071428571,0
+What is the name of the popular album released by Des'ree?,I Ain't Movin',0.549801648,0.585663319,0,0,0,0.549801648,0.585663319,0,0,0
+What is the ethnicity of artists commonly played on urban adult contemporary radio?,black,0.627207339,0.798926353,0,0,0,0.669284999,0.823617816,0,0,0
+What other adult contemporary radio format is urban AC similar to?,soft AC,0.704938829,0.698090315,1,0.090909091,1,0.59885782,0.842062593,0,0,0
+What genre of music is not played frequently on urban AC?,hip-hop,0.694843352,0.731525064,1,0.090909091,0,0.626401424,0.707783818,0,0,0
+What two genres of music are popular on urban AC?,R&B and soul music,0.764468789,0.678843915,0.5,0.083333333,1,0.704145074,0.877650738,0.5,0.25,1
+"Along with Trey Songz, Patti LaBelle, Toni Braxton, Whitney Houston, Aretha Franklin, Frank Ocean, Craig David and Mariah Carey, who is a well-known urban AC artist?",Luther Vandross,0.006587986,0.026841521,1,0.346153846,0,0.006587986,0.026841521,1,0.346153846,0
+What adult contemporary radio format is urban AC not similar to?,hot AC,0.43438679,0.515904367,1,0.090909091,1,0.357004523,0.637115836,0,0,0
+What radio format is similar to urban AC but features older soul and R&B songs?,rhythmic oldies,0.495992541,0.494773388,1,0.181818182,0,0.50202322,0.501152396,1,0.181818182,0
+What is the earliest decade of music typically featured on the rhythmic oldies format?,1960s,0.661172926,0.93761003,0,0,0,0.352278352,0.443991303,0,0,0
+What is the most recent decade music from which music can be heard on a rhythmic oldies station?,1990s,0.741539359,0.887511015,0,0,0,0.640309334,0.887429655,0,0,0
+What is the target demographic of the rhythmic oldies format?,African-Americans,0.69528532,0.868414044,0,0,1,0.88965416,0.830720723,0,0,0
+What radio format consists of ballads and slow jams?,quiet storm,0.683257341,0.752290845,0,0,0,0.673047781,0.744264662,0,0,0
+What is the name of the radio format that is a mixture of urban and soft adult contemporary?,quiet storm,0.725720048,0.923611522,0,0,0,0.277162015,0.218534678,0,0,0
+At what time of day is the quiet storm format played?,the evening,0.748606026,0.7561391,0,0,0,0.843339205,0.796700954,0,0,0
+What is the typical ethnicity of artists played on quiet storm stations?,Black and Latino,0.677276313,0.897007108,0,0,0,0.684550166,0.904445708,0,0,0
+"Along with Freddie Jackson, Johnny Gill, Teena Marie, Lalah Hathaway, Toni Braxton, and En Vogue, what artist is popular on quiet storm stations?",Vanessa L. Williams,-0.01257313,0.045356091,0.833333333,0.208333333,1,0.037996128,0.368863225,0.833333333,0.208333333,1
+"Along with urban adult contemporary and smooth jazz, what station format might feature music from Sade?",mainstream AC,0.474394679,0.838717163,0,0,1,0.436355531,0.834361255,0,0,1
+What other format is sometimes played on urban AC stations?,smooth jazz,0.494240403,0.381586105,1,0.083333333,0,0.440018237,0.262219131,0,0,0
+When might you hear smooth jazz on a soft AC station?,the weekends,0.763759196,0.649838507,1,0.066666667,0,0.728119195,0.863533735,1,0.066666667,0
+What is a more recent name for the smooth jazz format?,Smooth AC,0.52137965,0.32003969,0,0,1,0.581940889,0.668878317,0,0,0
+What was the smooth jazz format renamed?,to lure younger listeners,0.71514076,0.869692087,0,0,0,0.609074593,0.827408195,0,0,0
+"Along with soft AC, on what station format might adult contemporary R&B be featured?",urban AC,0.733121157,0.861259639,1,0.222222222,1,0.733121157,0.861259639,1,0.222222222,1
+What features are emphasized in adult contemporary R&B music?,songcraft and sophistication,0.801891804,0.836152315,1,0.1,0,0.682921171,0.836264193,0,0,0
+"Along with smooth soul and quiet storm, what genre influenced adult contemporary R&B?",Philly soul,0.763463736,0.923305273,1,0.0625,0,0.775263309,0.943933427,1,0.0625,0
+During what decade was smooth soul popular?,1970s,0.610622406,0.914003015,0,0,1,0.610622406,0.914003015,0,0,1
+"Along with drum machines and synthesizers, what electronic instruments are often found in modern R&B-based music?",sequencers,0.599585712,0.906181812,1,0.066666667,0,0.580626547,0.880911827,1,0.066666667,0
+What genre of music did Patti Austin perform?,jazz-R&B fusion,0.460082829,0.757060409,1,0.033333333,0,0.45384717,0.818768442,1,0.032258065,0
+Of what genre was the musician Keith Sweat?,crossover R&B,0.459671497,0.872348368,1,0.03030303,1,0.459671497,0.872348368,1,0.03030303,1
+During what decade were musicians like Al Jarreau and Luther Vandross notably successful?,1980s,0.492359549,0.74412483,0,0,1,0.520515203,0.797221482,0,0,1
+What type of songs was Leona Lewis known for?,ballads,0.460477501,0.907073021,1,0.032258065,0,0.455827892,0.916691959,1,0.032258065,0
+Who wrote Boyz II Men's I'll Make Love to You?,Babyface,0.514586329,0.82697618,0,0,0,0.529587448,0.821210146,0,0,0
+What is CCM an acronym of?,Contemporary Christian music,0.506106496,0.773810625,1,0.0625,1,0.506106496,0.773810625,1,0.0625,1
+What genre of music is performed by MercyMe?,Christian AC,0.413317561,0.765411615,0,0,0,0.413317561,0.765411615,0,0,0
+What publication includes Christian AC with its format charts?,Radio & Records,0.722336411,0.775973678,1,0.045454545,1,0.722336411,0.775973678,1,0.045454545,1
+"Along with mainstream AC, what format has also featured Christian AC artists on a crossover basis?",hot AC,0.482702792,0.655149102,1,0.066666667,1,0.612391233,0.655149102,0.5,0.111111111,0
+What AC format is especially known for playing Christmas music in the Christmas season?,soft AC,0.665880144,0.72175777,0.666666667,0.08,1,-0.024167538,0.000422679,0.666666667,0.285714286,1
+During what two months does the Christmas season take place?,November and December,0.59664458,0.823303699,0,0,1,0.59664458,0.823303699,0,0,1
+"Along with Bing Crosby, Dean Martin, Nat King Cole, The Carpenters, Percy Faith and Andy Williams, who is an artist played on AC stations around Christmastime but not otherwise?",Johnny Mathis,-0.008193957,0.12437129,0.714285714,0.161290323,1,-0.008193957,0.12437129,0.714285714,0.161290323,1
+When does Christmas music on AC format stations usually begin?,the week before Thanksgiving Day,0.679925799,0.922808051,1,0.083333333,1,0.880573928,0.910792232,1,0.222222222,0
+When is the earlier of the two times that Christmas music on adult contemporary stations typically ends?,after Christmas Day,0.722998023,0.897070885,0.5,0.045454545,1,0.722998023,0.897070885,0.5,0.043478261,1
+When is the later of the two times that Christmas music on adult contemporary stations usually ends?,New Year's Day,0.738377035,0.908944428,0.5,0.045454545,1,0.724915862,0.916201174,0.5,0.043478261,1
+When is the earliest an AC station will switch to a Christmas format?,the beginning of November,0.676370859,0.54176724,1,0.074074074,1,0.250898629,0.361267924,1,0.222222222,0
+What two formats pioneered the Christmas music tradition in the 1960s?,beautiful music and easy listening,0.659720898,0.491149932,0.666666667,0.086956522,0,0.659720898,0.491149932,0.666666667,0.086956522,0
+"Outside of employment, what is the other main issue that affirmative action focuses on?",education,0.717907906,0.818286896,0,0,0,0.741522193,0.885231912,0,0,0
+Affirmative action attempts to ask institutions to grant extra consideration to what group of people outside of Native Americans and women?,racial minorities,0.838180244,0.876154304,1,0.2,0,0.103650764,0.172756925,1,0.2,0
+Studies showed that discrimination in both business sectors and education resulted in advantages for what group of people?,whites and males,0.736838937,0.691934168,0,0,0,0.674880028,0.834970474,0,0,0
+"Affirmative action does not only attempt to remove disadvantages, but also to ensure what about the number of people in a field?",are more representative of the populations they serve,0.743280888,0.978546262,0,0,0,0.758006692,0.939120293,0,0,0
+What is another example aside from racial quotes of affirmative action for collegiate admissions?,gender quotas,0.740627825,0.682440698,0,0,0,0.736711502,0.865593135,0,0,0
+Having quotas regarding admissions or employment has been criticized and said to be what kind of discrimination?,reverse,0.529384851,0.486992627,0,0,0,0.118873529,-0.033890195,0,0,0
+What case determined that some implementation of affirmative action was unconstitutional?,Gratz v. Bollinger,0.747670949,0.806538045,0,0,1,0.108101375,0.022339966,0,0,1
+In which time period did discrimination policies originate from?,Reconstruction Era,0.723191142,0.817892432,0,0,0,0.745477974,0.805641353,0,0,0
+What do critics of affirmative action believe should be the main factor in hiring?,achievement,0.648901463,0.821083903,0,0,0,0.663578033,0.757073224,0,0,0
+When did the Reconstruction Era end?,1877,0.463244051,0.855376959,1,0.0625,0,0.612912357,0.855376959,0,0,0
+Who proposed that land be divided and split up among families of color?,General William Tecumseh Sherman,0.643321514,0.614289224,0,0,0,0.643321514,0.614289224,0,0,0
+What was the policy of dividing land among families of color referred to as?,Forty acres and a mule,0.422774464,0.38968271,0,0,1,0.412049711,0.397845685,0,0,1
+Which part of the constitution was the basis for policies that were developed during the Civil Rights Movement?,Equal Protection Clause of the 14th Amendment,0.590515614,0.703146935,1,0.111111111,0,0.590515614,0.703146935,1,0.111111111,0
+"Who was the first person to utilize the term ""affirmative action""?",President John F. Kennedy,0.86998415,0.741994619,1,0.1,1,0.881746471,0.716406643,1,0.125,1
+"In which document did the term ""affirmative action"" first appear?",National Labor Relations Act,0.824699283,0.776326776,1,0.142857143,0,0.909468412,0.731101513,1,0.125,0
+Who was the author of the National Labor Relations Act?,Senator Robert F. Wagner,0.754898667,0.699827909,1,0.090909091,1,0.433413208,0.285568386,1,0.090909091,1
+Who did employers routinely blacklist of fire?,employees associated with unions,0.518020451,0.673528314,0,0,0,0.509074271,0.887646556,0,0,0
+Who was able to review complaints about possible worker discrimination?,National Labor Relations Board,0.713955581,0.54450947,0,0,1,0.713955581,0.54450947,0,0,1
+Which group of people did the Wagner Act fail to protect?,minorities,0.706985652,0.688640177,0,0,0,0.469880879,0.259736598,0,0,0
+Who was the true backer of the cause of affirmative action?,Harold L. Ickes,0.69545567,0.782585084,0,0,0,0.683877349,0.807450712,0,0,0
+What position of power did Harold L. Ickes hold?,Interior Secretary,0.569490731,0.644709349,1,0.058823529,1,0.480226368,0.722317219,1,0.058823529,1
+The first introduction of a quota system mandated that contractors had to do what?,employ a fixed percentage of Black workers,0.446379483,0.485304147,0,0,0,0.635862768,0.443459213,0,0,0
+Which piece of legislation prevented any discrimination in the defense industry and government?,Executive Order 8802,0.755721211,0.584645331,0,0,0,0.633702993,0.722561002,0,0,0
+What does the FEPC stand for?,Fair Employment Practices Committee,0.415378451,0.803301573,0,0,0,0.415378451,0.803301573,0,0,0
+What group was established in response to Executive Order 9808?,President's Committee on Civil Rights,0.740197837,0.666634381,0,0,0,0.462801337,0.714180648,0,0,0
+What was the Executive Order 9808 issued in response to?,Sergeant Isaac Woodard incident,0.705396891,0.718873858,1,0.066666667,0,0.45250088,0.861701846,0,0,0
+"In which year were the ""To Secure These Rights"" findings published?",1947,0.222882926,0.207052305,0,0,1,0.472767681,0.881870866,0,0,1
+What was the committee especially disturbed by as indicated in their report?,the state of race relations,0.574643612,0.692023218,0,0,0,0.546242833,0.658944428,0,0,0
+"Who in the generation following the ""To Secure These Rights"" findings sign legislation for affirmative action into law?",Lyndon B. Johnson,0.630033493,0.824587047,0,0,0,0.637381554,0.953617454,0,0,0
+"The ""To Secure These Rights"" findings wanted desegregation of which institution?",Armed Forces,0.526170492,0.828380406,0,0,0,0.388317704,0.293519408,0,0,0
+Which risk associated with serving was specifically highlighted by the findings?,death,0.546310604,0.317303777,0,0,0,0.53892529,0.315039098,0,0,0
+What did the findings say occurred to an individual when he enters the armed services?,surrenders some of the rights and privileges,0.567925394,0.717479587,0,0,0,0.559523702,0.699382782,0,0,0
+Discrimination that prevented minorities from serving their country to the best of their abilities was seen as what?,a humiliating badge of inferiority,0.688785911,0.842567682,0,0,0,0.688785911,0.842567682,0,0,0
+Who was the first President to address the NAACP?,Truman,0.721449435,0.809865952,1,0.117647059,1,0.718482494,0.809822202,1,0.117647059,1
+How many people were present at the speech that Truman made?,"(10, 0)",0.017711611,0.144819424,1,0.047619048,0,0.017711611,0.144819424,1,0.047619048,0
+Where did Truman's historic speech take place?,Lincoln Memorial,0.464603424,0.563368618,1,0.066666667,0,0.464603424,0.563368618,1,0.066666667,0
+"During the speech, Truman made the statement that each man should be guaranteed what?",equality of opportunity,0.581897974,0.760827363,1,0.047619048,0,0.586027563,0.767340779,1,0.047619048,0
+Who's authority did Truman want to increase throughout the states?,federal,0.644910395,0.75060451,1,0.047619048,0,0.504229069,0.902692556,1,0.047619048,0
+What day did Truman mandate the end of discrimination in the federal government?,Jul-26,0.704857707,0.87478286,1,0.058823529,1,0.704857707,0.87478286,1,0.058823529,1
+How many executive orders were issued to help prevent discrimination?,two,0.669288576,0.479712784,0,0,1,-0.02340498,0.103448719,0,0,1
+What was the name given to Executive Order 9980?,Regulations Governing for Employment Practices within the Federal Establishment,0.665338516,0.830490232,1,0.055555556,1,0.663979173,0.836310625,1,0.166666667,0
+Which position was formulated as a result of Executive Order 9980?,Fair Employment Officer,0.735373497,0.686419845,1,0.055555556,0,0.868343711,0.729058683,1,0.166666667,0
+What name was given to Executive Order 9981?,Establishing the President's Committee on Equality of Treatment and Opportunity in the Armed Services,0.594873905,0.780690312,1,0.055555556,0,0.619991899,0.903453827,0,0,0
+Which year was Eisenhower elected President?,1952,0.246286169,0.317914099,1,0.055555556,1,0.246286169,0.317914099,1,0.052631579,1
+Who did Eisenhower believe should be allowed to decide the nature of discrimination laws?,the states,0.625885665,0.772656202,1,0.052631579,0,0.804622412,0.772656202,1,0.2,0
+What was established in 1953?,Government Contract Committee,0.59570545,0.598632634,1,0.1,0,0.596749127,0.634293437,1,0.1,0
+What was the main purpose of the Government Contract Committee?,conducted surveys of the racial composition of federal employees and tax-supported contractors,0.635653138,0.784392715,1,0.111111111,0,0.769388735,0.813740551,1,0.166666667,0
+Who was the chairman of the newly established committee?,Vice President Richard Nixon,0.618402123,0.587876618,0,0,1,0.388782501,0.230569169,0,0,1
+Who criticized President Eisenhower during the 1960 presidential election?,John F. Kennedy,0.659170985,0.719789028,1,0.111111111,1,0.659170985,0.719789028,1,0.111111111,1
+What was John F. Kennedy's criticism of the President based on?,not ending discrimination in federally supported housing,0.575202703,0.490825266,0,0,0,0.776668429,0.535142183,0,0,0
+Which order was issued soon after Kennedy took office?,Executive Order 10925,0.685484171,0.743413091,1,0.125,1,0.602700353,0.472272784,1,0.125,1
+What does PCEEO stand for?,President's Committee on Equal Employment Opportunity,0.390357733,0.758010268,0,0,1,0.815222859,0.758010268,0,0,1
+What was the immediate penalty for a federal contractor for not obeying the executive order?,contract cancellation,0.506211042,0.900523901,0,0,0,0.538405716,0.354754686,0,0,0
+When did President Kennedy issue Executive Order 11114?,Jun-63,0.723512888,0.722380936,0.666666667,0.25,0,0.779389739,0.849604189,0.666666667,0.2,0
+What was the main aim of Executive Order 11114?,elimination of discrimination in employment,0.742770672,0.706467986,1,0.142857143,0,0.834368706,0.78079164,1,0.166666667,0
+What was anyone who received federal funding of any sort required to do under the Executive Order?,comply to the government's policies on affirmative action,0.727028966,0.573205829,0,0,0,0.708097577,0.531078517,0,0,0
+"Which Executive Order first contained the phrase ""affirmative action""?",Executive Order 10925,0.48198536,0.489584863,0,0,1,0.903307438,0.620406687,0,0,0
+Who chaired the committee created by Executive Order 10925?,Vice President Johnson,0.38101083,0.274680376,1,0.111111111,0,0.558822453,0.256956339,0,0,0
+Who co - authored the executive order?,Hobart Taylor Jr.,0.314296007,0.287405998,0,0,0,0.638403654,0.416217446,0,0,0
+"What was the alternative phrase to ""affirmative action"" that was being considered?",positive action,0.693171144,0.892888963,0,0,0,0.814849436,0.803368986,0,0,0
+"What was the main reason that ""affirmative action"" was chosen over ""positive action""?",alliterative quality,0.625973105,0.861450791,0,0,0,0.795279026,0.921369195,0,0,0
+Who had issues with JFK's proposal?,NAACP,0.333595693,0.457243383,1,0.076923077,0,0.483554482,0.249956936,1,0.083333333,0
+Who filed complaints quickly after the Executive Order was implemented?,NAACP labor secretary Herbert Hill,0.683980107,0.696421862,0,0,0,0.683980107,0.696421862,0,0,0
+Which company was targeted by the NAACP for not having fair practices?,Lockheed Aircraft Corporation,0.64689362,0.773821831,1,0.076923077,0,0.64689362,0.773821831,1,0.076923077,0
+Who did Lockheed sign an agreement with to seek out more minority workers?,Vice President Johnson,0.675028086,0.750237286,1,0.071428571,1,0.675028086,0.750237286,1,0.071428571,1
+Which laws did the corporations in the South associate with in order to ignore the federal recommendations?,Jim Crow,0.533482552,0.701380372,1,0.083333333,1,0.533482552,0.701380372,1,0.083333333,1
+Which piece of legislation quickly followed President Kennedy's assassination?,Civil Rights Act,0.585129857,0.730965614,1,0.166666667,0,0.656874537,0.719782114,1,0.166666667,0
+"Outside of the private business regulations, what was the other aim of the Civil Rights Act?",integrate public facilities,0.619647384,0.62840569,0,0,0,0.619647384,0.62840569,0,0,0
+Which other Executive Order did the Civil Right's Act work closely with?,11114,0.58758235,0.537359178,0,0,1,0.58758235,0.537359178,0,0,1
+What was the purpose of Title VII of the Civil Rights Act?,to end discrimination in all firms with 25 or more employees,0.701773643,0.738846481,1,0.1,1,0.7942518,0.702953696,0,0,1
+What was the goal of the Equal Employment Opportunity C omission?,ending discrimination in the nation's workplace,0.696372628,0.614544511,0,0,0,0.697236061,0.698214233,0,0,0
+Which section of the legislation was considered the most controversial?,Title VII,0.582477331,0.727582991,0,0,0,0.582534254,0.730042696,0,0,0
+What did critics claim that Title VII advocate?,a de facto quota system,0.644451141,0.753962815,1,0.083333333,0,0.685214102,0.643083572,1,0.083333333,0
+Which Senator fought back against the criticism of Title VII?,Hubert Humphrey,0.720636845,0.679950356,1,0.083333333,1,0.703539968,0.718242407,1,0.083333333,1
+Who was one of the key members that Humphrey managed to convince to support the bill?,Everett Dirksen,0.516608059,0.831236184,1,0.090909091,0,0.557549477,0.808159351,1,0.2,0
+What position of importance other than Senator did Everett Dirksen hold?,Senate Minority Leader,0.489993453,0.722257614,1,0.071428571,1,0.30780527,0.523610413,1,0.071428571,1
+Who followed in Johnson's footsteps in terms of ensuring equal opportunity?,his successor Nixon,0.560229242,0.597901165,1,0.090909091,0,0.559081912,0.714857578,1,0.142857143,0
+Which piece of legislation was begun in 1969?,Philadelphia Order,0.332262576,0.723851681,0,0,0,0.332262576,0.723851681,0,0,0
+Which industry of jobs did the legislation target?,construction,0.471191168,0.54533875,0,0,0,0.540904701,0.575060129,0,0,0
+"Aside from the construction industry, which other group was one of the main offenders against equal opportunity laws?",craft unions,0.535099924,0.79683733,0,0,0,0.535099924,0.79683733,0,0,0
+Who held the position of Assistant Secretary of Labor?,Arthur Fletcher,0.472892523,0.80636549,1,0.083333333,1,0.472892523,0.80636549,1,0.083333333,1
+"In terms of advancement, what happened to the progression of affirmative action after the Nixon administration?",became less prevalent,0.757476568,0.768577695,0,0,0,0.533117533,0.777531147,1,0.25,0
+What was one of the primary reasons that the issue of affirmative action lost its momentum?,there were other areas that needed focus,0.654030502,0.885802388,0,0,0,0.731155396,0.863790452,0,0,0
+Which administration allowed affirmative action to take a backseat to other issues?,Ford,0.760425925,0.821535707,0,0,1,0.652264833,0.865412176,0,0,0
+What kind of classification was subject to strict scrutiny?,racial,0.517528474,0.864995599,0,0,0,0.638671756,0.589242458,0,0,0
+What was the only situation in which a racial classification could be considered acceptable?,necessary to promote a compelling governmental interest,0.653913975,0.863689899,0,0,0,0.093932919,0.164752573,0,0,0
+Who later confirmed that racial classifications were only to be upheld if they were necessary?,U.S. Supreme Court,0.765605211,0.81931603,0,0,0,-0.024064444,-0.010788709,0,0,0
+What is an example case that can help display where upholding a racial classification is beneficial?,Richmond v. J.A. Croson Co.,0.564439654,0.553343534,0,0,1,0.173780799,0.139946908,0,0,1
+Which case concerning White and Hispanic firefighters was heard by the Supreme Court in 2009?,Ricci v. DeStefano,0.403025389,0.469442725,1,0.173913043,0,0.435849845,0.507060051,1,0.173913043,0
+Where was the issue of White and Hispanic firefighters heard in the case based out of?,"New Haven, Connecticut",0.342088938,0.408030927,1,0.090909091,0.5,0.392490029,0.466858864,1,0.090909091,0.5
+How many whites were given the possibility of immediate promotion as a result of taking the controversial test?,17,0.034506075,0.125991195,0,0,1,0.016657863,0.118928812,0,0,1
+What percentage of those people taking the test were African American?,23,0.178969294,0.268350303,1,0.052631579,0,0.321118027,0.268350303,1,0.111111111,0
+What was the final vote count for the Supreme Court over the issue?,05-Apr,0.462125748,0.738276601,1,0.041666667,1,0.472814292,0.821280777,1,0.041666667,1
+Which President declared that discrimination is contrary to the Constitutional principles of the United States?,Kennedy,0.735563636,0.735999703,0.5,0.076923077,1,0.73429817,0.736868322,0.5,0.076923077,1
+Which piece of legislation did President Kennedy use to claim that discrimination was a violation of the Constitution?,Executive Order 10925,0.770662487,0.807804525,0.5,0.111111111,1,0.770662487,0.807804525,0.5,0.111111111,1
+What were the affected industries in terms of regulation as a result of Executive Order 10925?,Federal Government and on government contracts,0.557177126,0.905874908,1,0.125,0,0.557177126,0.905874908,1,0.142857143,0
+"Other than being race and gender based, what did believers in affirmative action also feel that the system discriminated against?",class,0.783868194,0.880864203,0,0,0,0.769229472,0.884973824,0,0,0
+Which organization believed in the class based argument?,African American Policy Forum,0.670521259,0.748264551,0,0,1,0.680783033,0.741965771,0,0,1
+What group of people did the AAPF claim affirmative action created?,African American middle class,0.665352643,0.823248267,0,0,0,0.758540332,0.738225996,0,0,0
+What does the AAPF believe the foundation for the class based argument is?,non-poor minorities do not experience racial and gender based discrimination,0.783272445,0.799894214,0,0,0,0.762022078,0.571374774,0,0,0
+What does the AAPF believe the goal of affirmative action should be?,to address race-based obstacles that block the path to success,0.717752934,0.878177643,0,0,0,0.807281971,0.852351665,0,0,0
+What major event preceded the growth of the divide in education between White and Black Americans?,end of World War II,0.644114673,0.648931742,0.5,0.1,1,0.658711791,0.730231106,0.5,0.1,1
+What was considered to be a major cause of the increase in educational gap?,Dwight D. Eisenhower's GI Bill,0.666833997,0.644133866,0,0,0.5,0.657548606,0.629116058,0,0,0.5
+What did returning black veterans not receive?,loans at the same rate as whites,0.514578462,0.672421038,0,0,0,0.514578462,0.672421038,0,0,0
+How many servicemen and women were educated as a result of the GI Bill?,Nearly 8 million,0.149557248,0.272675067,1,0.111111111,1,0.357334554,0.272675067,1,0.2,1
+What opportunities were few for black veterans?,higher educational,0.708593726,0.518180013,0,0,0,0.834124923,0.550853729,0,0,0
+"Who conducted a study about the origins of ""Latinos""?",Dr. Paul Brest,0.564984202,0.531639695,0,0,1,0.388071656,0.797745109,0,0,1
+"How much of the Latino population did Mexican Americans, Puerto Ricans and Cuban Americans make up in 1991?",80%,0.641964018,0.846284747,0.8,0.222222222,1,0.870349944,0.799958229,1,0.384615385,1
+"In relation to other major ethnic groups, what is the education level of Latinos?",least well educated,0.739425719,0.777495742,0,0,0,0.580415487,0.663736641,0,0,0
+What was the percentage increase of the high school completion rate for African Americans between 1975 and 1990?,12%,0.077231638,0.253204525,0,0,1,0.12672247,0.294139981,0,0,1
+How many of the total bachelor degrees awarded in 1990 went to Latinos?,3.10%,0.158482924,0.089037105,0.5,0.041666667,1,0.158482924,0.089037105,0.5,0.041666667,1
+Which groups can be categorized as Native Americans?,people who lived in North America before European settlement,0.672561288,0.809840977,1,0.045454545,1,0.89376992,0.742749214,1,0.125,1
+When did the Native Americans lose their land?,During the U.S. government's westward expansion,0.626168251,0.797705531,1,0.043478261,1,0.827716351,0.815230012,1,0.2,1
+Where were Native Americans forced to live after they lost their land?,reservations,0.662632108,0.79949379,1,0.05,0,0.851964355,0.79949379,1,0.2,0
+How much land did the Native Americans own in 1934?,52 million acres,0.533568263,0.797522664,1,0.086956522,1,0.878896594,0.68882066,1,0.181818182,1
+"In relation to whites, what was the poverty rate for Native Americans in 1990?",more than triple,0.700016975,0.882077932,1,0.068965517,0,0.891218424,0.882077932,1,0.222222222,0
+What form of discrimination did early Asian immigrants experience?,not having the ability to become naturalized citizens,0.779532611,0.849140227,1,0.055555556,0,0.664935768,0.859281361,0,0,0
+What law type did Asian immigrants struggle with?,school segregation,0.492034703,0.405566305,1,0.058823529,0,0.492034703,0.405566305,1,0.058823529,0
+Which piece of legislature marked the start of discrimination against Asians?,Chinese Exclusion Act of 1882,0.695494354,0.678707421,1,0.058823529,0.5,0.861161768,0.678707421,1,0.076923077,0.5
+Which bill was passed in an attempt to limit or prevent Asian immigration?,Immigration Act of 1924,0.661294937,0.761385798,1,0.058823529,1,0.678520322,0.728863895,1,0.058823529,1
+"According to studies, what are Asians perceived to be lacking?",communication skills and personality,0.609094381,0.844622731,1,0.1,0,0.609094381,0.844622731,1,0.1,0
+What is one of the issues with affirmative action?,inherently unequal,0.771283865,0.785539925,0,0,0,0.816148281,0.780211449,0,0,0
+How do people who are in favor of affirmative action view it?,an effort towards inclusion rather than a discriminatory practice,0.764294088,0.844546854,0,0,0,0.776161671,0.848949313,0,0,0
+What does affirmative action supposedly aim to do?,overcome prejudicial treatment through inclusion,0.787045717,0.791213572,0,0,0,0.708519459,0.737748504,0,0,0
+What do proponents of affirmative action believe is the best way to combat exclusionary practices?,make special efforts at inclusion,0.681443632,0.662712812,0,0,0,0.680077016,0.915831566,0,0,0
+Which President made their stance on affirmative action clear in 1995?,Bill Clinton,0.766679764,0.809744596,0,0,1,0.297786236,0.282926202,0,0,0
+How long after his inauguration was Bill Clinton's speech?,two and a half years,0.611950636,0.88543582,0,0,0,0.302858293,0.373880327,0,0,0
+Which speech did Bill Clinton's speech draw parallels to?,"President Lyndon B. Johnson's ""Freedom is not Enough""",0.673281193,0.787100613,0,0,0,0.673281193,0.787100613,0,0,0
+What did President Clinton claim would not be enough to give everyone in American equality?,just outlawing discrimination,0.671850383,0.732915103,0.5,0.111111111,0,0.625657141,0.804086268,0.5,0.111111111,0
+What was President Clinton's response to the claim that affirmative action was hurting the white middle class.,the policy was not the source of their problems,0.71981746,0.891655803,1,0.111111111,0,0.829736054,0.790151,1,0.25,0
+Where was the National Conference of State Legislatures held in 2014?,Washington D.C.,0.451815128,0.793787956,0.5,0.052631579,0,0.451815128,0.793787956,0.5,0.052631579,0
+What did proponents of affirmative action claim some of the effects of policies that support affirmative action had done?,help to open doors for historically excluded groups in workplace settings and higher education,0.657020807,0.686576068,0,0,0,0.842698872,0.734403849,0,0,0
+What has the concept of workplace diversity caused employers to do?,actively seek to promote an inclusive workplace,0.811222672,0.850891888,0,0,0,0.815649152,0.787458897,0,0,0
+Having a diverse workplace allows for employers to do what?,draw in talent and ideas from all segments of the population,0.682813585,0.809879899,0,0,0,0.677271247,0.753644824,0,0,0
+Which organization claims that private sector employers believe having a diverse workplace is beneficial?,U.S. Equal Employment Opportunity Commission,0.728681803,0.827072501,0,0,0,-0.016295005,0.005180474,0,0,0
+What does AAUP stand for?,American Association of University Professors,0.548927188,0.821146607,0,0,0,0.548927188,0.821146607,0,0,0
+What were the effects of affirmative action on universities according to the study done by the AAUP?,positive effects on the educational outcomes and experiences of college students,0.757314563,0.796641946,0,0,0,0.799623609,0.698466063,0,0,0
+What did a study claim about the beliefs of faculty members on increased diversity?,helps students to reach the essential goals of a college education,0.757853031,0.679041028,0,0,0,0.837196231,0.696558237,0,0,0
+Who supposedly suffers no detrimental effects from classroom diversity?,Caucasian students,0.607293487,0.736789823,0,0,0,0.765840113,0.649611294,0,0,0
+In which year did the AAUP release their study?,2000,0.395235747,0.90913105,0,0,1,0.133081183,0.174988598,1,0.2,0
+Who claims that artificially raising minority students into schools has a negative effect on them?,Richard Sander,0.782109261,0.623138785,0,0,0,-0.030429289,0.016475335,0,0,0
+What was a negative effect of affirmative action according to Richard Sander?,high dropout rates,0.725549877,0.87247926,0,0,0,0.705369949,0.853738308,0,0,0
+Where do half of the black college students rank in terms of their performance relative to the rest of their class?,bottom 20 percent,0.659983635,0.839625001,0,0,1,0.806886792,0.852366686,0,0,1
+What is the failure rate for black law school graduates compared to whites for the bar exam?,four times,0.106218927,0.237699553,0,0,1,0.014035558,-0.024667092,0,0,1
+Which idea is the controversy of affirmative action primarily based upon?,class inequality,0.778248012,0.811071992,0,0,0,0.322414011,0.437374502,0,0,0
+"Other than African Americans, who do detractors of affirmative action claim benefit most from affirmative action?",Hispanic Americans,0.215350613,0.348424405,0,0,0,0.536398947,0.495822489,1,0.2,1
+At who's expense other than Asian Americans are upper-class African Americans and Hispanic Americans supposedly benefiting?,lower-class European Americans,0.653087616,0.893919468,1,0.444444444,1,0.588851094,0.858909845,1,0.444444444,1
+What do some people believe should be the basis for affirmative action instead of race based legislation?,class-based affirmative action,0.738763332,0.838124394,0,0,0,0.709153533,0.881357551,0,0,0
+Who primarily makes up America's poor group?,people of color,0.559276462,0.3837277,0,0,0,0.639992118,0.787181139,0,0,0
+Where were the Italian American professors employed that asked to be added as an affirmative action category?,City University of New York,0.600070953,0.656602323,1,0.142857143,1,0.23830156,0.67947638,0,0,0
+Which year did the Italian American Professors make their request?,1976,0.050257452,0.142752454,1,0.058823529,0,0.050257452,0.142752454,1,0.058823529,0
+What category of race do Italian Americans normally fall under?,white,0.611876965,0.648566127,1,0.111111111,0,0.621735632,0.643291533,1,0.111111111,0
+What was the title of the book written by Thomas Sowell?,Affirmative Action Around the World: An Empirical Study,0.767117381,0.665047526,1,0.111111111,0,0.766706288,0.670344949,1,0.1,0
+Why would Italian Americans want to get themselves designated as members of a preferred group?,to take advantage of group preference policies,0.762357593,0.842172205,1,0.25,0,0.762357593,0.842172205,1,0.25,0
+What book did Frederick Lynch author?,Invisible Victims: White Males and the Crisis of Affirmative Action,0.332817525,0.108206242,1,0.142857143,0,0.415130317,0.677246451,0,0,0
+What did white males feel was happening to them as a result of affirmative action?,reverse discrimination,0.623049617,0.813497305,0,0,0,0.668050408,0.820941031,0,0,0
+What moral position does Shelby Steele hold?,against affirmative action,0.641575575,0.742141426,1,0.125,0,0.641004026,0.741924644,1,0.125,0
+What does Shelby Steele believe that the true concept of affirmative action is?,enforcing equal opportunity,0.791716039,0.848738432,1,0.166666667,0,0.651615858,0.844651759,0,0,0
+Which book did Terry Eastland write?,From Ending Affirmative Action: The Case for Colorblind Justice,0.812077284,0.559970319,1,0.125,0,0.812077284,0.559970319,1,0.125,0
+"Outside of promoting diversity, was does Eastland believe the other reason to be in favor of affirmative action is?",remedying past discrimination,0.789823174,0.94182086,1,0.142857143,0,0.842161834,0.735596895,1,0.25,0
+What did Eastland believe the founders of affirmative action did not consider?,how the benefits of affirmative action would go to those who did not need it,0.660507679,0.856579423,1,0.125,0,0.786677003,0.844419956,0,0,0
+Why does Sowell believe that there is little to no incentive for the preferred minority groups to perform at their best?,because doing so is unnecessary,0.681423903,0.878480673,1,0.25,0,0.700539351,0.879539549,1,0.25,0
+What argument does Sowell make in his claim that non - preferred minorities have less incentive to perform at their best?,because it can prove futile,0.722691119,0.897268653,1,0.25,0,0.721861124,0.897348881,1,0.25,0
+What is a definition of reverse discrimination?,a policy or practice in which members of a majority are discriminated against in favor of a historically disadvantaged group or minority,0.708582044,0.847124934,0,0,0,0.875185192,0.83543545,0,0,0
+What do some commentators claim the irony of policies resulting from affirmative action is?,these policies are just another form of discrimination,0.699367642,0.804598093,0,0,0,0.730110884,0.846141458,0,0,0
+Who is an example of someone that states that affirmative action is another form of discrimination?,Ward Connerly,0.617393196,0.745805681,0,0,0,0.060319103,0.048702117,0,0,0
+What does the opposition of affirmative action believe should be the main key in determining acceptance in employment or education?,merit,0.518911004,0.640810609,0,0,0,0.598965526,0.88323468,0,0,0
+An argument against affirmative action is that it encourages what?,mediocrity and incompetence,0.700871885,0.864469111,0,0,0,0.851547837,0.800656259,0,0,0
+What is a typical argument in favor of affirmative action?,compensation argument,0.787914157,0.839112759,0,0,0,0.887121499,0.852546573,0,0,0
+"In the compensation argument, who should supposedly have to make up for past discrimination against blacks?",society today should compensate for the injuries,0.636357427,0.716467679,0,0,1,0.638596177,0.701259255,0,0,1
+Which argument is being made by those who oppose affirmative action in relation to the compensation argument?,preferential treatment for this same trait is illogical,0.69827944,0.862228751,0,0,0,0.617833853,0.616744459,0,0,0
+"In terms of whites, what is an argument that is used to try and refute the benefits of affirmative action as it relates to the compensation argument?",whites today who innocently benefited from past injustices should not be punished for something they had no control over,0.586099327,0.720926583,0,0,1,0.534595966,0.668407202,0,0,1
+"According to opposition believers, who should be punished for discrimination?",people who willingly and knowingly benefited from discriminatory practices,0.482214272,0.818604708,0,0,0,0.482214272,0.818604708,0,0,0
+"Other than failing to achieve its goal, what else do opponents to affirmative action claim it has?",undesirable side-effects,0.735401392,0.738183022,0,0,0,0.779409051,0.659037828,0,0,0
+"Other than benefiting more privileged people within minority groups, what is another argument against affirmative action?",may increase racial tension,0.700734735,0.906888843,0,0,0,0.827207923,0.798345387,0,0,0
+When was there a vote regarding affirmative action in Michigan?,2006,0.7067945,0.934249043,1,0.0625,1,0.020256858,0.16175957,1,0.166666667,1
+How many Michigan voters elected to ban affirmative action for university admissions?,60%,0.095532492,0.181794822,1,0.0625,0,0.339216679,0.181794822,1,0.25,0
+Which court case featured an unprecedented and controversial decision?,Grutter v. Bollinger,0.710282505,0.664188921,0,0,0,0.710282505,0.664188921,0,0,0
+Where are racial preferences highlighted the most in the United States?,admission to universities and other forms of higher education,0.658669353,0.949208379,0,0,0,0.67043978,0.088131689,0,0,0
+What is another term for kids who get preferential treatment due to their parents attending the same university?,legacy admissions,0.476350576,0.854150057,0,0,0,0.476350576,0.854150057,0,0,0
+Which case that went to the Supreme Court resulted in a decision regarding public universities and affirmative action?,Bakke v. Regents,0.707620263,0.769356966,0,0,0,0.102472946,0.043735139,1,0.111111111,0
+What are public universities not allowed to do?,set specific numerical targets based on race for admissions or employment,0.533468366,0.586904764,0,0,0,0.533468366,0.586904764,0,0,0
+"Instead of being allowed to set numerical targets, what did the Court rule that universities are allowed to do?","""goals"" and ""timetables"" for diversity could be set",0.389951348,0.52760458,1,0.066666667,0,0.389951348,0.52760458,1,0.066666667,0
+What does the racial preferences debate indicate about universities and colleges?,competing notions of the mission of colleges,0.734417796,0.866820335,0,0,0,0.793204308,0.706121683,0,0,0
+What claim did Ronald Dworkin make about the expectations that a college application should not have?,a right to expect that a university will design its admissions policies in a way that prizes any particular set of qualities,0.622611165,0.744324505,1,0.111111111,0,0.584684372,0.731334507,1,0.111111111,0
+What does Ronald Dworkin believe admission should represent?,a way to advance the mission as each university defines it,0.64064163,0.80878371,1,0.142857143,0,0.786766291,0.820295095,1,0.25,0
+When can affirmative action be judged to be acceptable in terms of admissions?,If diversity is a goal of the university and their racial preferences do not discriminate,0.785977304,0.788944662,0,0,0,0.772219598,0.787666917,0,0,0
+What did the ruling in Hopwood v Texas set a precedent for in terms of admission policies?,banning any use of race in school admissions,0.769356728,0.749745131,1,0.166666667,0,0.769356728,0.749745131,1,0.166666667,0
+What did the law passed by the State of Texas guarantee?,entry to any state university if a student finished in the top 10% of their graduating class,0.490151018,0.281647414,1,0.076923077,0,0.59969151,0.495343506,1,0.076923077,0
+"Other than Texas and Florida, which other state replaced racial quotas?",California,0.246407017,0.464951277,1,0.25,1,0.239157841,0.365086317,0.5,0.2,1
+What is one example of what racial quotas were replaced with?,class rank,0.676723421,0.918277025,0,0,0,0.09313374,0.191558659,0,0,0
+"After the state passed the top 10% rule, what happened to minority enrollment?",returned minority enrollment to pre-1996 levels,0.607819676,0.82582891,1,0.090909091,1,0.537058473,0.640452743,0,0,1
+What was going on at Harvard University during the 2003 - 04 academic year?,a panel discussion,0.802643239,0.548108876,0.5,0.066666667,0,0.72718668,0.597895861,0,0,0
+What did two prominent black professors point out at the panel discussion?,an unintended effect of affirmative action policies at Harvard,0.569714785,0.436561167,1,0.111111111,1,0.569714785,0.436561167,1,0.111111111,1
+What portion of black Harvard undergraduates came from families in which all four grandparents were born into the African American community?,a third,0.782871008,0.778356552,1,0.214285714,0,0.670746982,0.096229538,0,0,0
+What did the African American students at Harvard that could trace their lineage back multiple generations begin calling themselves?,the descendants,0.771518648,0.907440841,1,0.142857143,0,0.235598803,0.554905295,0,0,0
+"Other than the reasons for the under representation of African Americans, what else is still up for debate?",possible remedies,0.585203886,1.000000119,0,0,0,0.532372475,0.623386681,0,0,0
+To which university does Richard H. Sander belong?,UCLA,0.562425375,0.845145881,1,0.125,1,0.562425375,0.845145881,1,0.125,1
+In which publication did Sander publish an article questioning racial preferences in law schools?,Stanford Law Review,0.498617411,0.384847343,0,0,0,0.581629455,0.933399796,0,0,0
+What did Sander's study show in terms of black law students rankings?,half of all black law students rank near the bottom of their class after the first year of law school,0.560645342,0.552685738,0,0,0,0.560711741,0.555139363,0,0,0
+How much does the article estimate the black lawyer population would potentially grow if affirmative action was ended?,eight percent,0.696040154,0.921221495,0,0,1,0.724675298,0.639892578,0,0,1
+Which legislative work prohibited the use of racial preferences for admissions in the state of California?,Proposition 209,0.725049734,0.856090188,1,0.066666667,1,0.721626043,0.846167326,1,0.066666667,1
+What area of study did professor Mark Long have a degree in?,economics,0.429168463,0.818812728,0,0,0,0.428278148,0.820730209,0,0,0
+In which year did Long publish his study?,2007,0.167768031,0.120231122,0,0,0,0.361119151,0.815292478,0,0,0
+How were rebounds of minority enrollment explained in Long's report?,increasing minority enrollment in high schools,0.720165193,0.762684941,0,0,0,0.692177415,0.721115112,0,0,0
+Who would supposedly be the beneficiaries of a class-based style affirmative action?,white students,0.750254035,0.766974211,0,0,0,0.523119986,0.357030064,0,0,0
+What percentage of the black population thought affirmative action should be abolished?,14,0.106812827,0.332376003,0,0,1,0.185623318,0.332376003,0,0,0
+With which organization did Li file a civil rights complaint?,Office for Civil Rights,0.697728217,0.778924346,1,0.076923077,0,0.697728217,0.778924346,1,0.076923077,0
+Which university was Li alleging racial discrimination against?,Princeton University,0.458135605,0.446532965,1,0.083333333,1,0.458135605,0.446532965,1,0.083333333,1
+Who was the Dean of Admissions at Princeton University at the time of the complaint?,Janet Rapelye,0.199273139,0.111852311,0,0,1,0.655806184,0.794891536,0,0,1
+What did Princeton claim the real reasons for the rejection of Li's application was?,many others had far better qualifications,0.702150822,0.691580296,1,0.181818182,0,0.839242458,0.851590514,1,0.4,0
+"Even though Li did not get accepted, what was done instead of a straight rejection?",placement on the waitlist,0.176566422,0.11248026,1,0.090909091,0,0.495215833,0.7839818,1,0.090909091,0
+Which University had a lawsuit filed against it?,University of Texas,0.347174883,0.320158392,0,0,0,0.43250975,0.517778993,0,0,0
+What did the plaintiffs claim the university had for an admissions policy?,race-conscious policy,0.716989756,0.698384225,0,0,0,0.664300799,0.803999782,0,0,0
+What did the admissions policy of the University of Texas supposedly violate?,their civil and constitutional rights,0.660598695,0.833299577,1,0.066666667,0,0.77673018,0.823715329,1,0.166666667,0
+"Who concluded that the University maintained a ""holistic"" approach to affirmative action?",US Court of Appeals for the Fifth Circuit,0.729920149,0.658600688,0,0,0,0.712419033,0.642046809,0,0,0
+When will the Supreme Court likely hear the case for the second time?,Jun-16,0.518793344,0.916227818,1,0.095238095,1,0.238433093,0.903058171,0,0,0
+On which date were lawsuits filed against Harvard and Chapel Hill?,"November 17, 2014",0.616262257,0.9264189,1,0.058823529,1,0.57573998,0.903669357,1,0.111111111,0
+Who filed the lawsuits against the Universities?,Students for Fair Admissions,0.774625063,0.720511198,0,0,0,0.51558733,0.377796531,0,0,0
+"Other than Asian students, who else was allegedly being discriminated against?",white,0.100650206,0.218265116,1,0.166666667,0,0.771134019,0.7669698,1,0.166666667,0
+What is the Students for Fair Admissions an offshoot of?,Project on Fair Representation,0.599083245,0.845293462,0,0,0,0.594014525,0.842300534,0,0,0
+What are the Universities waiting for before proceeding with the lawsuit?,until the U.S. Supreme Court provides clarification of relevant law,0.687859058,0.707975507,0,0,1,0.692224264,0.710545957,0,0,1
+How many Asian organizations were involved in filing the federal complaints?,more than 60,0.432953626,0.567966342,1,0.052631579,1,0.250843316,0.098043755,1,0.076923077,1
+Who did the organizations file the complaints with?,Education and Justice Departments,0.462519497,0.720671177,0,0,1,0.70154047,0.696656227,0,0,0
+Who was the target of the filing?,Harvard University,0.614055634,0.597992063,0,0,0,0.583804488,0.614962816,0,0,0
+What grade average do some students have that are being rejected?,top-one-percent grade point averages,0.069699869,0.13661921,0,0,1,0.069699869,0.13661921,0,0,1
+Why was the lawsuit eventually dismissed?,the Students for Fair Admissions lawsuit makes similar allegations,0.507601678,0.853056133,0,0,0,0.797767699,0.740842104,0,0,0
+What type of carrier is the largest?,fleet carrier,0.729475856,0.75969255,0,0,0,0.797818482,0.866102099,0,0,0
+What capability does a fleet carrier offer?,offensive,0.71194011,0.757939994,0,0,0,0.827578068,0.826937437,0,0,0
+What purpose were excort carriers developed for?,to provide defense for convoys of ships,0.726330996,0.5151124,0,0,0,0.768376887,0.488978893,0,0,0
+What were most escort carriers built from?,mercantile hulls,0.742264867,0.807922721,0,0,0,0.724662662,0.828435302,0,0,0
+What are the soviet aircraft carriers used by Russia actually called?,heavy aviation cruisers,0.702475905,0.856467068,1,0.090909091,0,0.697850406,0.402822316,0,0,0
+What type of aircraft carrier was the USS Bogue?,Escort,0.678719997,0.905153632,0,0,1,0.687130809,0.85957849,0,0,1
+What type of aircraft was the USS Independence?,light,0.644901752,0.748848081,0,0,0,0.744848013,0.796147227,0,0,0
+What advantage did light carriers have over escort carriers?,speed,0.842563093,0.793398261,0,0,0,0.764246285,0.832223892,0,0,0
+What was the expected serice life of the UK 1942 Design Light Fleet Carrier?,3 years,0.021462852,0.24864921,1,0.105263158,0,0.228412226,0.24864921,1,0.333333333,0
+Who did the UK 1941 Design Light Fleet Carriers serve during the war?,Royal Navy,0.67212373,0.606204271,0.5,0.0625,0,0.710292816,0.94945842,0.5,0.166666667,0
+When did Russia's United Shipbuilding Corporation expect to begin design work for a new carrier?,2016,0.700249672,0.822211981,1,0.08,1,0.29786858,0.126468122,0.5,0.166666667,1
+What year was the goal for Russia's new carrier to achieve initial operational capability?,2023,0.207366645,0.129244491,1,0.047619048,1,0.500129282,0.126864314,0,0,1
+What was Izvestiya?,Russian newspaper,0.561850429,0.44262141,1,0.032258065,1,0.578890264,0.590596676,1,0.032258065,1
+Where was the Northern Fleets nuclear-powered aircraft carrier supposed to be stationed?,Murmansk,0.603191018,0.840858698,0,0,0,0.631860971,0.867214561,0,0,0
+Where was the Pacific Fleets nuclear-powered aircraft carrier supposed to be stationed?,Vladivostok,0.635063171,0.929119945,0,0,0,0.635063171,0.929119945,0,0,0
+"What are typically regarded as ""runways at sea""?",aircraft carriers,0.500774264,0.307820648,0,0,0,0.880742788,0.436039984,0,0,0
+What design feature do aircraft carriers feature to aid in launching and recovering aircraft?,flat-top flight deck,0.67698878,0.659986258,0,0,0,0.728944302,0.702976108,0,0,0
+Where are the most notable differences between a carrier and a land runway found?,The flight deck,0.708277762,0.795697451,0,0,0,0.876736641,0.795697451,0,0,0
+What is a primary reason that ships have shorter runways than land runways have?,a full-length runway would be costly to construct and maintain,0.666921496,0.915573418,0,0,0,0.717072964,0.892010212,0,0,0
+What do aircraft need to do when using shorter runway lengths?,accelerate more quickly to gain lift,0.453472733,0.628748417,0,0,0,0.559447289,0.670006752,0,0,0
+When did conventional carriers start recovering aircraft at an angle to port of the axial line of the ship?,early 1950s,0.267067283,0.243930101,0,0,0,0.79749465,0.788957596,0,0,0
+What risk is avoided by aircraft by using an angled deck?,hitting aircraft parked forward,0.7028355,0.862074852,0,0,0,0.703209102,0.873283148,0,0,0
+"How many ""waist"" catapults can be installed with an angled deck?",one or two,0.035948217,0.207924351,0,0,1,0.090039089,0.035787065,0,0,1
+How man bow cats can be installed with an angled deck?,two,0.006156255,0.101110727,0,0,1,-0.00364937,0.078159422,0,0,1
+What aircraft design feature improves launch and recovery cycle flexibilty?,An angled deck,0.607076645,0.753261745,0,0,0,0.735412955,0.675710201,0,0,0
+Where are ski-jump ramps located on aircraft carriers?,the forward end of the flight deck,0.688127279,0.902706563,0,0,0,0.688127279,0.902706563,0,0,0
+What did ski-jump ramps allow STOVL aircraft to do that they couldn't do with a flat deck??,take off at far higher weights,0.791922331,0.868060291,0,0,0,0.791922331,0.868060291,0,0,0
+Who originally developed the ski-jump ramp?,the Royal Navy,0.745258152,0.809347272,0,0,0,0.745258152,0.809347272,0,0,0
+What does a ski-jump ramp convert in order to be successful?,some of the forward rolling movement of the aircraft into vertical velocity,0.618040502,0.830699682,0,0,0,0.797666669,0.832909465,0,0,0
+What does the ski-jump ramp prevent a fully loaded and fueled aircraft from doing?,either stalling out or crashing directly into the sea,0.737805128,0.859169006,0,0,0,0.818345547,0.874876797,0,0,0
+What type of flight decks are aircraft carriers equipped with?,full-length,0.718977809,0.820738494,0,0,0,0.686922073,0.622783303,0,0,0
+What purpose do aircraft carriers serve for aircraft?,"carrying, arming, deploying, and recovering",0.709333897,0.703954637,0,0,0,0.678996384,0.713785291,0,0,0
+"Typically, what is the capital ship of any fleet?",An aircraft carrier,0.740868509,0.810403705,0,0,0,0.727379203,0.827843964,0,0,0
+What do aircraft carriers allow naval forces to accomplish?,project air power worldwide without depending on local bases,0.658881485,0.680705249,0,0,0,0.654226959,0.695159554,0,0,0
+What have the old converted cruiser aircraft carriers evolved into?,nuclear-powered warships,0.742056131,0.800067782,0,0,0,0.826926112,0.874264002,0,0,0
+In what year was the advent of heavier-than-air fixed-wing aircraft?,1903,0.23670274,0.276010931,0,0,1,0.403831124,0.276010931,0,0,1
+In what year was the first experimental take-off of an airplane?,1910,0.213160068,0.204500094,0.5,0.05,1,0.227749571,0.345873654,0.5,0.142857143,0
+In what year were the first experimental landings of an airplane?,1911,0.211081117,0.167587712,0.5,0.037037037,1,0.438237071,0.167587712,0,0,1
+What did the Imperial Japanese Navy Wakamiya conduct in September 1914?,the world's first successful ship-launched air raid,0.647402585,0.65547049,0,0,1,0.671359897,0.604848325,0,0,1
+What was the first carrier-launched airstrike?,the Tondern Raid in July 1918,0.738831937,0.773939252,1,0.034482759,1,0.711227655,0.723265946,1,0.142857143,0.5
+Which ship was originally known as being the capital ship of the fleet?,the battleship,0.603963733,0.756098509,0,0,0,0.603963733,0.756098509,0,0,0
+When did aircraft carriers begin being know as the capital ship of the fleet?,World War II,0.601663113,0.593203127,0,0,0,0.700747609,0.831768036,0,0,0
+"What type of carrier is capable of displacing 75,000 tonnes or greater?",Supercarriers,0.668118477,0.834608793,1,0.066666667,0,0.672611952,0.857203662,1,0.066666667,0
+Which ships are used for carrying and landing Marines?,Amphibious assault ships,0.722067356,0.819438696,1,0.125,0,0.722067356,0.819438696,1,0.125,0
+What do Amphibious assalut ships need a large contingent of for carrying Marines?,helicopters,0.642971754,0.737889767,1,0.0625,0,0.657028735,0.772955179,1,0.066666667,0
+Who is in the process of procuring two Canbera-class LHD's?,The Royal Australian Navy,0.545861959,0.141076952,1,0.133333333,1,0.787830472,0.511833489,1,0.133333333,1
+How large will the two Canbera-class LDH's be?,the largest in Australian naval history,0.754953146,0.363026321,0.5,0.055555556,1,0.716462851,0.382190883,0.5,0.058823529,1
+What is one primary role of the Canbera-class LDH?,"to embark, transport and deploy an embarked force",0.382130742,0.261102796,0,0,0,0.511429191,0.549655437,0,0,0
+How many troops can be maintained on a Canbera-class LHD?,"1,000 troops and their supporting vehicles",0.662112296,0.787294686,1,0.066666667,1,0.629248381,0.795179725,1,0.071428571,1
+How many helicopters is the LHD capable of launching?,multiple helicopters at one time,0.754844189,0.797869086,1,0.083333333,1,0.094211482,0.186660752,1,0.166666667,1
+What is the British Navy constructing to replace their three Invincible-class carriers?,"two new larger STOVL aircraft carriers, the Queen Elizabeth class",0.84167254,0.760248184,0.5,0.066666667,1,0.489600748,0.922930419,0,0,1
+What will the 2 Queen Elizabeth class ships be named?,HMS Queen Elizabeth and HMS Prince of Wales,0.703943193,0.828739285,0.5,0.055555556,1,0.647500694,0.838150382,0.5,0.166666667,1
+When are the 2 Queen Elizabeth class ships due to become operational?,2020,0.636719942,0.862914503,0.5,0.055555556,1,0.626970887,0.861058712,0.5,0.055555556,1
+How many tonnes can the Queen Elizabeth class ships displace?,"(70, 600)",0.592232227,0.881444693,1,0.055555556,0,0.592232227,0.881444693,1,0.055555556,0
+How large will the two Queen Elizabeth ships be?,the largest warships ever built for the Royal Navy,0.757598996,0.733264446,1,0.111111111,1,0.098023325,0.150990516,0.5,0.142857143,1
+Why do the constraints of constructing a flight deck affect the role of a carrier?,"they influence the weight, type, and configuration of the aircraft that may be launched",0.765714049,0.862976432,0,0,0,0.872323573,0.897085488,0,0,0
+What are assisted launch mechanisms primarily used for?,heavy aircraft,0.654795527,0.796597779,0,0,0,0.698223591,0.731743217,0,0,0
+What does CATOBAR allow for?,deployment of heavy jets with full loadouts,0.722938061,0.6575495,1,0.071428571,0,0.709721863,0.64648807,1,0.071428571,0
+Why is STOVL used by other navies?,it is cheaper to operate,0.708756149,0.849949777,0,0,0,0.754211545,0.92173028,0,0,0
+Why do almost all carriers using conventional aircraft have arrested-recovery systems?,conventional aircraft cannot decelerate on their own,0.649905086,0.790614963,0,0,0,0.583663344,0.648444414,0,0,0
+What is the purpose of an arrested-recovery system?,to recover their aircraft,0.740623355,0.84772414,0,0,0,0.832129002,0.841710448,0,0,0
+What do aircraft do when landing in order to stop on a short distance?,extend a tailhook that catches on arrestor wires stretched across the deck,0.547141194,0.439770162,0,0,0,0.563865662,0.436927259,0,0,0
+What does a landing area angles off access allow an aircraft to do if if misses the arresting wires?,bolt,0.621247947,0.81482631,0,0,0,0.697377205,0.850854695,0,0,0
+"What can a ""bolt"" prevent an aircraft from doing?",crashing into aircraft on the forward deck,0.555983126,0.832690358,0,0,0,0.584775507,0.810392857,0,0,0
+What are 3 key personnel involved in the flight deck?,"the shooters, the handler, and the air boss",0.481955826,0.433985114,0,0,0,0.390145451,0.308217227,0,0,0
+What are shooters responsible for?,launching aircraft,0.463606358,0.725760877,0,0,0,0.463606358,0.725760877,0,0,0
+What is the handler responsible for?,the movement of aircraft before launching and after recovery,0.61987865,0.681581736,0,0,0,0.639413774,0.676138222,0,0,0
+Where does the captain of the ship spend most of his time?,on the Navigation Bridge,0.549734235,0.721255302,0,0,1,0.844786167,0.502658546,0,0,1
+Who is the Flag Bridge area of the ship designated for?,the embarked admiral and his staff,0.642738938,0.79351747,1,0.111111111,0,0.861632705,0.79351747,1,0.25,0
+What is the disadvantage of the ski-jump?,"the penalty it exacts on aircraft size, payload, and fuel load",0.841995478,0.789610982,0,0,0,0.861599922,0.809569597,0,0,0
+What cannot launch using a ski-jump due to their high loaded weight?,heavily laden aircraft,0.331653059,0.286321938,0,0,0,0.838278711,0.767377496,0,0,0
+What do heavily laden aircraft sometimes require the assistance from?,a catapult or JATO rocket,0.49676314,0.655376613,0,0,0,-0.003619472,0.085471988,0,0,0
+Why is a ski-jump not included on mixed flight deck operations where helicopters are present?,would eliminate one or more helicopter landing areas,0.570887923,0.917996168,0,0,0,0.57514441,0.929685712,0,0,0
+How is the Russian SU-33 able to launch from the carrier Admiral Kuznetsov?,with a minimal armament and fuel load,0.595795095,0.817986608,1,0.153846154,0,0.593821645,0.884065926,1,0.153846154,0
+Why did China purchase the STOBAR carrier Liaoning in 1998?,on the pretext of use as a floating casino,0.663628876,0.81999743,1,0.210526316,0,0.57346189,0.81989342,1,0.210526316,0
+What is Liaoning classifed as?,a training ship,0.621819735,0.642436385,1,0.0625,0,0.910715103,0.648983657,1,0.25,0
+What is the Liaoning intended to help the navy practice with?,carrier usage,0.722322345,0.781543255,1,0.090909091,0,0.722322345,0.781543255,1,0.090909091,0
+Why is Liaoning not assigned to any of China's operation fleets?,it is a training ship,0.726754606,0.933800578,1,0.117647059,0,0.909381032,0.905601144,1,0.333333333,0
+Why did the Chinese PLA Navy need 4-5 years for Liaoning to reach full capacity?,this is the first aircraft carrier in their possession,0.701473176,0.883670449,0.25,0.0625,0,0.662586808,0.832186878,0.25,0.0625,0
+"Who started construction of a 40,000-tonne Vikrant-class carrier in 2009?",India,0.619080782,0.808877766,1,0.068965517,1,0.619080782,0.808877766,1,0.068965517,1
+What will power the Indian-made ship?,four gas-turbine engines,0.524167418,0.726536751,1,0.037037037,1,0.524167418,0.726536751,1,0.037037037,1
+"What will the range of the Indian-made ship be, carrying 160 officers, 1400 sailers, and 30 aircraft?","8,000 nautical miles",0.607658625,0.870442867,0.75,0.111111111,1,0.607872844,0.870585561,0.75,0.111111111,1
+Who is constructing the Indian-made ship?,Cochin Shipyard,0.718220472,0.609335244,1,0.037037037,1,0.718220472,0.609335244,1,0.037037037,1
+When was the Indian-made ship launched?,Aug-13,0.603022575,0.489122063,1,0.043478261,0,0.622107863,0.454801291,1,0.043478261,0
+What were carriers used for in the early 20th century?,to deploy balloons,0.6229707,0.731853664,0,0,0,0.590103745,0.777485251,0,0,0
+"As of 3/3/2016, how many active aircraft carriers are there worldwide?",thirty-seven,0.737170219,0.833585024,0,0,1,0.863301158,0.900168657,0,0,1
+What is another name for the 10 large nuclear-powered carriers operated by the U.S. Navy?,supercarriers,0.766981483,0.896192908,0.5,0.071428571,0,0.774119496,0.925242126,0.5,0.111111111,0
+How many aircraft can supercarriers carry?,up to 90,0.103740476,0.160977975,0,0,0,0.186836928,0.160977975,0,0,0
+Who owns the largest carriers in the world?,The United States Navy,0.707398653,0.844479144,0,0,1,0.744671106,0.834799767,0,0,0
+"What is the definition of an ""aircraft carrier""?",There is no single definition,0.848447084,0.831822038,0,0,0,0.883383274,0.841735482,0,0,0
+How may aircraft carriers be classified?,according to the type of aircraft they carry and their operational assignments,0.713089705,0.878866553,0,0,0,0.778730154,0.869564235,0,0,0
+Who is Admiral Sir Mark Stanhope?,former head of the Royal Navy,0.475206167,0.744559526,1,0.055555556,1,0.475206167,0.744559526,1,0.055555556,1
+"Who said, ""countries that aspire to strategic international influence have aircraft carriers""?",Admiral Sir Mark Stanhope,0.45323503,0.785109758,0,0,0,0.49192059,0.824781001,0,0,0
+What dramatically changed naval combat in World War II?,The aircraft carrier,0.595096469,0.398897231,1,0.111111111,0,0.678816795,0.564499557,1,0.111111111,0
+What drove the advent of carrier-launched aircraft as focal weapons?,"the superior range, flexibility and effectiveness",0.719361305,0.804627538,0,0,0,0.798769116,0.855362535,0,0,0
+Why were carrier-launched aircraft more effective than naval guns?,They had higher range and precision,0.738668919,0.869288325,0,0,0,0.859939158,0.89835453,0,0,0
+What was signalled in 1940 when HMS Illustrious launched an strike on an Italian fleet?,the beginning of the effective and highly mobile aircraft strikes,0.399890453,0.420888424,0.666666667,0.086956522,0,0.601779163,0.832970142,0.666666667,0.086956522,0
+What event showed the vulnerability of carriers when forced into gun-range enounters?,the sinking of HMS Glorious by German battleships,0.776857615,0.618735671,0,0,1,0.769039989,0.560007513,0,0,1
+What develpment produced the first large fleet ships?,flattop vessels,0.678585529,0.795484781,1,0.058823529,0,0.843482733,0.755419374,1,0.1,0
+What was the world's first carrier capable of launching and recovering naval aircraft?,HMS Argus,0.750106573,0.815940022,1,0.055555556,0,0.823070467,0.637859404,1,0.090909091,0
+What did the Washington Naval Treaty of 1922 limit?,the construction of new heavy surface combat ships,0.462138236,0.681009054,1,0.095238095,0,0.639690816,0.693464279,0,0,0
+"What caused early aircraft carriers to be made up of conversions of ships that were previously cargo ships, cruisers or battlecruisers?",Washington Naval Treaty of 1922,0.799776793,0.888019085,0,0,0,0.515906692,0.837175846,0,0,0
+What type of aircraft carriers did these ship conversions give rise to in 1927?,Lexington-class,0.731299818,0.813293993,1,0.055555556,1,0.510967672,0.826881945,0,0,0
+What does EMALS stand for?,Electromagnetic Aircraft Launch System,0.701226294,0.852442503,0,0,1,0.873991549,0.852442503,0,0,1
+Who developed EMALS?,General Atomics,0.77971369,0.636947393,0,0,1,0.328002065,0.207211912,0,0,0
+What do EMALS enable the launching of?,varied aircraft including unmanned combat air vehicles (UCAV),0.460553259,0.324636996,0,0,0,0.655108154,0.748633146,0,0,0
+Who was impressed by the demonstration of EMALS by General Atomics?,Indian Navy officers,0.634016156,0.500584364,0,0,1,0.634016156,0.500584364,0,0,1
+How many in-service aircraft carriers are aimed for with EMALS?,three,0.79430753,0.743139505,0,0,0,0.163486928,0.186777964,0,0,1
+What was the August 2013 launching ceremony in Yokohama held for?,Japan's largest military ship since World War II,0.460347474,0.654960394,0.5,0.032258065,1,0.460347474,0.654960394,0.5,0.032258065,1
+How many helicopters can simultaneously land on Japan's largest military ship?,five,0.026447395,0.101391487,1,0.05,0,0.122598223,0.152242243,0,0,0
+How long is Japan's largest military ship?,820-foot-long (250 m),0.690282643,0.79652065,1,0.037037037,1,-0.019891288,0.076083072,1,0.166666667,0
+How many troops can Japan's largest military ship carry?,400,0.741358161,0.849518061,1,0.037037037,1,0.702673554,0.905869901,1,0.142857143,0
+How much does Japan's largest military ship weigh?,"19,500-ton",0.315157533,0.43455255,1,0.037037037,1,0.120243274,0.376042813,1,0.142857143,0
+What will some of the current US fleet of Nimitz-class carriers be replaced with?,the ten-ship Gerald R. Ford class,0.738051295,0.860811651,1,0.068965517,0.5,0.683449984,0.824064314,0.5,0.166666667,1
+Which feature of the new ships will replace the old steam catapults?,Electromagnetic Aircraft Launch System (EMALS),0.602929413,0.277662098,0,0,1,0.725599468,0.784722745,0,0,1
+When is the USS Enterprise scheduled to be decommissioned?,2016,0.60007143,0.82137394,0,0,0,0.790455997,0.873408854,0,0,1
+How much does the Gerald R. Ford-class carrier weigh?,"100,000 ton",0.686150432,0.859929562,1,0.047619048,1,0.700396895,0.859929562,0,0,0
+How much does the America-class amphibious assault ship weigh?,"45,000 ton",0.648198187,0.879137814,1,0.052631579,0,0.515045524,0.394921422,1,0.125,0
+What type of aircraft have no need to decelerate?,VTOL-capable or helicopters,0.575505257,0.743561864,0,0,0,0.770949841,0.708240747,0,0,0
+What does the angled deck separate the recovery operation area from?,the launch area,0.654156029,0.87259084,0,0,0,0.805202961,0.87259084,0,0,0
+What does V/STOL refer to?,aircraft capable of vertical or short take-off and landing,0.634126604,0.815455496,0,0,0,0.635253727,0.808785319,0,0,0
+What capability do helicopters use to move over the flight deck and land vertically?,hover,0.623602033,0.880972385,0,0,0,0.589215875,0.904072583,0,0,0
+What don't helicopters need because of having hover capablility?,arresting gear,0.486445218,0.75385797,0,0,0,0.483043313,0.740234315,0,0,0
+What feature was pioneered on the HMS Hermes in 1923?,an island,0.622597814,0.816996336,1,0.1,0,0.052458107,0.005425233,1,0.285714286,0
+What is concentrated in the small area called an island?,The superstructure of a carrier,0.576870084,0.618833423,0,0,0,0.578467607,0.62281394,0,0,0
+"Other than Japanese carriers, which side of the flight deck are islands typically built on?",starboard,0.641549587,0.816483557,1,0.166666667,0,0.621709466,0.816483557,1,0.142857143,0
+What was the biggest drawback to the flush deck configuration?,management of the exhaust from the power plant,0.526190877,0.844423294,0,0,0,0.932909191,0.827850819,0,0,0
+What was a major issue in the USS Langley?,Fumes coming across the deck,0.562154651,0.767016828,0,0,0,0.562154651,0.767016828,0,0,0
+"What is the name of the 42,000 tonne nuclear-powered carrier commissioned in 2001?",Charles de Gaulle,0.367569119,0.186995834,1,0.08,1,0.367569119,0.186995834,1,0.08,1
+What is the Charles de Gaulle the flagship of?,the French Navy,0.655407429,0.822800398,0,0,1,0.802304983,0.629462361,1,0.166666667,0
+What type of missiles does the Charles de Gaulle carry?,Aster,0.669219613,0.786123931,0,0,0,0.669219613,0.786123931,0,0,0
+What is another name for the French Navy?,Marine Nationale,0.535429955,0.8390553,1,0.05,1,0.684484839,0.866651773,1,0.142857143,0
+What type of carrier is the Charles de Gaulle?,CATOBAR,0.721625209,0.871022105,0,0,0,0.721625209,0.871022105,0,0,0
+How many supercarriers did the U.S. fleet have following the deactivation of the USS Enterprise?,10,0.763020933,0.909718156,0.5,0.037037037,1,0.25617221,0.163271919,0.5,0.166666667,1
+How many new carriers per year did the House Armed Services Seapower subcommittee recommend in 7/24/07?,one every four years,0.106417835,0.163187206,0.5,0.052631579,0,0.493799686,0.262780875,0,0,0
+What class does the USS America belong to?,America-class amphibious assault ships,0.56868124,0.812281966,0,0,1,0.56868124,0.812281966,0,0,1
+What is the USS America capable of destroying squadrons of?,F-35Bs,0.604677022,0.709626138,0,0,0,0.598794341,0.697891951,0,0,0
+Which other carrier joins the USS America in active service?,USS Tripoli,0.447749436,0.759171844,0,0,1,0.371933043,0.534209251,0,0,1
+Why have aircraft carriers increased in size since World War II?,to accommodate a steady increase in aircraft size,0.767894864,0.880425751,1,0.083333333,0,0.727583468,0.895600617,1,0.083333333,0
+How much more displacement does the modern Nimitz class have compared to the older USS Enterprise?,nearly four times,0.593317568,0.922570229,1,0.047619048,1,0.833784938,0.889850497,1,0.2,1
+Why do nations risk significant political impacts if a carrier is lost or even used in conflict?,Today's aircraft carriers are so expensive,0.668969035,0.529909134,0,0,1,0.769841313,0.528087914,0,0,1
+Which era does the USS Enterprise belong to?,World War II,0.539854884,0.860085726,0,0,0,0.245488435,0.244080365,0,0,0
+What does LSO stand for?,landing signal officer,0.631066918,0.781796038,0,0,0,0.743544936,0.788286805,0,0,0
+Who does a conventional aircraft rely upon to moniter the aircraft's approach and transmit the data to the pilot?,a landing signal officer,0.641414165,0.518922627,0,0,0,0.641414165,0.518922627,0,0,0
+What did LSO's use to signal corrections to the pilot prior to the angled deck designs introduced in the 1950's?,colored paddles,0.192526624,0.13133201,0,0,0,0.192526624,0.13133201,0,0,0
+Which visual landing aids have provided information on proper glide slope since the late 1950's?,Optical Landing System,0.660309076,0.917576671,0,0,0,0.657851517,0.929737568,0,0,0
+What are LSO's still being used to do?,transmit voice calls to approaching pilots by radio,0.569335163,0.505878568,0,0,0,0.909878969,0.662002325,0,0,0
+What is a more fuel efficient way for STOVL aircraft to take off rather than vertically?,using the ramp and a running start,0.683102608,0.779887021,0,0,0,0.695291758,0.797684431,0,0,0
+What kind of aircraft are capable of taking off vertically?,STOVL,0.620980203,0.816115022,0,0,0,0.529307246,0.526683331,0,0,0
+What landing aircraft have removed the need for arresting cables?,vertical,0.518097579,0.79290837,0,0,0,0.495323718,0.795599759,0,0,0
+What do Russian carriers include for launching lightly loaded conventional fighters?,a ski-jump ramp,0.623776197,0.73213613,1,0.076923077,0,0.623776197,0.73213613,1,0.076923077,0
+What do Russian carriers still use to recover?,traditional carrier arresting cables and a tailhook on their aircraft,0.647304177,0.659228623,1,0.052631579,0,0.620894611,0.700884759,1,0.052631579,0
+What class carrier is the Sao Paulo?,Clemenceau,0.812120259,0.835369527,0,0,0,0.775593698,0.863813519,0,0,0
+Who is the Sao Paulo currently in service for?,the Brazilian Navy,0.738049865,0.814187646,0,0,1,0.738049865,0.814187646,0,0,1
+Who was the Sao Paulo first commissioned by in 1963?,the French Navy,0.670246899,0.860118687,0.666666667,0.057142857,1,0.82156986,0.849792063,0.666666667,0.2,1
+What did Sao Paulo undergo during the period from 2005-2010?,extensive modernization,0.527787566,0.797917724,0.5,0.034482759,0,0.682376146,0.811109602,0.5,0.1,0
+What setback happened to Sao Paula in 2012?,another major fire,0.510416269,0.625258088,0,0,0,0.621935487,0.537896633,0,0,0
+What type of carrier is Admiral Flota Sovetskovo Soyuza Kuznetsov?,STOBAR,0.76094389,0.877558708,0.333333333,0.058823529,1,0.589863777,0.892979383,0,0,1
+When was Admiral Flota Sovetskovo Soyuza Kuznetsov first launched?,in 1985,0.546869278,0.796317339,0.5,0.08,1,0.3275913,0.195677936,0,0,1
+What was Admiral Flota Sovetskovo Soyuza Kuznetsov renamed?,Tbilisi,0.62231636,0.818725228,0.333333333,0.058823529,1,0.332068741,0.883838892,0,0,1
+What is unique about Tbilisi?,carrying a heavy cruiser's complement of defensive weapons and large P-700 Granit offensive missiles,0.511509001,0.44456622,1,0.047619048,0,0.468171716,0.434435457,1,0.047619048,0
+What will be removed from Tbilisi in order to enlarge her below decks aviation facilities?,The P-700 systems,0.574709535,0.795556664,1,0.05,0,0.574462533,0.900683165,1,0.05,0
+Which class of aircraft carriers is being constructed to replace the Invincible-class carriers?,Queen Elizabeth,0.557128191,0.789597631,0,0,0,0.633851647,0.282214612,0,0,1
+What will the displacement be for the HMS Queen Elizabeth?,"70,600 tonnes",0.565279901,0.824390054,1,0.055555556,1,0.54727149,0.8053599,1,0.055555556,1
+When is HMS Queen Elizabeth projected to commission?,in 2017,0.632098258,0.687598646,1,0.055555556,1,0.335166454,0.185635269,1,0.166666667,1
+When is Prince of Wales projected to commission?,in about 2020,0.41028142,0.904318869,0,0,1,0.399666786,0.90004313,0,0,1
+Who is building HMS Queen Elizabeth and Prince of Wales?,Royal Navy,0.603487134,0.795551658,1,0.055555556,0,0.615379393,0.802353799,1,0.055555556,0
+What is an aerodome with facilities for flights to take off and land?,airport,0.617138624,0.876991451,0,0,0,0.609756351,0.858465314,0,0,0
+What is an aerially accessible open space that includes at least one active surface such as a runway or a helipad?,landing area,0.72890389,0.86613214,1,1,0,0.72890389,0.86613214,1,1,0
+What is an airport?,aerodrome with facilities for flights to take off and land,0.671501994,0.866052866,0,0,0,0.668863595,0.649134874,0,0,0
+What do airports use to assure smooth traffic flow between departing and arriving aircraft?,traffic pattern,0.690891981,0.863837719,0,0,0,0.690891981,0.863837719,0,0,0
+What is an important concern in the operation of an airport?,Air safety,0.606970549,0.842072368,0,0,0,0.640648961,0.716507077,0,0,0
+How many commercial airports did the British Airports Authority originally operate?,eight,0.619618177,0.866062582,0,0,1,0.311348259,0.0559626,0,0,1
+What group took over the British Airports Authority in 2006?,Spanish Ferrovial consortium,0.486692965,0.7427091,0.5,0.043478261,0,0.710599422,0.660633206,0.5,0.166666667,0
+What group manages the Frankfurt Airport?,Fraport,0.600785732,0.791819096,1,0.043478261,0,0.619743705,0.316646874,0,0,0
+"Who operates, through joint ventures, Indira Gandhi International Airport?",GMR Group,0.712979555,0.809205472,1,0.043478261,0,0.402943105,0.106303059,0,0,1
+Airports are divided into what two areas?,landside and airside,0.70180589,0.850630045,0,0,0,0.743230343,0.850630045,0,0,0
+What do landside areas include?,"parking lots, public transportation train stations and access roads",0.475289345,0.750339329,0,0,0,0.816007853,0.755551815,0,0,0
+What do airside areas include?,"all areas accessible to aircraft, including runways, taxiways and aprons",0.794849157,0.781829,0,0,0,0.833604574,0.788998425,0,0,0
+Where can passengers purchase tickets?,terminals,0.520910382,0.714796364,0,0,0,0.316518605,0.65568614,0,0,0
+What is the waiting area which provide passengers access to aircraft?,concourses,0.760620356,0.79946208,0,0,0,0.760620356,0.79946208,0,0,0
+Most major airports provide commercial outlets for what?,products and services,0.626796305,0.829482317,0,0,0,0.559841752,0.698485494,0,0,0
+Where are most of these companies located in an airport?,within the departure areas,0.584537625,0.89470154,0,0,0,0.584537625,0.89470154,0,0,0
+Some of these companies include what type of businesses?,clothing boutiques and restaurants,0.614864111,0.559051394,0,0,0,0.43589592,0.678052425,0,0,0
+Are prices at these outlets generally higher or lower than street prices?,higher,0.43704927,0.916675925,0,0,0,0.443972707,0.946199119,0,0,0
+What are some services that are offered by VIP services?,express check-in and dedicated check-in counters,0.638724327,0.656539679,0,0,0,0.691565216,0.644953966,0,0,0
+These services are usually reserved for what class of passengers?,First and Business class,0.403847843,0.707112551,0,0,1,0.652772367,0.789709091,0,0,1
+What type of services are sometimes open to passengers who are members of a different airline's frequent flyer program?,Premium services,0.688544631,0.649272203,0,0,0,0.530685663,0.804790616,0,0,0
+"For seamless connection of multimodal transport, where are many large airports located?",near railway trunk routes,0.679449379,0.837040901,0,0,0,0.679449379,0.837040901,0,0,0
+What does MBTA stand for?,Massachusetts Bay Transportation Authority,0.43334353,0.779222012,1,0.055555556,0,0.43334353,0.779222012,1,0.055555556,0
+It is also common to connect an airport and a city with what?,"rapid transit, light rail lines or other non-road public transport systems",0.656280041,0.788588047,0,0,0,0.438762337,0.469457716,0,0,0
+It is common for airports to provide moving walkways and what?,buses,0.631314635,0.920346618,0,0,0,0.631314635,0.920346618,0,0,0
+What airport has a tram that takes people through the concourses and baggage claim?,Hartsfield–Jackson Atlanta International Airport,0.702140093,0.809399128,0,0,1,0.702140093,0.809399128,0,0,1
+Name one airport that offers inter-terminal transportation.,Mexico City International Airport,0.604268253,0.464700937,0,0,1,0.645967066,0.609144211,1,0.125,1
+What is generally agreed to be the world's oldest continually operating airfield?,College Park Airport,0.757795095,0.650744438,0,0,1,-0.029511174,-0.031413134,0,0,1
+In what year was the College Park Airport established?,1909,0.602414846,0.768803,0,0,1,0.225688234,0.190899193,0,0,1
+Who established the College Park Airport?,Wilbur Wright,0.593141615,0.750823379,0,0,1,0.796901822,0.719883204,0,0,1
+How many passengers does the Minneapolis-Saint Paul International Airport serve each year?,"(35, 0, 0)",0.707423568,0.899049044,0,0,0,0.707423568,0.899049044,0,0,0
+In what year did Rome Ciampino Airport open?,1916,0.604483724,0.907914519,0,0,1,0.312348992,0.192159861,0,0,1
+"Following the war, why did some military airfields add civil facilities?",for handling passenger traffic,0.686887026,0.827450216,0,0,0,0.424558967,0.783835173,0,0,0
+Which airport near Paris was one of the first to add civil facilities for handling passenger traffic?,Le Bourget Airport,0.657141566,0.667626023,1,0.176470588,0,0.574316025,0.49483943,1,0.176470588,0
+What was the first airport to operate scheduled international commercial services?,Hounslow Heath Aerodrome,0.710561395,0.722358227,1,0.033333333,0,0.588460207,0.722358227,0,0,0
+When did the Hounslow Heath Aerodrome begin to operate scheduled international commercial services?,Aug-19,0.561862886,0.882570684,0,0,1,0.417354107,0.87698549,0,0,0
+What did airports use to permit night flying as well as landing heavier aircraft?,"a paved ""apron""",0.720445931,0.631114244,0,0,0,0.723081589,0.631723702,0,0,0
+When was the first lighting used on an airport?,latter part of the 1920s,0.669887185,0.820578635,1,0.111111111,1,0.285550803,0.24242565,1,0.166666667,1
+When did approach lighting come into use?,1930s,0.624404669,0.840668023,0,0,1,0.683822274,0.840668023,0,0,0
+What indicated the proper direction and angle of descent?,approach lighting,0.730267882,0.505738795,0,0,0,0.727677941,0.483802289,0,0,0
+When was the slope-line approach system introduced?,1940s,0.480117381,0.943326354,0,0,0,0.177316397,0.125771433,0,0,0
+"What consisted of two rows of lights that formed a funnel, indicating an aircraft's position on the glidescope?",slope-line approach system,0.631536067,0.924435377,1,0.142857143,0,0.631536067,0.924435377,1,0.142857143,0
+Why did airport construction boom during the 1960s?,increase in jet aircraft traffic,0.618812501,0.725720048,1,0.076923077,0,0.866724968,0.862089217,1,0.2,0
+How far were runways extended out?,"9,800 ft",0.482304811,0.802191794,0,0,0,0.354120404,0.378898829,0,0,0
+What was constructed out of reinforced concrete?,The fields,0.505064011,0.61943984,0,0,0,0.505064011,0.61943984,0,0,0
+When were jet bridge systems introduced to modern airport terminals?,early 1960s,0.778359652,0.913794875,0,0,0,0.252329588,0.212915778,0,0,0
+What does ATC stand for?,air traffic control,0.585196018,0.866395235,1,0.333333333,0,0.585196018,0.866395235,1,0.333333333,0
+ATC responsibilities are usually divided into how many main areas?,two,0.574888468,0.854230046,1,0.111111111,0,0.574888468,0.854230046,1,0.111111111,0
+What is responsible for directing all ground traffic in designated areas?,Ground Control,0.559260607,0.542187333,0,0,1,0.559260607,0.542187333,0,0,1
+Who instructs vehicles on which taxiways to use?,Ground Control,0.539503217,0.754904032,0,0,1,0.409272134,0.241161272,0,0,1
+"When a plane is ready to take off, who takes over the direction of a plane?",Tower Control,0.488298774,0.750782013,0,0,0,0.488298774,0.750782013,0,0,0
+When is control turned back over to ground control?,After a plane has landed,0.706460834,0.535147429,0,0,0,0.603290081,0.592318237,0,0,0
+Who controls aircraft on the runway?,Tower Control,0.694102168,0.757452607,0,0,0,0.455148011,0.465896547,0,0,0
+Who controls aircraft in the controlled airspace immediately surrounding the airport?,Tower Control,0.755290031,0.814876676,0,0,0,0.755290031,0.814876676,0,0,0
+Tower controllers use what to locate an aircraft's position in three-dimensional space?,radar,0.222191557,0.216348886,1,0.333333333,0,0.412189096,0.216348886,1,0.2,0
+Why should aircraft that is only passing through an airspace contact Tower Control?,in order to be sure that they remain clear of other traffic,0.682781696,0.877690732,1,0.333333333,0,0.683369875,0.87644428,1,0.333333333,0
+What is a traffic pattern often called outside of the U.S.?,traffic pattern,0.440951467,0.452693462,1,0.071428571,0,0.440951467,0.452693462,1,0.071428571,0
+What assures smooth traffic flow between departing and arriving aircraft?,traffic pattern,0.699732661,0.450324833,0,0,0,0.699732661,0.450324833,0,0,0
+"Due to this, the overall traffic planning tend to assure landing queues are avoided.",so-called SLOT-times,0.684937119,0.819947243,0,0,0,0.598808289,0.943495214,0,0,0
+Traffic patterns are usually flown at what altitude above ground level?,"800 or 1,000 ft",0.625045419,0.802817702,0,0,0.5,0.9051826,0.809463143,0,0,0.5
+What does AGL stand for?,above ground level,0.336887836,0.832228661,1,0.076923077,0,0.346120507,0.847118318,1,0.076923077,0
+Are standard traffic patterns right-handed or left-handed?,left-handed,0.70319277,0.935974598,0,0,0,0.759211838,0.830531001,0,0,0
+What is one of the main reasons pilots sit on the left side of the airplane?,Standard traffic patterns are left-handed,0.706143975,0.891267598,0,0,0,0.822190762,0.881380022,0,0,0
+"At an extremely large airport, what is in place but not usually used?",a circuit,0.638611078,0.682841301,0,0,0,0.084257171,0.068431221,0,0,0
+What is the frequency called that is used by departing aircraft for the purpose of requesting approach clearance?,Clearance Delivery,0.565841734,0.83247447,0,0,0,0.49486801,0.804087996,0,0,0
+Which aircraft request approach clearance while they are still hours away from the airport?,commercial with long routes,0.556117773,0.925812304,1,0.333333333,0,0.835333884,0.807550669,1,0.25,0
+What helps pilots fly the approach for landing?,visual approach slope indicator,0.359062165,0.657462955,0,0,0,0.566240847,0.242361769,0,0,0
+What does VASI stand for?,visual approach slope indicator,0.425620317,0.77535665,1,0.111111111,0,0.430974901,0.799382269,1,0.111111111,0
+What does VOR stand for?,VHF omnidirectional range,0.642331779,0.823504567,1,0.111111111,1,0.803107858,0.825910628,1,0.25,0
+What helps pilots find the direction to the airport?,VHF omnidirectional range,0.608532906,0.79133302,0,0,0,0.608532906,0.79133302,0,0,0
+"What instruments do pilots use to find the runway and fly the correct approach, even if they cannot see the ground?",instrument landing system,0.665640056,0.748850226,0,0,0,0.650422573,0.618617654,0,0,0
+"On runways, what indicate the beginning of the runway for landing?",green lights,0.738891959,0.631350875,0,0,0,0.738891959,0.631350875,0,0,0
+"On runways, what indicate the end of the runway?",red lights,0.699277878,0.618458211,0,0,0,0.699277878,0.618458211,0,0,0
+What indicates the edge of a runway?,white lights,0.713445306,0.700339317,0,0,0,0.713445306,0.700339317,0,0,0
+What may low-traffic airports use to save electricity and staffing costs?,pilot controlled lighting,0.558512688,0.725317836,0,0,0,0.641657829,0.635091603,0,0,0
+What does ALS stand for?,approach lighting system,0.402467996,0.868906498,0,0,0,0.402467996,0.868906498,0,0,0
+What includes debris and nesting birds?,Hazards to aircraft,0.500767231,0.66173327,0,0,0,0.521143675,0.714994967,0,0,0
+What is one part of runway maintenance that helps maintain friction levels?,airfield rubber removal,0.587316871,0.648267627,0,0,0,0.388441801,0.294984072,0,0,0
+"In adverse weather conditions, what can be used to improve traction on the landing strip?",ice and snow clearing equipment,0.623850346,0.747830987,0,0,0,0.617321014,0.777299166,0,0,0
+What pulls the aircraft to one of the airbridges?,tow tractor,0.58540678,0.76836133,0,0,0,0.716877341,0.560265779,0,0,0
+What keeps the electricity running in the plane when it stands at the terminal?,ground power unit,0.745218873,0.848067462,0,0,0,0.639615178,0.498727769,0,0,0
+The passengers disembark using what?,airbridge,0.570435762,0.76999712,0,0,0,0.569435596,0.746672332,0,0,0
+What can give the ground crew more clearance after the aircraft lands?,Mobile stairs,0.534546256,0.809254229,0,0,0,0.544471323,0.805343986,0,0,0
+How long should it take for an aircraft to be off the airport and in the air?,90 minutes,0.220884293,0.341796726,0,0,1,0.463078022,0.341796726,0,0,1
+An airfield is also referred to as what?,airbase,0.756021738,0.773549557,0,0,0,0.756021738,0.773549557,0,0,0
+What provides basing and support of military aircraft?,airbase,0.662158906,0.814238191,0,0,0,0.674842834,0.804126143,0,0,0
+Where is RAF Brize Norton located?,the UK,0.43342033,0.935101211,1,0.058823529,1,0.851887643,0.935101211,1,0.111111111,1
+Where is Bardufoss Air Station located?,Norway,0.505970418,0.672508776,0,0,1,0.506704211,0.676086485,0,0,1
+Where is Pune Airport located?,India,0.561139703,0.822148085,1,0.045454545,1,0.692210972,0.9493559,1,0.1,1
+What is the title of the film where a man becomes permanently grounded in an airport terminal?,The Terminal,0.074995957,0.268456638,0,0,1,0.074995957,0.268456638,0,0,1
+When was the movie Airport made?,1970,0.621104717,0.851605296,1,0.0625,1,0.621104717,0.851605296,1,0.0625,1
+When was the movie Final Destination released?,2000,0.36732918,0.867870033,1,0.066666667,1,0.351534009,0.861259222,1,0.066666667,1
+"Landside, where can filming take place?",all public areas,0.677305341,0.865308285,0,0,0,0.677305341,0.865308285,0,0,0
+What are the only airside locations where filming is allowed?,Departure Lounge and some outside areas,0.72879982,0.894678473,0,0,0,0.778925776,0.831123471,0,0,0
+"What can not be undertaken n Security, at Immigration/Customs or in Baggage Reclaim?",Filming,0.532927275,0.7445243,0,0,0,0.532927275,0.7445243,0,0,0
+,,0.537656976,0.655536915,0.455469275,0.040199784,0.338589212,0.529185355,0.603301282,0.369743134,0.049472243,0.296818811
