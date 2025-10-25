@@ -1,0 +1,4 @@
+﻿System,Faithfulness (avg),Answer Correctness (avg),Context Relevance (avg),Conciseness/Completeness (avg),Overall
+Traditional RAG,2.208,2.617,2.925,2.508,2.565
+Modified RAG,3.033,2.608,3.4,2.917,2.99
+MultiVector RAG,1.925,2.158,2.5,2.267,2.212
